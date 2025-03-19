@@ -1,0 +1,12 @@
+nucleophilic addition elimination in the reaction between acyl chloride and water this page give you the fact and a simple uncluttered mechanism for the nucleophilic addition elimination reaction between acyl chloride acid chloride and water
+if you want the mechanism explained to you in detail there is a link at the bottom of the page
+ethanoyl chloride is taken a a typical acyl chloride
+any other acyl chloride will behave in the same way
+simply replace the ch3 group in what follows by anything else you want
+the fact ethanoyl chloride reacts instantly with cold water
+there is a very exothermic reaction in which a steamy acidic gas is given off hydrogen chloride and ethanoic acid is formed
+the mechanism the first stage the addition stage of the reaction involves a nucleophilic attack on the fairly positive carbon atom by one of the lone pair on the oxygen of a water molecule
+this is to avoid cluttering an already complicated diagram with thing that are relevant
+the second stage the elimination stage happens in two step
+in the first the double bond reform and a chloride ion is pushed off
+that is followed by removal of a hydrogen ion by the chloride ion to give ethanoic acid and hydrogen chloride

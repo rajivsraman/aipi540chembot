@@ -1,0 +1,40 @@
+bonding in carbonyl compound important
+do try to read this unless you are sure that you fully understand the orbital view of the bonding in methane and the bonding in ethene
+you may also find it useful to read the article on orbitals if you are sure about simple orbital theory
+the carbonyl group the simple view of the bonding in carbon oxygen double bond where the double bond occurs in organic compound it is called a carbonyl group
+the simplest compound containing this group is methanal
+we are going to look at the bonding in methanal but it would equally apply to any other compound containing
+the interesting thing is the nature of the double bond not what it attached to
+hcho
+if you wrote it a hcoh it look a if it contains an group and it doe
+methanal is an aldehyde
+all aldehyde contain the cho group
+naming methanal meth count 1 carbon atom an mean no al say that it is an aldehyde and so contains cho
+an orbital view of the bonding in carbon oxygen double bond the carbon atom just a in ethene or benzene the carbon atom is joined to three other atom
+the carbon electron rearrange themselves and promotion and hybridisation give sp2 hybrid orbitals
+promotion give hybridisation of the 2 orbital and two of the 2p orbitals mean that the carbon atom now look like the diagram on the right
+three sp2 hybrid orbitals are formed and these arrange themselves a far apart in space a they can at to each other
+the remaining p orbital is at right angle to them
+this is exactly the same a in ethene or in benzene
+important
+if this is really clear to you you must go and read the article about the bonding in ethene
+the oxygen atom oxygen electronic structure is 1s22s22px22py12pz1
+the 1 electron are too deep inside the atom to be concerned with the bonding and so we ignore them from now on
+hybridisation occurs in the oxygen a well
+it is easier to see this using
+this time two of the sp2 hybrid orbitals contain lone pair of electron
+help
+a lone pair of electron is a pair of electron at the bonding level which is being used to bond on to another atom
+the carbon atom and oxygen atom then bond in much the same way a the two carbon do in ethene
+in the next diagram we are assuming that the carbon will also bond to two hydrogen to make methanal but it could equally well bond to anything else
+overlap between the atomic orbitals that are pointing towards each other produce sigma bond
+notice that the p orbitals are overlapping sideways
+this sideways overlap produce a pi bond
+so just like is made up of a sigma bond and a pi bond
+doe that mean that the bonding is exactly the same a in ethene
+no
+the distribution of electron in the pi bond is heavily distorted towards the oxygen end of the bond because oxygen is much more electronegative than carbon
+help
+you can read about the origin of electronegativity and it effect in organic compound in a separate article
+this distortion in the pi bond cause major difference in the reaction of compound containing double bond like methanal compared with compound containing double bond like ethene
+note you can read about addition reaction or reaction of carbonyl compound elswhere on this site

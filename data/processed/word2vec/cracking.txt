@@ -1,0 +1,48 @@
+cracking alkane this page describes what cracking is and the difference between catalytic cracking thermal cracking and steam cracking used in the petrochemical industry
+cracking what is cracking
+cracking is the name given to breaking up large hydrocarbon molecule into smaller and more useful bit
+this is achieved by using high pressure and temperature without a catalyst or lower temperature and pressure in the presence of a catalyst
+the source of the large hydrocarbon molecule is often the naphtha fraction or the gas oil fraction from the fractional distillation of crude oil petroleum
+these fraction are obtained from the distillation process a liquid but are before cracking
+there is any single unique reaction happening in the cracker
+the hydrocarbon molecule are broken up in a fairly random way to produce mixture of smaller hydrocarbon some of which have double bond
+one possible reaction involving the hydrocarbon c15h32 might be or showing more clearly what happens to the various atom and bond this is only one way in which this particular molecule might break up
+the ethene and propene are important material for making plastic or producing other organic chemical
+the octane is one of the molecule found in petrol gasoline
+catalytic cracking modern cracking us zeolite a the catalyst
+these are complex aluminosilicates and are large lattice of aluminium silicon and oxygen atom carrying a negative charge
+they are of course associated with positive ion such a sodium ion
+you may have come across a zeolite if you know about ion exchange resin used in water softener
+the alkane is brought into contact with the catalyst at a temperature of about and moderately low pressure
+the zeolite used in catalytic cracking are chosen to give high percentage of hydrocarbon with between 5 and 10 carbon atom particularly useful for petrol gasoline
+it also produce high proportion of branched alkane and aromatic hydrocarbon like benzene
+for uk a level and equivalent purpose you are expected to know how the catalyst work but you may be expected to know that it involves an ionic intermediate
+if you are studying a syllabus and have got one follow this link
+on your browser to return quickly to this page
+the zeolite catalyst ha site which can remove a hydrogen from an alkane together with the two electron which bound it to the carbon
+that leaf the carbon atom with a positive charge
+ion like this are called carbonium ion or carbocations
+reorganisation of these lead to the various product of the reaction
+it will lead you to information on reforming and isomerisation a well a a repeat of what you have just read about catalytic cracking
+on your browser if you want to return quickly to this page
+thermal cracking in thermal cracking high temperature typically in the range of to and pressure up to about 70 atmosphere are used to break the large hydrocarbon into smaller one
+thermal cracking give mixture of product containing high proportion of hydrocarbon with double bond alkene
+this is a gross oversimplification and is written to satisfy the need of one of the uk a level exam board aqa
+in fact there are several version of thermal cracking designed to produce different mixture of product
+these use completely different set of condition
+if you need to know about thermal cracking in detail a google search on thermal cracking will throw up lot of useful lead
+be careful to go to industry or similarly reliable source
+thermal cracking doe go via ionic intermediate like catalytic cracking
+instead bond are broken so that each carbon atom end up with a single electron
+in other word free radical are formed
+reaction of the free radical lead to the various product
+steam cracking steam cracking is useful because it produce a high proportion of alkene in the cracked mixture
+it us the naphtha or sometimes gas oil fraction a the feedstock a well a more simple hydrocarbon like ethane propane or butane
+these are vaporised and mixed with steam and passed through a reactor heated to about 800
+the pressure of the mixture is around 1 atmosphere
+the gas flow is very very fast so that the mixture only remains in the reactor for less than a second
+this is to prevent the hydrocarbon cracking to produce carbon
+the steam play no chemical part in the process serving mainly to dilute the organic feedstock
+this help to prevent the formation of carbon
+essential chemical industry
+you will be reading that out of interest not because you need to know it all

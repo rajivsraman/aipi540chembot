@@ -1,0 +1,53 @@
+bonding in methane and ethane if you are happy with describing electron arrangement in s and p notation and with the shape of s and p orbitals you really should read about orbitals
+on your browser to return quickly to this point
+methane ch4 the simple view of the bonding in methane you will be familiar with drawing methane using dot and cross diagram but it is worth looking at it structure a bit more closely
+there is a serious between this structure and the modern electronic structure of carbon 1s22s22px12py1
+the modern structure show that there are only 2 unpaired electron to share with hydrogen instead of the 4 which the simple view requires
+you can see this more readily using the notation
+only the electron are shown
+the 1s2 electron are too deep inside the atom to be involved in bonding
+the only electron directly available for sharing are the 2p electron
+why then is methane ch2
+promotion of an electron when bond are formed energy is released and the system becomes more stable
+if carbon form 4 bond rather than 2 twice a much energy is released and so the resulting molecule becomes even more stable
+there is only a small energy gap between the 2 and 2p orbitals and so it pay the carbon to provide a small amount of energy to promote an electron from the 2 to the empty 2p to give 4 unpaired electron
+the extra energy released when the bond form more than compensates for the initial input
+the carbon atom is now said to be in an excited state
+the reason for this is actually fairly complicated well beyond the level we are working at
+just get in the habit of writing it like this because it make the diagram look tidy
+now that we got 4 unpaired electron ready for bonding another problem arises
+in methane all the bond are identical but our electron are in two different kind of orbitals
+you are going to get four identical bond unless you start from four identical orbitals
+hybridisation the electron rearrange themselves again in a process called hybridisation
+this reorganises the electron into four identical hybrid orbitals called sp3 hybrid because they are made from one s orbital and three p orbitals
+you should read sp3 a s p three not a s p cubed
+sp3 hybrid orbitals look a bit like half a p orbital and they arrange themselves in space so that they are a far apart a possible
+you can picture the nucleus a being at the centre of a tetrahedron a triangularly based pyramid with the orbitals pointing to the corner
+for clarity the nucleus is drawn far larger than it really is
+what happens when the bond are formed
+remember that hydrogen electron is in a 1 orbital a spherically symmetric region of space surrounding the nucleus where there is some fixed chance say 95 of finding the electron
+when a covalent bond is formed the atomic orbitals the orbitals in the individual atom merge to produce a new molecular orbital which contains the electron pair which creates the bond
+four molecular orbitals are formed looking rather like the original sp3 hybrid but with a hydrogen nucleus embedded in each lobe
+each orbital hold the 2 electron that we previously drawn a a dot and a cross
+the principle involved promotion of electron if necessary then hybridisation followed by the formation of molecular orbitals can be applied to any molecule
+the shape of methane when sp3 orbitals are formed they arrange themselves so that they are a far apart a possible
+that is a tetrahedral arrangement with an angle of
+nothing change in term of the shape when the hydrogen atom combine with the carbon and so the methane molecule is also tetrahedral with bond angle
+ethane c2h6 the formation of molecular orbitals in ethane ethane is particularly important in it own right but is included because it is a simple example of how a single bond is formed
+each carbon atom in the ethane promotes an electron and then form sp3 hybrid exactly a we described in methane
+so just before bonding the atom look like this the hydrogen bond with the two carbon to produce molecular orbitals just a they did with methane
+the two carbon atom bond by merging their remaining sp3 hybrid orbitals to make a new molecular orbital
+the bond formed by this overlap is called a sigma bond
+the bond between the carbon and hydrogen are also sigma bond
+in any sigma bond the most likely place to find the pair of electron is on a line between the two nucleus
+the shape of ethane around each carbon atom the shape is again determined by the way the sp3 orbitals are arranged around each carbon atom
+that is a tetrahedral arrangement with an angle of
+when the ethane molecule is put together the arrangement around each carbon atom is again tetrahedral with approximately bond angle
+why only approximately
+this time each carbon atom doe have four identical thing attached
+there will be a small amount of distortion because of the attachment of 3 hydrogen and 1 carbon rather than 4 hydrogen
+free rotation about the single bond the two end of this molecule can spin quite freely about the sigma bond so that there are in a sense an infinite number of possibility for the shape of an ethane molecule
+some possible shape are in each case the left hand ch3 group ha been kept in a constant position so that you can see the effect of spinning the right hand one
+other alkane all other alkane will be bonded in the same way the carbon atom will each promote an electron and then hybridise to give sp3 hybrid orbitals
+the carbon atom will join to each other by forming sigma bond by the overlap of their sp3 hybrid orbitals
+hydrogen atom will join on wherever they are needed by overlapping their 1s1 orbitals with sp3 hybrid orbitals on the carbon atom

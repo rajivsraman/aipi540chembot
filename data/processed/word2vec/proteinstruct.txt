@@ -1,0 +1,128 @@
+the structure of protein this page explains how amino acid combine to make protein and what is meant by the primary secondary and tertiary structure of protein
+quaternary structure is covered
+it only applies to protein consisting of more than one polypeptide chain
+there is a mention of quaternary structure on the ib chemistry syllabus but on no other syllabus at this level
+i do know exactly what depth the ib syllabus want for this which is why i have included it
+i suspect what is wanted is fairly trivial
+ib student should ask the advice of their teacher or lecturer
+the primary structure of protein drawing the amino acid in chemistry if you were to draw the structure of a general acid you would probably draw it like this however for drawing the structure of protein we usually twist it so that the r group stick out at the side
+it is much easier to see what is happening if you do that
+that mean that the two simplest amino acid glycine and alanine would be shown a peptide and polypeptide glycine and alanine can combine together with the elimination of a molecule of water to produce a dipeptide
+it is possible for this to happen in one of two different way so you might get two different dipeptides
+either or in each case the linkage shown in blue in the structure of the dipeptide is known a a peptide link
+in chemistry this would also be known a an amide link but since we are now in the realm of biochemistry and biology we use their term
+if you joined three amino acid together you would get a tripeptide
+if you joined lot and lot together a in a protein chain you get a polypeptide
+a protein chain will have somewhere in the range of 50 to 2000 amino acid residue
+you have to use this term because strictly speaking a peptide chain is made up of amino acid
+when the amino acid combine together a water molecule is lost
+the peptide chain is made up from what is left after the water is lost in other word is made up of amino acid residue
+by convention when you are drawing peptide chain the group which ha been converted into a peptide link is written at the end
+the unchanged group is written at the end
+the end of the peptide chain with the group is known a the and the end with the group is the
+a protein chain with the on the left will therefore look like this the r group come from the 20 amino acid which occur in protein
+the peptide chain is known a the backbone and the r group are known a side chain
+in this case the hydrogen on the nitrogen nearest the r group is missing and the r group loop around and is attached to that nitrogen a well a to the carbon atom in the chain
+i mention this for the sake of completeness not because you would be expected to know about it in chemistry at this introductory level
+the primary structure of protein now there a problem
+the term primary structure is used in two different way
+at it simplest the term is used to describe the order of the amino acid joined together to make the protein
+in other word if you replaced the r group in the last diagram by real group you would have the primary structure of a particular protein
+this primary structure is usually shown using abbreviation for the amino acid residue
+these abbreviation commonly consist of three letter or one letter
+using three letter abbreviation a bit of a protein chain might be represented by for example if you look carefully you will spot the abbreviation for glycine gly and alanine ala amongst the others
+if you followed the protein chain all the way to it end you would find an amino acid residue with an unattached group
+the is always written on the left of a diagram for a protein primary structure whether you draw it in full or use these abbreviation
+the wider definition of primary structure includes all the feature of a protein which are a result of covalent bond
+obviously all the peptide link are made of covalent bond so that is a problem
+but there is an additional feature in protein which is also covalently bound
+it involves the amino acid cysteine
+if two cysteine side chain end up next to each other because of folding in the peptide chain they can react to form a sulphur bridge
+this is another covalent link and so some people count it a a part of the primary structure of the protein
+because of the way sulphur bridge affect the way the protein fold other people count this a a part of the tertiary structure see below
+this is obviously a potential source of confusion
+important you need to know where your particular examiner are going to include sulphur bridge a a part of the primary structure or a a part of the tertiary structure
+you need to check your current syllabus and past paper
+if you are studying a syllabus and have got these follow this link to find out how to get hold of them
+the secondary structure of protein within the long protein chain there are region in which the chain are organised into regular structure known a and sheet
+these are the secondary structure in protein
+these secondary structure are held together by hydrogen bond
+these form a shown in the diagram between one of the lone pair on an oxygen atom and the hydrogen attached to a nitrogen atom although the hydrogen bond are always between and group the exact pattern of them is different in an and a sheet
+when you get to them below take some time to make sure you see how the two different arrangement work
+important if you are happy about hydrogen bonding and are unsure about what this diagram mean follow this link before you go on
+what follows is difficult enough to visualise anyway without having to worry about what hydrogen bond are a well
+you must also find out exactly how much detail you need to know about this next bit
+it may well be that all you need is to have heard of an and know that it is held together by hydrogen bond between the and group
+once again you need to check your syllabus and past paper particularly mark scheme for the past paper
+if you follow either of these link on your browser to return to this page
+the in an the protein chain is coiled like a spring
+the alpha mean that if you look down the length of the spring the coiling is happening in a clockwise direction a it go away from you
+a bit of computer lead would do
+in truth if you are a chemistry student you are very unlikely to need to know this
+if protein secondary structure is on your syllabus your examiner are most likely only to want you to know how the structure are held together by hydrogen bonding
+check past paper to be sure
+if you are reading this a a biochemistry or biology student and have been given some other way of recognising an stick to whatever method you have been given
+the next diagram show how the is held together by hydrogen bond
+this is a very simplified diagram missing out lot of atom
+we talk it through in some detail after you have had a look at it
+what wrong with the diagram
+two thing first of all only the atom on the part of the coil facing you are shown
+if you try to show all the atom the whole thing get so complicated that it is virtually impossible to understand what is going on
+secondly i have made no attempt whatsoever to get the bond angle right
+i have deliberately drawn all of the bond in the backbone of the chain a if they lie along the spiral
+in truth they stick out all over the place
+again if you draw it properly it is virtually impossible to see the spiral
+so what do you need to notice
+notice that all the r group are sticking out sideways from the main helix
+notice the regular arrangement of the hydrogen bond
+all the group are pointing upwards and all the group pointing downwards
+each of them is involved in a hydrogen bond
+and finally although you ca see it from this incomplete diagram each complete turn of the spiral ha approximately amino acid residue in it
+if you had a whole number of amino acid residue per turn each group would have an identical group underneath it on the turn below
+hydrogen bonding ca happen under those circumstance
+each turn ha 3 complete amino acid residue and two atom from the next one
+that mean that each turn is offset from the one above and below such that the and group are brought into line with each other
+sheet in a sheet the chain are folded so that they lie alongside each other
+the next diagram show what is known a an sheet
+all that mean is that chain are heading in opposite direction
+given the way this particular folding happens that would seem to be inevitable
+it is in fact inevitable
+it is possible to have some much more complicated folding so that chain are actually heading in the same direction
+we are getting well beyond the demand of uk a level chemistry and it equivalent now
+the folded chain are again held together by hydrogen bond involving exactly the same group a in the
+that wa an arbitrary choice which produced a diagram which fitted nicely on the screen
+the tertiary structure of protein what is tertiary structure
+the tertiary structure of a protein is a description of the way the whole chain including the secondary structure fold itself into it final shape
+this is often simplified into model like the following one for the enzyme dihydrofolate reductase
+enzyme are of course based on protein
+rcsb protein data bank
+if you want to find more information about dihydrofolate reductase their reference number for it is 7dfr
+there is nothing particularly special about this enzyme in term of structure
+i chose it because it contained only a single protein chain and had example of both type of secondary structure in it
+the model show the in the secondary structure a coil of ribbon
+the sheet are shown a flat bit of ribbon ending in an arrow head
+the bit of the protein chain which are just random coil and loop are shown a bit of string
+the colour coding in the model help you to track your way around the structure going through the spectrum from dark blue to end up at red
+you will also notice that this particular model ha two other molecule locked into it shown a ordinary molecular model
+these are the two molecule whose reaction this enzyme catalysis
+what hold a protein into it tertiary structure
+the tertiary structure of a protein is held together by interaction between the the side chain the r group
+there are several way this can happen
+ionic interaction some amino acid such a aspartic acid and glutamic acid contain an extra group
+some amino acid such a lysine contain an extra group
+you can get a transfer of a hydrogen ion from the to the group to form zwitterions just a in simple amino acid
+you could obviously get an ionic bond between the negative and the positive group if the chain folded in such a way that they were close to each other
+hydrogen bond notice that we are now talking about hydrogen bond between side group not between group actually in the backbone of the chain
+lot of amino acid contain group in the side chain which have a hydrogen atom attached to either an oxygen or a nitrogen atom
+this is a classic situation where hydrogen bonding can occur
+for example the amino acid serine contains an group in the side chain
+you could have a hydrogen bond set up between two serine residue in different part of a folded chain
+you could easily imagine similar hydrogen bonding involving group or group or group or group in various combination although you would have to be careful to remember that a group and an group would form a zwitterion and produce stronger ionic bonding instead of hydrogen bond
+van der waals dispersion force several amino acid have quite large hydrocarbon group in their side chain
+a few example are shown below
+temporary fluctuating dipole in one of these group could induce opposite dipole in another group on a nearby folded chain
+the dispersion force set up would be enough to hold the folded structure together
+important if you are happy about van der waals dispersion force you should follow this link
+on your browser to return to this page
+sulphur bridge sulphur bridge which form between two cysteine residue have already been discussed under primary structure
+wherever you choose to place them doe affect how they are formed

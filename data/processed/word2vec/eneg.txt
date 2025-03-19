@@ -1,0 +1,62 @@
+electronegativity this page deal with electronegativity in an organic chemistry context
+if you want a wider view of electronegativity there is a link at the bottom of the page
+what is electronegativity
+electronegativity is a measure of the tendency of an atom to attract a bonding pair of electron
+the pauling scale is the most commonly used
+fluorine the most electronegative element is given a value of and value range down to caesium and francium which are the least electronegative at
+what happens if two atom of equal electronegativity bond together
+the most obvious example of this is the bond between two carbon atom
+both atom will attract the bonding pair to exactly the same extent
+that mean that on average the electron pair will be found half way between the two nucleus and you could draw a picture of the bond like this it is important to realise that this is an average picture
+the electron are actually in a sigma orbital and are moving constantly within that orbital
+help
+a sigma orbital is a molecular orbital formed by overlap between two atomic orbitals
+if you are happy about this read the article on orbitals and the bonding in methane and ethane
+the bond fluorine is much more electronegative than carbon
+the actual value on the pauling scale are that mean that fluorine attracts the bonding pair much more strongly than carbon doe
+the bond on average will look like this why is fluorine more electronegative than carbon
+a simple diagram of a bond is perfectly adequate to explain it
+the bonding pair is in the second energy level of both carbon and fluorine so in the absence of any other effect the distance of the pair from both nucleus would be the same
+the electron pair is shielded from the full force of both nucleus by the 1 electron again there is nothing to pull it closer to one atom than the other
+but the fluorine nucleus ha 9 proton whereas the carbon nucleus ha only 6
+allowing for the shielding effect of the 1 electron the bonding pair feel a net pull of about from the carbon but about from the fluorine
+it is this extra nuclear charge which pull the bonding pair on average closer to the fluorine than the carbon
+help
+you have to imagine what the bonding pair see if it look in towards the nucleus
+in the carbon case it see 6 positive proton and 2 negative electron
+that mean that there will be a net pull from the carbon of about
+the shielding would actually be quite a high a because the 1 electron spend some of their time on the far side of the carbon nucleus and so are always between the bonding pair and the nucleus
+incidentally thinking about electron looking towards the nucleus may be helpful in picturing what is going on but avoid using term like this in exam
+the bond the electronegativity are the bonding pair of electron will be dragged towards the chlorine but not a much a in the fluorine case
+chlorine is a electronegative a fluorine
+why is chlorine a electronegative a fluorine
+chlorine is a bigger atom than fluorine
+fluorine 1s22s22px22py22pz1 chlorine 1s22s22px22py22pz23s23px23py23pz1 help
+if you are happy about this read the article on orbitals
+on your browser to get back to here again
+in the chlorine case the bonding pair will be shielded by all the and electron
+the 17 proton on the nucleus will be shielded by a total of 10 electron giving a net pull from the chlorine of about
+that is the same a the pull from the fluorine but with chlorine the bonding pair start off further away from the nucleus because it is in the
+since it is further away it feel the pull from the nucleus less strongly
+bond polarity and inductive effect polar bond think about the bond again
+because the bonding pair is pulled towards the fluorine end of the bond that end is left rather more negative than it would otherwise be
+the carbon end is left rather short of electron and so becomes slightly positive
+the symbol and mean slightly positive and slightly negative
+you read a delta plus or delta positive
+we describe a bond having one end slightly positive and the other end slightly negative a being polar
+inductive effect an atom like fluorine which can pull the bonding pair away from the atom it is attached to is said to have a negative inductive effect
+most atom that you will come across have a negative inductive effect when they are attached to a carbon atom because they are mostly more electronegative than carbon
+you will come across some group of atom which have a slight positive inductive effect they push electron towards the carbon they are attached to making it slightly negative
+inductive effect are sometimes given symbol a negative inductive effect and a positive inductive effect
+provided that you understand what happens when electronegative atom like fluorine or chlorine are attached to carbon atom in term of the polarity of the bond that really all you need for most purpose
+some important example of polar bond hydrogen bromide and other hydrogen halide bromine and the other halogen are all more electronegative than hydrogen and so all the hydrogen halide have polar bond with the hydrogen end slightly positive and the halogen end slightly negative
+help
+halogen a member of group vii of the periodic table fluorine chlorine bromine and iodine
+halide a compound of one of these
+hydrogen chloride hydrogen bromide etc
+the polarity of these molecule is important in their reaction with alkene
+the bond in halogenoalkanes bromine is more electronegative than carbon and so the bond is polarised in the way that we have already described with and
+the polarity of the bond is important in the reaction of the halogenoalkanes
+the double bond an orbital model of the bond in methanal hcho look like this the very electronegative oxygen atom pull both bonding pair towards itself in the sigma bond and the pi bond
+that leaf the oxygen fairly negative and the carbon fairly positive
+note you can read about addition reaction or reaction of compound containing double bond elswhere on this site

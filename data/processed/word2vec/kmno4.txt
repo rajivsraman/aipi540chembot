@@ -1,0 +1,94 @@
+alkene and potassium manganate vii this page look at the reaction of the double bond in alkene such a ethene with potassium manganate vii solution potassium permanganate solution
+oxidation of alkene with cold dilute potassium manganate vii solution experimental detail alkene react with potassium manganate vii solution in the cold
+the colour change depends on whether the potassium manganate vii is used under acidic or alkaline condition
+if the potassium manganate vii solution is acidified with dilute sulphuric acid the purple solution becomes colourless
+if the potassium manganate vii solution is made slightly alkaline often by adding sodium carbonate solution the purple solution first becomes dark green and then produce a dark brown precipitate
+chemistry of the reaction we look at the reaction with ethene
+other alkene react in just the same way
+manganate vii ion are a strong oxidising agent and in the first instance oxidise ethene to old name ethylene glycol
+looking at the equation purely from the point of view of the organic reaction oxygen written in square bracket is taken to mean oxygen from an oxidising agent
+the reason for this is that a more normal equation tends to obscure the organic change in a mass of other detail a you will find below
+the full equation are given below although you probably wo need them
+the full equation depends on the condition
+under acidic condition the manganate vii ion are reduced to manganese ii ion
+history file or go menu on your browser to return to this page later
+under alkaline condition the manganate vii ion are first reduced to green manganate vi ion
+but eventually you get dark brown solid manganese iv oxide manganese dioxide formed
+the overall equation for the formation of this from the manganate vii ion is this last reaction is also the one you would get if the reaction wa done under neutral condition
+you will notice that there are neither hydrogen ion nor hydroxide ion on the side of the equation
+where are the hydroxide ion in this
+carbonate ion react with water to some extent to produce hydrogencarbonate ion and hydroxide ion
+it is the presence of these hydroxide ion that give sodium carbonate solution it ph in the 10 11 region
+using the reaction to test for double bond if an organic compound reacts with dilute alkaline potassium manganate vii solution in the cold to give a green solution followed by a dark brown precipitate then it may contain a double bond
+but equally it could be any one of a large number of other compound all of which can be oxidised by manganate vii ion under alkaline condition
+the situation with acidified potassium manganate vii solution is even worse because it ha a tendency to break bond
+it reacts destructively with a large number of organic compound and is rarely used in organic chemistry
+you could use alkaline potassium manganate vii solution if for example all you had to do wa to find out whether a hydrocarbon wa an alkane or an alkene in other word if there wa nothing else present which could be oxidised
+it is a useful test
+bromine water is far more clear cut
+oxidation of alkene with hot concentrated acidified potassium manganate vii solution this is where it get complicated
+check with your syllabus to see whether you need to know about it before you go any further
+this section wa written to cover a statement in the cambridge international cie a level syllabus
+the problem the diol such a which are the product of the reaction with cold dilute potassium manganate vii are themselves quite easily oxidised by manganate vii ion
+that mean that the reaction wo stop at this point unless the potassium manganate vii solution is very dilute very cold and preferably not under acidic condition
+if you are using hot concentrated acidified potassium manganate vii solution what you finally end up with depends on the arrangement of group around the double bond
+writing a structural formula to represent any alkene the formula below represents a general alkene
+in organic chemistry the symbol r is used to represent hydrocarbon group or hydrogen in a formula when you do want to talk about specific compound
+if you use the symbol more than once in a formula a here the various group are written a r1 r2 etc
+in this particular case the double bond is surrounded by four such group and these can be any combination of same or different so they could be 2 hydrogen a methyl and an ethyl or 1 hydrogen and 3 methyl or 1 hydrogen and 1 methyl and 1 ethyl and 1 propyl or any other combination you can think of
+in other word this formula represents every possible simple alkene the first stage of the extended oxidation the acidified potassium manganate vii solution oxidises the alkene by breaking the double bond and replacing it with two double bond
+the product are known a carbonyl compound because they contain the carbonyl group
+carbonyl compound can also react with potassium manganate vii but how they react depends on what is attached to the double bond
+so we need to work through all the possible combination
+warning the rest of this page is going to look quite difficult because it talk in some detail about compound you probably wo have studied yet
+it may be best just to go through this quickly for now and then come back to it later on after you have studied aldehyde and ketone
+what happens next
+if both attached r group in the product are alkyl group carbonyl compound which have two hydrocarbon group attached to the carbonyl group are called ketone
+ketone are that easy to oxidise and so there is no further action
+but see note in red below
+if the group attached either side of the original double bond were the same then you would end up with a single ketone
+if they were different then you would end up with a mixture of two
+for example in this case you would end up with two identical molecule called propanone
+on the other hand if one of the methyl group in the original molecule wa replaced by an ethyl group you would get a mixture of two different ketone propanone and butanone
+what would you get if there wa a methyl and an ethyl group on both side of the original double bond
+again you would get a single ketone formed in this case butanone
+if you are sure about this draw the structure and see
+important this last section is a gross for the purpose of the cie a level syllabus
+in practice ketone are oxidised by potassium manganate vii solution under these condition
+the reaction is untidy and result in breaking bond either side of the carbonyl group
+if you are doing cie then you will have to learn this a stated above
+if you are doing anything else you probably should be wasting your time reading this anyway
+potassium manganate vii is such a devastating oxidising agent that it is rarely used in organic chemistry
+check your syllabus
+if a product ha one hydrocarbon group and one hydrogen for example suppose the first stage of the reaction wa in this case the first product molecule ha a methyl group and a hydrogen attached to the carbonyl group
+this is a different sort of compound known a an aldehyde
+aldehyde are readily oxidised to give carboxylic acid containing the group
+so this time the reaction will go on a further step to give ethanoic acid ch3cooh
+the acid structure ha been turned around slightly to make it look more like the way we normally draw acid but the net effect is that an oxygen ha been slotted in between the carbon and hydrogen
+the overall effect of the potassium manganate vii on this kind of alkene is therefore obviously if there wa a hydrogen atom attached to both carbon at the end of the double bond you would get two carboxylic acid molecule formed which might be the same or different depending on whether the alkyl group were the same or different
+play around with this until you are happy about it
+draw a number of alkene all of which have a hydrogen attached at both end of the double bond
+vary the alkyl group sometimes the same on each end of the double bond sometimes different
+oxidise them to form the acid and see what you get
+if a product ha two hydrogen but no hydrocarbon group you might have expected that this would produce methanoic acid a in the equation but it doe
+that because methanoic acid is also easily oxidised by potassium manganate vii solution
+in fact it oxidises it all the way to carbon dioxide and water
+so the equation in a case like this might be for example the exact nature of the other product in this example propanone will vary depending on what wa attached to the carbon in the double bond
+if there were two hydrogen at both end of the double bond in other word if you had ethene then all you would get would be carbon dioxide and water
+summary think about both end of the double bond separately and then combine the result afterwards
+if there are two alkyl group at one end of the bond that part of the molecule will give a ketone
+if there is one alkyl group and one hydrogen at one end of the bond that part of the molecule will give a carboxylic acid
+if there are two hydrogen at one end of the bond that part of the molecule will give carbon dioxide and water
+what is the point of all this
+working back from the result help you to work out the structure of the alkene
+for example the alkene c4h8 ha three structural isomer work out which of these would give each of the following result if they were treated with hot concentrated potassium manganate vii solution
+the isomer above are not in the order a b and do read the answer in the green box until you have had a go at this
+isomer a give a ketone propanone and carbon dioxide
+isomer b give a carboxylic acid propanoic acid and carbon dioxide
+isomer c give a carboxylic acid ethanoic acid
+answer acid are produced when there is a hydrogen atom attached to at least one of the carbon in the double bond
+since in c there is only one product the alkene must be symmetrical around the double bond
+that
+if you have got two hydrogen at one end of the bond this will produce carbon dioxide
+a is because the other molecule is a ketone
+b must be because it produce carbon dioxide and an acid

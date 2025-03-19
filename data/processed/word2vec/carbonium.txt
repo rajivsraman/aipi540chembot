@@ -1,0 +1,85 @@
+carbocations or carbonium ion all carbocations previously known a carbonium ion carry a positive charge on a carbon atom
+the name tell you that a cation is a positive ion and the carbo bit refers to a carbon atom
+however there are important difference in the structure of various type of carbocations
+primary carbocations in a primary carbocation the carbon which carry the positive charge is only attached to one other alkyl group
+help
+an alkyl group is a group such a methyl ch3 or ethyl ch3ch2
+these are group containing chain of carbon atom which may be branched
+alkyl group are given the general symbol some example of primary carbocations include notice that it doe matter how complicated the attached alkyl group is
+all you are doing is counting the number of bond from the positive carbon to other carbon atom
+in all the above case there is only one such link
+using the symbol r for an alkyl group a primary carbocation would be written a in the box
+secondary carbocations in a secondary carbocation the carbon with the positive charge is attached to two other alkyl group which may be the same or different
+example a secondary carbocation ha the general formula shown in the box
+r and r represent alkyl group which may be the same or different
+tertiary carbocations in a tertiary carbocation the positive carbon atom is attached to three alkyl group which may be any combination of same or different
+a tertiary carbocation ha the general formula shown in the box
+r r and r are alkyl group and may be the same or different
+at the end of 2024 the royal society of chemistry rsc emailed uk exam board suggesting that the way this ha been taught traditionally by way of an inductive effect of alkyl group often described a an electron pushing effect can be shown to be wrong
+i going to give you the traditional version and the new approved version
+which should you use
+the answer to this is always use whatever your examiner want check your syllabus
+i know that aqa have said that until they publish a new syllabus sometime in the future they will accept either version
+it may well make sense to continue to use the traditional explanation until your syllabus change because there will be enough evidence in past paper for exactly what they want you to say
+take the advice of your teacher
+whichever approach you use the fact is that alkyl group are
+they make whatever they are attached to slightly more negative or slightly less positive
+so if you have a carbocation with one or more alkyl group attached to the carbon carrying the positive charge they will lower that charge
+the difference between the traditional and more accurate approach is trying to explain why that is
+the traditional approach the electron pushing effect of alkyl group you are probably familiar with the idea that bromine is more electronegative than hydrogen so that in a bond the electron are held closer to the bromine than the hydrogen
+a bromine atom attached to a carbon atom would have precisely the same effect the electron being pulled towards the bromine end of the bond
+the bromine ha a negative inductive effect
+help
+if you are familiar with all of this follow this link to read about electronegativity and bond polarity before you go any further
+on your browser to return to this page
+alkyl group do precisely the opposite and rather than draw electron towards themselves tend to push electron away
+there is a transfer of some negative charge towards to carbon with the positive charge on it
+this mean that the alkyl group becomes slightly positive and the carbon they are attached to becomes slightly negative
+the alkyl group ha a positive inductive effect
+this is sometimes shown a for example the arrow show the electron being pushed away from the ch3 group
+the plus sign on the end of it show that the ch3 group is becoming positive
+the symbol and simply reinforce that idea
+if this is what your syllabus want do bother with the next bit you will just get confused
+instead jump over it to the rest of the page by clicking here
+the more accurate approach hyperconjugation we look at a simple carbonium ion from the one in the diagram above
+hyperconjugation look at what is happening at the orbital level
+i want to concentrate on the positive carbon atom and one of the bond looking at the ion
+the sigma bond shown between the hydrogen and carbon is simply a pair of shared electron
+the empty orbital on the positive carbon is because the two electron originally in that orbital were removed by something else
+these ion only form a a stage of a reaction mechanism
+notice that the two orbitals shown are far off being parallel
+and remember that these diagram are shown in an exploded form
+the orbitals actually touch to an extent not enough to form a bond by sideways overlap but enough to have some temporary interaction
+why temporary
+because there is free rotation around a single bond the ch3 is constantly spinning around putting one after another bond in the right position to interact with the empty p orbital
+the hydrogen at the end of the sigma bond have a slight positive charge because on average the electron in the bond have moved slightly towards the positively charged carbon
+the positive nucleus are still there but their charge is no longer quite covered by the bond electron
+at the same time addition of some negative charge around the carbon is slightly cutting down it positive charge
+if there is more than one ch3 group attached to the positive carbon this same thing is happening to all of them leading to even more charge accumulating around the positive carbon
+be careful if you have a more complicated alkyl group like ethyl ch3ch2 bonded to the positive only the two hydrogen on the carbon directly attached to the positive carbon can get involved in this
+the others on the ch3 group are too far away
+i used the term hyperconjugation in the heading for this section and have mentioned it again
+in the whole of my teaching experience i have never used this term even once until now and it is very unlikely if you will meet it again at this level
+if you you are at the beginning of a course at the level and try to look up a definition of the word you will probably regret it
+just take it a a long word which relates to what we have been talking about in this section
+if you you are at the beginning of a course at the level and try to look up a definition of the word you will probably regret it
+just take it a a long word which relates to what we have been talking about in this section
+if you you are at the beginning of a course at the level and try to look up a definition of the word you will probably regret it
+just take it a a long word which relates to what we have been talking about in this section
+the importance of spreading charge around in making ion stable the general is that if a charge is very localised all concentrated on one atom the ion is much less stable than if the charge is spread out over several atom
+applying that to carbocations of various sort
+ch3 group a a whole and only one to represent all of the separate contribution from a particular ch3 group
+it just to simplify the diagram but also mean that this section can be used by people using the traditional approach a well
+you will see that the electron transfer from the ch3 group is placing more and more negative charge on the positive carbon a you go from primary to secondary to tertiary carbocations
+the effect of this of course is to cut down that positive charge
+at the same time the region around the various ch3 group is becoming somewhat positive
+the net effect then is that the positive charge is being spread out over more and more atom a you go from primary to secondary to tertiary ion
+the more you can spread the charge around the more stable the ion becomes
+order of stability of carbocations primary secondary tertiary so what this is saying is that primary ion are less stable than secondary one which in turn are less stable than tertiary one
+the stability of the carbocations in term of energetics when we talk about secondary carbocations being more stable than primary one what exactly do we mean
+we are actually talking about energetic stability secondary carbocations are lower down an energy ladder than primary one
+this mean that it is going to take more energy to make a primary carbocation than a secondary one
+if there is a choice between making a secondary ion or a primary one it will be much easier to make the secondary one
+similarly if there is a choice between making a tertiary ion or a secondary one it will be easier to make the tertiary one
+this ha important implication in the reaction of unsymmetrical alkene
+if you are interested in these follow the link below to the electrophilic addition reaction menu

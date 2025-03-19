@@ -1,0 +1,61 @@
+bonding in ethene important
+you will find this much easier to understand if you first read the article about the bonding in methane
+you may also find it useful to read the article on orbitals if you are sure about simple orbital theory
+ethene c2h4 the simple view of the bonding in ethene at a simple level you will have drawn ethene showing two bond between the carbon atom
+each line in this diagram represents one pair of shared electron
+ethene is actually much more interesting than this
+an orbital view of the bonding in ethene ethene is built from hydrogen atom 1s1 and carbon atom 1s22s22px12py1
+the carbon atom doe have enough unpaired electron to form the required number of bond so it need to promote one of the 2s2 pair into the empty 2pz orbital
+this is exactly the same a happens whenever carbon form bond whatever else it end up joined to
+so the first thing that happens is
+promotion of an electron there is only a small energy gap between the 2 and 2p orbitals and an electron is promoted from the 2 to the empty 2p to give 4 unpaired electron
+the extra energy released when these electron are used for bonding more than compensates for the initial input
+the carbon atom is now said to be in an excited state
+it is important that you have first met the idea of hybridisation in the more simple methane case
+hybridisation in the case of ethene there is a difference from say methane or ethane because each carbon is only joining to three other atom rather than four
+when the carbon atom hybridise their outer orbitals before forming bond this time they only hybridise three of the orbitals rather than all four
+they use the 2 electron and two of the 2p electron but leave the other 2p electron unchanged
+the new orbitals formed are called sp2 hybrid because they are made by an s orbital and two p orbitals reorganising themselves
+sp2 orbitals look rather like sp3 orbitals that you have already come across in the bonding in methane except that they are shorter and fatter
+the three sp2 hybrid orbitals arrange themselves a far apart a possible which is at to each other in a plane
+the remaining p orbital is at right angle to them
+the two carbon atom and four hydrogen atom would look like this before they joined together the various atomic orbitals which are pointing towards each other now merge to give molecular orbitals each containing a bonding pair of electron
+these are sigma bond just like those formed by overlap of atomic orbitals in say ethane
+the p orbitals on each carbon are pointing towards each other and so we leave those for a moment
+in the diagram the black dot represent the nucleus of the atom
+notice that the p orbitals are so close that they are overlapping sideways
+this sideways overlap also creates a molecular orbital but of a different kind
+in this one the electron are held on the line between the two nucleus but above and below the plane of the molecule
+a bond formed in this way is called a pi bond
+for clarity the sigma bond are shown using line each line representing one pair of shared electron
+the various sort of line show the direction the bond point in
+an ordinary line represents a bond in the plane of the screen or the paper if you printed it a broken line is a bond going back away from you and a wedge show a bond coming out towards you
+in almost all case where you will draw the structure of ethene the sigma bond will be shown a line
+be clear about what a pi bond is
+it is a region of space in which you can find the two electron which make up the bond
+those two electron can live anywhere within that space
+it would be quite misleading to think of one living in the top and the other in the bottom
+taking chemistry further this is another example of the curious behaviour of electron
+how do the electron get from one half of the pi bond to the other if they are never found in between
+it an unanswerable question if you think of electron a particle
+even if your syllabus doe expect you to know how a pi bond is formed it will expect you to know that it exists
+the pi bond dominates the chemistry of ethene
+it is very vulnerable to attack a very negative region of space above and below the plane of the molecule
+it is also somewhat distant from the control of the nucleus and so is a weaker bond than the sigma bond joining the two carbon
+important
+check your syllabus
+find out whether you actually need to know how a pi bond is formed
+do forget to look in the bonding section of your syllabus a well a under ethene
+if you do need to know it there no point in learning it
+you will however need to know that a pi bond exists that the two bond between the carbon atom in ethene are both the same
+if you are working to a syllabus for 16 18 year old and have got a copy of your syllabus find out how to download one all double bond whatever atom they might be joining will consist of a sigma bond and a pi bond
+the shape of ethene the shape of ethene is controlled by the arrangement of the sp2 orbitals
+notice two thing about them they all lie in the same plane with the other p orbital at right angle to it
+when the bond are made all of the sigma bond in the molecule must also lie in the same plane
+any twist in the molecule would mean that the p orbitals would be parallel and touching any more and you would be breaking the pi bond
+there is no free rotation about a double bond
+ethene is a planar molecule
+the sp2 orbitals are at to each other
+when the molecule is constructed the bond angle will also be
+that approximate
+there will be a slight distortion because you are joining 2 hydrogen and a carbon atom to each carbon rather than 3 identical group

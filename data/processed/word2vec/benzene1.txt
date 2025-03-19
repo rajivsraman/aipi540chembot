@@ -1,0 +1,66 @@
+bonding in benzene the kekulé structure for benzene c6h6 what is the kekulé structure
+kekulé wa the first to suggest a sensible structure for benzene
+the carbon are arranged in a hexagon and he suggested alternating double and single bond between them
+each carbon atom ha a hydrogen attached to it
+this diagram is often simplified by leaving out all the carbon and hydrogen atom
+in diagram of this sort there is a carbon atom at each corner
+you have to count the bond leaving each carbon to work out how many hydrogen there are attached to it
+in this case each carbon ha three bond leaving it
+because carbon atom form four bond that mean you are a bond missing and that must be attached to a hydrogen atom
+problem with the kekulé structure although the kekulé structure wa a good attempt in it time there are serious problem with it
+problem with the chemistry because of the three double bond you might expect benzene to have reaction like ethene only more so
+ethene undergoes addition reaction in which one of the two bond joining the carbon atom break and the electron are used to bond with additional atom
+benzene rarely doe this
+instead it usually undergoes substitution reaction in which one of the hydrogen atom is replaced by something new
+problem with the shape benzene is a planar molecule all the atom lie in one plane and that would also be true of the kekulé structure
+the problem is that single and double bond are different length
+that would mean that the hexagon would be irregular if it had the kekulé structure with alternating shorter and longer side
+in real benzene all the bond are exactly the same intermediate in length between and at nm
+real benzene is a perfectly regular hexagon
+problem with the stability of benzene real benzene is a lot more stable than the kekulé structure would give it credit for
+every time you do a thermochemistry calculation based on the kekulé structure you get an answer which is wrong by about 150 kj
+this is most easily shown using enthalpy change of hydrogenation
+help
+it doe matter whether you done any thermochemistry sum recently or not
+this is all so simple that you could understand it even if you had never done any
+hydrogenation is the addition of hydrogen to something
+if for example you hydrogenate ethene you get ethane in order to do a fair comparison with benzene a ring structure we going to compare it with cyclohexene
+cyclohexene c6h10 is a ring of six carbon atom containing just one
+bond
+when hydrogen is added to this cyclohexane c6h12 is formed
+the ch group become ch2 and the double bond is replaced by a single one
+no bond
+the structure of cyclohexene and cyclohexane are usually simplified in the same way that the kekulé structure for benzene is simplified by leaving out all the carbon and hydrogen
+in the cyclohexane case for example there is a carbon atom at each corner and enough hydrogen to make the total bond on each carbon atom up to four
+in this case then each corner represents ch2
+the hydrogenation equation could be written the enthalpy change during this reaction is kj
+in other word when 1 mole of cyclohexene reacts 120 kj of heat energy is evolved
+the enthalpy change during this reaction is kj
+in other word when 1 mole of cyclohexene reacts 120 kj of heat energy is evolved
+help
+enthalpy change can be translated a heat evolved or absorbed
+the negative sign show that heat is evolved
+where doe this heat energy come from
+when the reaction happens bond are broken and and this cost energy
+other bond have to be made and this release energy
+because the bond made are stronger than those broken more energy is released than wa used to break the original bond and so there is a net evolution of heat energy
+if the ring had two double bond in it initially exactly twice a many bond would have to be broken and exactly twice a many made
+in other word you would expect the enthalpy change of hydrogenation of to be exactly twice that of cyclohexene that is kj
+do worry about it unless you want to
+in fact the enthalpy change is kj which is far off what we are predicting
+applying the same argument to the kekulé structure for benzene what might be called you would expect an enthalpy change of kj because there are exactly three time a many bond being broken and made a in the cyclohexene case
+in fact what you get is kj not even within distance of the predicted value
+this is very much easier to see on an enthalpy diagram
+notice that in each case heat energy is released and in each case the product is the same cyclohexane
+that mean that all the reaction fall down to the same end point
+heavy line solid arrow and bold number represent real change
+predicted change are shown by dotted line and italic
+the most important point to notice is that real benzene is much lower down the diagram than the kekulé form predicts
+the lower down a substance is the more energetically stable it is
+this mean that real benzene is about 150 kj more stable than the kekulé structure give it credit for
+this increase in stability of benzene is known a the delocalisation energy or resonance energy of benzene
+the first term delocalisation energy is the more commonly used
+there is a tiny amount of delocalisation energy involved here a well
+why is benzene so much more stable than the kekulé structure suggests
+to explain that need a separate article
+follow the first link below

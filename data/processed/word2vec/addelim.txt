@@ -1,0 +1,55 @@
+reaction of aldehyde and ketone this page look at the reaction of aldehyde and ketone with brady reagent a a test for the double bond
+it also look briefly at some other similar reaction which are all known a or condensation reaction
+the reaction with is often abbreviated to or
+a solution of in a mixture of methanol and sulphuric acid is known a brady reagent
+what is
+although the name sound complicated and the structure look quite complicated it is actually very easy to work out
+start with the formula of hydrazine
+that almost all you need to remember
+hydrazine is in phenylhydrazine one of the hydrogen is replaced by a phenyl group c6h5
+this is based on a benzene ring
+if you are familiar with this there is a carbon atom at each corner of the hexagon together with a hydrogen atom if there is anything else attached
+the circle in the middle of the hexagon suggests the delocalised electron
+if you want to read more about the structure of benzene you could follow this link to another part of the site
+it is important for the purpose of the present page and you might have to explore quite a lot of other page to help you to understand that one
+if you do choose to follow this link or history file or go menu if you get seriously waylaid on your browser to return to this page
+in there are two nitro group no2 attached to the phenyl group in the and position
+the corner with the nitrogen attached is counted a the number 1 position and you just number clockwise around the ring
+doing the reaction detail vary slightly depending on the nature of the aldehyde or ketone and the solvent that the is dissolved in
+assuming you are using brady reagent a solution of the in methanol and sulphuric acid add either a few drop of the aldehyde or ketone or possibly a solution of the aldehyde or ketone in methanol to the brady reagent
+a bright orange or yellow precipitate show the presence of the double bond in an aldehyde or ketone
+this is the simplest test for an aldehyde or ketone
+the chemistry of the reaction the overall reaction is given by the equation r and r can be any combination of hydrogen or hydrocarbon group such a alkyl group
+if at least one of them is a hydrogen then the original compound is an aldehyde
+if both are hydrocarbon group then it is a ketone
+look carefully at what ha happened
+provided you take care to draw the two starting molecule lined up right working out the structure of the product is easy
+the product is known a a
+notice that all that ha changed is the ending from to
+that possibly confusing
+the product from the reaction with ethanal would be called ethanal from propanone you would get propanone and so on
+that not too difficult
+the reaction is known a a condensation reaction
+a condensation reaction is one in which two molecule join together with the loss of a small molecule in the process
+in this case that small molecule is water
+in term of mechanism this is a nucleophilic reaction
+the first add across the double bond the addition stage to give an intermediate compound which then loses a molecule of water the elimination stage
+uk a level syllabus and so you wo find it anywhere on this site
+sorry
+using the reaction the reaction ha two us in testing for aldehyde and ketone
+first you can just use it to test for the presence of the double bond
+you only get an orange or yellow precipitate from a double bond in an aldehyde or ketone
+secondly you can use it to help to identify the specific aldehyde or ketone
+the precipitate is filtered and washed with for example methanol and then recrystallised from a suitable solvent which will vary depending on the nature of the aldehyde or ketone
+for example you can recrystallise the product from the small aldehyde and ketone from a mixture of ethanol and water
+the crystal are dissolved in the minimum quantity of hot solvent
+when the solution cool the crystal are and can be filtered washed with a small amount of solvent and dried
+they should then be pure
+if you then find the melting point of the crystal you can compare it with table of the melting point of of all the common aldehyde and ketone to find out which one you are likely to have got
+some other similar reaction if you go back and look at the equation nothing in the change during the reaction apart from the group
+you can get a similar reaction if the group is attached to other thing
+in each case the reaction would look like this in what follows all that change is the nature of the x
+with hydrazine the product is a hydrazone
+if you started from propanone it would be propanone hydrazone
+with phenylhydrazine the product is a phenylhydrazone
+with hydroxylamine the product is an oxime for example ethanal oxime

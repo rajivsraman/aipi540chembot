@@ -1,0 +1,106 @@
+the name of more organic compound this page continues looking at the name of organic compound containing chain of carbon atom
+it assumes that you have already looked at the introductory page covering compound from alkane to ketone
+the name on this second page are explained in quite a much detail a those on the introductory page it assumes that you have already understood the main principle
+if in doubt follow this link first
+more type of organic compound carboxylic acid carboxylic acid contain the group which is better written out in full a carboxylic acid are shown by the ending oic acid
+when you count the carbon chain you have to remember to include the carbon in the group
+that carbon is always thought of a number 1 in the chain
+example 1 write the structural formula for acid
+this is a four carbon acid with no double bond
+there is a methyl group on the third carbon counting the carbon a number 1
+example 2 write the structural formula for acid
+the hydroxy part of the name show the presence of an group
+normally you would show that by the ending ol but this time you ca because you already got another ending
+you are forced into this alternative way of describing it
+the old name for acid is lactic acid
+that name sound more friendly but is utterly useless when it come to writing a formula for it
+in the old day you would have had to learn the formula rather than just working it out should you need it
+example 3 write the structural formula for acid
+this time not only is there a chlorine attached to the chain but the chain also contains a double bond en starting on the number 3 carbon counting the carbon a number 1
+salt of carboxylic acid example write the structural formula for sodium propanoate
+this is the sodium salt of propanoic acid so start from that
+propanoic acid is a three carbon acid with no double bond
+when the carboxylic acid form salt the hydrogen in the group is replaced by a metal
+sodium propanoate is therefore notice that there is an ionic bond between the sodium and the propanoate group
+whatever you do do draw a line between the sodium and the oxygen
+that would represent a covalent bond
+it wrong and make you look very incompetent in an exam
+in a shortened version sodium propanoate would be written ch3ch2coona or if you wanted to emphasise the ionic nature a
+in the formula the sodium is at the end but appears first in the name
+why
+salt are always named with the metal first think of sodium chloride or potassium iodide
+so for consistency you would need to reverse the formula of sodium propanoate naoocch2ch3
+but if you reverse the formula you ca see immediately that it is related to propanoic acid
+so you learn to live with the inconsistency
+ester ester are one of a number of compound known collectively a acid derivative
+in these the acid group is modified in some way
+in an ester the hydrogen in the group is replaced by an alkyl group or possibly some more complex hydrocarbon group
+example 1 write the structural formula for methyl propanoate
+an ester name ha two part the part that come from the acid propanoate and the part that show the alkyl group methyl
+start by thinking about propanoic acid a 3 carbon acid with no double bond
+the hydrogen in the group is replaced by an alkyl group in this case a methyl group
+ester name are confusing because the name is written backwards from the way the structure is drawn
+there no way round this you just have to get used to it
+in the shortened version this formula would be written ch3ch2cooch3
+example 2 write the structural formula for ethyl ethanoate
+this is probably the most commonly used example of an ester
+it is based on ethanoic acid hence ethanoate a 2 carbon acid
+the hydrogen in the group is replaced by an ethyl group
+make sure that you draw the ethyl group the right way round
+a fairly common mistake is to try to join the ch3 group to the oxygen
+if you count the bond if you do that you will find that both the ch3 carbon and the ch2 carbon have the wrong number of bond
+acyl chloride acid chloride an acyl chloride is another acid derivative
+in this case the group of the acid is replaced by
+all acyl chloride contain the group example write the structural formula for ethanoyl chloride
+acyl chloride are shown by the ending oyl chloride
+so ethanoyl chloride is based on a 2 carbon chain with no double bond and a group
+the carbon in that group count a part of the chain
+in a longer chain with side group attached the carbon is given the number 1 position
+acid anhydride another acid derivative
+an acid anhydride is what you get if you dehydrate an acid that is remove water from it
+example write the structural formula for propanoic anhydride
+these are most easily worked out by writing it down on a scrap of paper in the following way draw two molecule of acid arranged so that the group are next to each other
+tweak out a molecule of water and then join up what left
+in this case because you want propanoic anhydride you draw two molecule of propanoic acid
+amide yet another acid derivative
+amide contain the group where the of an acid is replaced by
+example write the structural formula for propanamide
+this is based on a 3 carbon chain with no double bond
+at the end of the chain is a group
+the carbon in that group count a part of the chain
+nitrile nitrile contain a group and used to be called cyanide
+example 1 write the structural formula for ethanenitrile
+the name show a 2 carbon chain with no double bond
+nitrile show a group at the end of the chain
+a with the previous example involving acid and acid derivative do forget that the carbon in the group count a part of the chain
+the old name for this would have been methyl cyanide
+you might think that that easier but a soon a the chain get more complicated it doe work a the next example show
+example 2 write the structural formula for
+here we got a 3 carbon chain no double bond and a group on the end of the chain
+the carbon in the group count a the number 1 carbon
+on the number 2 carbon there is an group hydroxy
+notice that you ca use the ol ending because you already got a nitrile ending
+primary amine a primary amine contains the group attached to a hydrocarbon chain or ring
+you can think of amine in general a being derived from ammonia nh3
+in a primary amine one of the hydrogen ha been replaced by a hydrocarbon group
+example 1 write the structural formula for ethylamine
+in this case an ethyl group is attached to the group
+this name ethylamine is fine a long a you only got a short chain where there is any ambiguity about where the group is found
+but suppose you had a 3 carbon chain in this case the group could be on an end carbon or on the middle carbon
+how you get around that problem is illustrated in the next example
+example 2 write the structural formula for
+the name show a 3 carbon chain with an amino group attached to the second carbon
+amino show the group
+ethylamine example 1 above could equally well have been called aminoethane
+secondary and tertiary amine you are only likely to come across simple example of these
+in a secondary amine two of the hydrogen atom in an ammonia molecule have been replaced by hydrocarbon group
+in a tertiary amine all three hydrogen have been replaced
+example 1 write the structural formula for dimethylamine
+in this case two of the hydrogen in ammonia have been replaced by methyl group
+example 2 write the structural formula for trimethylamine
+here all three hydrogen in ammonia have been replaced by methyl group
+amino acid an amino acid contains both an amino group and a carboxylic acid group in the same molecule
+a with all acid the carbon chain is numbered so that the carbon in the group is counted a number 1
+example write the structural formula for acid
+this ha a 3 carbon chain with no double bond
+on the second carbon counting the carbon a number 1 there is an amino group

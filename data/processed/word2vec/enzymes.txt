@@ -1,0 +1,256 @@
+protein a enzyme this page is an introduction to how protein can work a enzyme biological catalyst
+you should realise that this is written to cover the need of a number of chemistry syllabus for 16 18 year old
+if you want detailed knowledge about enzyme for a biology or biochemistry course you are probably in the wrong place
+this is just an introduction
+if you do have a reasonable knowledge of the structure of protein and the sort of attraction that can be found in them you may not understand bit of the present page
+read the protein structure page first and come back here later
+important the specific example of the enzyme that you will find on this page are only intended to give you a feel for the way that enzyme work
+unless your syllabus specifically asks for a particular enzyme there is no need for you to remember the detail
+enzyme a catalyst enzyme are mainly globular protein protein molecule where the tertiary structure ha given the molecule a generally rounded ball shape although perhaps a very squashed ball in some case
+the other type of protein fibrous protein have long thin structure and are found in tissue like muscle and hair
+we are interested in those in this topic
+these globular protein can be amazingly active catalyst
+you are probably familiar with the use of catalyst like manganese iv oxide in decomposing hydrogen peroxide to give oxygen and water
+the enzyme catalase will also do this but at a spectacular rate compared with inorganic catalyst
+one molecule of catalase can decompose almost a hundred thousand molecule of hydrogen peroxide every second
+that very impressive
+this is a model of catalase showing the globular structure a bit like a tangled mass of string rcsb protein data bank
+you should be able to identify the and sheet
+if you ca you obviously did read the page about protein structure mentioned above
+if you look very carefully you might also spot two pink structure hidden in the main structure
+more about these in a while
+an important point about enzyme is that they are very specific about what they can catalyse
+even small change in the reactant molecule can stop the enzyme from catalysing it reaction
+the reason for this lie in the active site present in the enzyme
+active site active site are crack or hollow on the surface of the enzyme caused by the way the protein fold itself up into it tertiary structure
+molecule of just the right shape and with just the right arrangement of attractive group see later can fit into these active site
+other molecule wo fit or wo have the right group to bind to the surface of the active site
+the usual analogy for this is a key fitting into a lock
+for the key to work properly it ha to fit exactly into the lock
+in chemistry we would describe the molecule which is actually going to react the purple one in the diagram a the reactant
+in biology and biochemistry the reactant in an enzyme reaction is known instead a the substrate
+you must take this picture of the way a substrate fit into it enzyme too literally
+what is just a important a the physical shape of the substrate are the bond which it can form with the enzyme
+enzyme are protein molecule long chain of amino acid residue
+remember that sticking out all along those chain are the side group of the amino acid the r group that we talked about on the page about protein structure
+active site of course have these r group lining them a well typically from about 3 to 12 in an active site
+the next diagram show an imaginary active site remember that these r group contain the sort of feature which are responsible for the tertiary structure in protein
+for example they may contain ionic group like or or group which can hydrogen bond or hydrocarbon chain or ring which can contribute to van der waals force
+group like these help a substrate to attach to the active site but only if the substrate molecule ha an arrangement of group in the right place to interact with those on the enzyme
+the diagram show a possible set of interaction involving two ionic bond and a hydrogen bond
+the group shown with or sign are obvious
+the one with the h s in them are group capable of hydrogen bonding
+it is possible that one or more of the unused r group in the active site could also be helping with van der waals attraction between them and the substrate
+if the arrangement of the group on the active site or the substrate wa even slightly different the bonding almost certainly would be a good and in that sense a different substrate would fit the active site on the enzyme
+this process of the catalyst reacting with the substrate and eventually forming product is often summarised a
+where e is the enzyme s the substrate and p the product
+the formation of the complex is reversible the substrate could obviously just break away again before it converted into product
+the second stage is shown a but might be reversible in some case
+it would depend on the energetics of the reaction
+so why doe attaching itself to an enzyme increase the rate at which the substrate convert into product
+it is at all obvious why that should be and most source providing information at this introductory level just gloss over it or talk about it in vague general term which is what i am going to be forced to do because i ca find a simple example to talk about
+catalyst in general and enzyme are no exception work by providing the reaction with a route with a lower activation energy
+attaching the substrate to the active site must allow electron movement which end up in bond breaking much more easily than if the enzyme wa there
+strangely it is much easier to see what might be happening in other case where the situation is a bit more complicated
+enzyme cofactor what we have said so far is a major for most enzyme
+most enzyme are in fact just pure protein molecule
+other bit and piece are needed to make them work
+these are known a cofactor
+in the absence of the right cofactor the enzyme doe work
+for those of you who like collecting obscure word the inactive protein molecule is known a an apoenzyme
+when the cofactor is in place so that it becomes an active enzyme it is called a holoenzyme
+you must take this picture of the way a substrate fit into it enzyme too literally
+what is just a important a the physical shape of the substrate are the bond which it can form with the enzyme
+enzyme are protein molecule long chain of amino acid residue
+remember that sticking out all along those chain are the side group of the amino acid the r group that we talked about on the page about protein structure
+active site of course have these r group lining them a well typically from about 3 to 12 in an active site
+the next diagram show an imaginary active site remember that these r group contain the sort of feature which are responsible for the tertiary structure in protein
+for example they may contain ionic group like or or group which can hydrogen bond or hydrocarbon chain or ring which can contribute to van der waals force
+group like these help a substrate to attach to the active site but only if the substrate molecule ha an arrangement of group in the right place to interact with those on the enzyme
+the diagram show a possible set of interaction involving two ionic bond and a hydrogen bond
+the group shown with or sign are obvious
+the one with the h s in them are group capable of hydrogen bonding
+it is possible that one or more of the unused r group in the active site could also be helping with van der waals attraction between them and the substrate
+if the arrangement of the group on the active site or the substrate wa even slightly different the bonding almost certainly would be a good and in that sense a different substrate would fit the active site on the enzyme
+this process of the catalyst reacting with the substrate and eventually forming product is often summarised a
+where e is the enzyme s the substrate and p the product
+the formation of the complex is reversible the substrate could obviously just break away again before it converted into product
+the second stage is shown a but might be reversible in some case
+it would depend on the energetics of the reaction
+so why doe attaching itself to an enzyme increase the rate at which the substrate convert into product
+it is at all obvious why that should be and most source providing information at this introductory level just gloss over it or talk about it in vague general term which is what i am going to be forced to do because i ca find a simple example to talk about
+catalyst in general and enzyme are no exception work by providing the reaction with a route with a lower activation energy
+attaching the substrate to the active site must allow electron movement which end up in bond breaking much more easily than if the enzyme wa there
+strangely it is much easier to see what might be happening in other case where the situation is a bit more complicated
+enzyme cofactor what we have said so far is a major for most enzyme
+most enzyme are in fact just pure protein molecule
+other bit and piece are needed to make them work
+these are known a cofactor
+in the absence of the right cofactor the enzyme doe work
+for those of you who like collecting obscure word the inactive protein molecule is known a an apoenzyme
+when the cofactor is in place so that it becomes an active enzyme it is called a holoenzyme
+enzyme are protein molecule long chain of amino acid residue
+remember that sticking out all along those chain are the side group of the amino acid the r group that we talked about on the page about protein structure
+active site of course have these r group lining them a well typically from about 3 to 12 in an active site
+the next diagram show an imaginary active site remember that these r group contain the sort of feature which are responsible for the tertiary structure in protein
+for example they may contain ionic group like or or group which can hydrogen bond or hydrocarbon chain or ring which can contribute to van der waals force
+group like these help a substrate to attach to the active site but only if the substrate molecule ha an arrangement of group in the right place to interact with those on the enzyme
+the diagram show a possible set of interaction involving two ionic bond and a hydrogen bond
+the group shown with or sign are obvious
+the one with the h s in them are group capable of hydrogen bonding
+it is possible that one or more of the unused r group in the active site could also be helping with van der waals attraction between them and the substrate
+if the arrangement of the group on the active site or the substrate wa even slightly different the bonding almost certainly would be a good and in that sense a different substrate would fit the active site on the enzyme
+this process of the catalyst reacting with the substrate and eventually forming product is often summarised a
+where e is the enzyme s the substrate and p the product
+the formation of the complex is reversible the substrate could obviously just break away again before it converted into product
+the second stage is shown a but might be reversible in some case
+it would depend on the energetics of the reaction
+so why doe attaching itself to an enzyme increase the rate at which the substrate convert into product
+it is at all obvious why that should be and most source providing information at this introductory level just gloss over it or talk about it in vague general term which is what i am going to be forced to do because i ca find a simple example to talk about
+catalyst in general and enzyme are no exception work by providing the reaction with a route with a lower activation energy
+attaching the substrate to the active site must allow electron movement which end up in bond breaking much more easily than if the enzyme wa there
+strangely it is much easier to see what might be happening in other case where the situation is a bit more complicated
+enzyme cofactor what we have said so far is a major for most enzyme
+most enzyme are in fact just pure protein molecule
+other bit and piece are needed to make them work
+these are known a cofactor
+in the absence of the right cofactor the enzyme doe work
+for those of you who like collecting obscure word the inactive protein molecule is known a an apoenzyme
+when the cofactor is in place so that it becomes an active enzyme it is called a holoenzyme
+enzyme are protein molecule long chain of amino acid residue
+remember that sticking out all along those chain are the side group of the amino acid the r group that we talked about on the page about protein structure
+active site of course have these r group lining them a well typically from about 3 to 12 in an active site
+the next diagram show an imaginary active site remember that these r group contain the sort of feature which are responsible for the tertiary structure in protein
+for example they may contain ionic group like or or group which can hydrogen bond or hydrocarbon chain or ring which can contribute to van der waals force
+group like these help a substrate to attach to the active site but only if the substrate molecule ha an arrangement of group in the right place to interact with those on the enzyme
+the diagram show a possible set of interaction involving two ionic bond and a hydrogen bond
+the group shown with or sign are obvious
+the one with the h s in them are group capable of hydrogen bonding
+it is possible that one or more of the unused r group in the active site could also be helping with van der waals attraction between them and the substrate
+if the arrangement of the group on the active site or the substrate wa even slightly different the bonding almost certainly would be a good and in that sense a different substrate would fit the active site on the enzyme
+this process of the catalyst reacting with the substrate and eventually forming product is often summarised a
+where e is the enzyme s the substrate and p the product
+the formation of the complex is reversible the substrate could obviously just break away again before it converted into product
+the second stage is shown a but might be reversible in some case
+it would depend on the energetics of the reaction
+so why doe attaching itself to an enzyme increase the rate at which the substrate convert into product
+it is at all obvious why that should be and most source providing information at this introductory level just gloss over it or talk about it in vague general term which is what i am going to be forced to do because i ca find a simple example to talk about
+catalyst in general and enzyme are no exception work by providing the reaction with a route with a lower activation energy
+attaching the substrate to the active site must allow electron movement which end up in bond breaking much more easily than if the enzyme wa there
+strangely it is much easier to see what might be happening in other case where the situation is a bit more complicated
+enzyme cofactor what we have said so far is a major for most enzyme
+most enzyme are in fact just pure protein molecule
+other bit and piece are needed to make them work
+these are known a cofactor
+in the absence of the right cofactor the enzyme doe work
+for those of you who like collecting obscure word the inactive protein molecule is known a an apoenzyme
+when the cofactor is in place so that it becomes an active enzyme it is called a holoenzyme
+neither of them occurs in the syllabus i am trying to cover with this material
+i have spent a lifetime in chemistry education without having come across either of them until researching this
+there are two basically different sort of cofactor
+some are bound tightly to the protein molecule so that they become a part of the enzyme these are called prosthetic group
+some are entirely free of the enzyme and attach themselves to the active site alongside the substrate these are called coenzyme
+prosthetic group prosthetic group can be a simple a a single metal ion bound into the enzyme structure or may be a more complicated organic molecule which might also contain a metal ion
+the enzyme carbonic anhydrase and catalase are simple example of the two type
+zinc ion in carbonic anhydrase carbonic anhydrase is an enzyme which catalysis the conversion of carbon dioxide into hydrogencarbonate ion or the reverse in the cell
+if you look this up elsewhere you will find that biochemist tend to persist in calling hydrogencarbonate by it old name bicarbonate
+in fact there are a whole family of carbonic anhydrases all based around different protein but all of them have a zinc ion bound up in the active site
+in this case the mechanism is well understood and simple
+we look at this in some detail because it is a good illustration of how enzyme work
+important this is just an example
+if you are doing a chemistry syllabus for 16 18 year old there is almost certainly no need to learn this
+if in doubt check your syllabus
+if it doe explicitly ask for this reaction in detail you do need to learn it
+to repeat i just using it to illustrate how enzyme carry out a simple reaction
+the zinc ion is bound to the protein chain via three link to separate histidine residue in the chain shown in pink in the picture of one version of carbonic anhydrase
+the zinc is also attached to an group shown in the picture using red for the oxygen and white for the hydrogen
+wikipedia
+i have no reason to doubt it accuracy but i ca guarantee it
+a far a i have been able to find out all the various form of carbonic anhydrase have the zinc ion bound to three histidine residue in this way irrespective of what is happening in the rest of the protein molecule
+if i am wrong about this generalisation could you please let me know via the address on the about this site page
+the structure of the amino acid histidine is
+and when it is a part of a protein chain it is joined up like this if you look at the model of the arrangement around the zinc ion in the picture above you should at least be able to pick out the ring part of the three molecule
+the zinc ion is bound to these histidine ring via dative covalent covalent bond from lone pair on the nitrogen atom
+simplifying the structure around the zinc
+the arrangement of the four group around the zinc is approximately tetrahedral
+notice that i have distorted the usual roughly tetrahedral arrangement of electron pair around the oxygen that just to keep the diagram a clear a possible
+so that the structure around the zinc
+how doe this catalyse the reaction between carbon dioxide and water
+a carbon dioxide molecule is held by a nearby part of the active site so that one of the lone pair on the oxygen is pointing straight at the carbon atom in the middle of the carbon dioxide molecule
+attaching it to the enzyme also increase the existing polarity of the bond
+if you have done any work on organic reaction mechanism at all then it is pretty obvious what is going to happen
+the lone pair form a bond with the carbon atom and part of one of the bond break and leaf the oxygen atom with a negative charge on it
+what you now have is a hydrogencarbonate ion attached to the zinc
+the next diagram show this broken away and replaced with a water molecule from the cell solution
+all that now need to happen to get the catalyst back to where it started is for the water to lose a hydrogen ion
+this is transferred by another water molecule to a nearby amino acid residue with a nitrogen in the r group and eventually by a series of similar transfer out of the active site completely
+and the carbonic anhydrase enzyme can do this sequence of reaction about a million time a second
+this is a wonderful piece of molecular machinery
+let me repeat yet again if you are doing a chemistry exam for 16 18 year old you are unlikely to need detail of this reaction
+i talked it through in some detail to show that although enzyme are complicated molecule all they do is some basic chemistry
+it is just that this particular example is a lot easier to understand than most
+the haem u heme group in catalase remember the model of catalase from further up the page
+at the time i mentioned the group which this contains shown in pink in the picture
+these are haem u heme group bound to the protein molecule and an essential part of the working of the catalase
+the haem group is a good example of a prosthetic group
+if it wa there the protein molecule would work a a catalyst
+the haem group contain an iron iii ion bound into a ring molecule one of a number of related molecule called porphyrin
+the iron is locked into the centre of the porphyrin molecule via dative covalent bond from four nitrogen atom in the ring structure
+there are various type of porphyrin so there are various different haem group
+the one we are interested in is called haem b and a model of the haem b group with the iron iii ion in grey at the centre look like this wikipedia and you will also find a proper structure for the group on the page you will get to by following this link if you are interested and a lot more information that you probably wo want to know about
+you may have come across haemoglobin in the transport of oxygen around the blood
+this is the same haem group that is at the heart of that with one small difference
+in haemoglobin the iron is present a iron ii rather than iron iii
+the reaction that catalase carry out is the decomposition of hydrogen peroxide into water and oxygen
+a lot of work ha been done on the mechanism for this reaction but i am only going to give you a simplified version rather than describe it in full
+although it look fairly simple on the surface there are a lot of hidden thing going on to complicate it
+essentially the reaction happens in two stage and involves the iron changing it oxidation state
+an easy change of oxidation state is one of the main characteristic of transition metal
+in the lab iron commonly ha two oxidation state a well a zero in the metal itself and and change readily from one to the other
+in catalase the change is from to the far less common and back again
+in the first stage there is a reaction between a hydrogen peroxide molecule and the active site to give the enzyme in the equation refers to everything haem group and protein apart from the iron ion
+the iii and iv are the oxidation state of the iron in both case
+this equation and the next one are not proper chemical equation
+they are just summary of the most obvious thing which have happened
+the new arrangement around the iron then reacts with a second hydrogen peroxide to regenerate the original structure and produce oxygen and a second molecule of water
+what is hidden away in this simplification are the other thing that are happening at the same time for example the rest of the haem group and some of the amino acid residue around the active site are also changed during each stage of the reaction
+and if you think about what ha to happen to the hydrogen peroxide molecule in both reaction it ha to be more complicated than this suggests
+hydrogen peroxide is joined up a and yet both hydrogen end up attached to the same oxygen
+that is quite a complicated thing to arrange in small step in a mechanism and involves hydrogen ion being transferred via amino acid residue in the active site
+so do you need to remember all this for chemistry purpose at this level
+no not unless your syllabus specifically asks you for it
+it is basically just an illustration of the term prosthetic group
+it also show that even in a biochemical situation transition metal behave in the same sort of way a they do in inorganic chemistry they form complex and they change their oxidation state
+and if you want to follow this up to look in detail at what is happening you will find the same sort of interaction around the active site that we looked at in the simpler case of carbonic anydrase
+but please do waste time on this unless you have to it is seriously complicated
+coenzyme coenzyme are another form of cofactor
+they are different from prosthetic group in that they are permanently attached to the protein molecule
+instead coenzyme attach themselves to the active site alongside the substrate and the reaction involves both of them
+once they have reacted they both leave the active site both changed in some way
+a simple diagram showing a substrate and coenzyme together in the active site might look like this it is much easier to understand this with a relatively simple example
+a coenzyme with alcohol dehydrogenase alcohol dehydrogenase is an enzyme which start the process by which alcohol ethanol in the blood is oxidised to harmless product
+the name dehydrogenase suggests that it is oxidising the ethanol by removing hydrogen from it
+the reaction is actually between ethanol and the coenzyme attached to the active site of the protein molecule
+is a commonly used coenzyme in all sort of redox reaction in the cell
+stand for nicotinamide adenine dinucleotide
+the plus sign which is a part of it name is because it carry a positive charge on a nitrogen atom in the structure
+the nicotinamide part of the structure come from the vitamin variously called vitamin b3 niacin or nicotinic acid
+several important coenzyme are derived from vitamin
+or even nicotinic acid this page is already long enough
+if you are interested they are easy to find via a google search
+in common with what i have done on the rest of this page this is just an example to illustrate how a coenzyme work which is reasonably easy to understand
+you are unlikely to need detail for any chemistry exam at this level
+ethanol is oxidised by a reaction with helped by the active site of the enzyme
+at the end of the reaction ethanal acetaldehyde is formed and the ha been converted into another compound known a nadh
+a far a the is concerned it ha picked up a hydrogen atom together with an extra electron which ha neutralised the charge
+both major product ethanal and nadh leave the active site and are processed further in other cell reaction
+the very poisonous ethanal is oxidised at once to ethanoic acid using a different enzyme but again using a the coenzyme
+and the ethanoic acid from that reacts on through a whole set of further reaction to eventually end up a carbon dioxide and water
+what about the nadh
+this is a coenzyme in it own right and take part in reaction where something need reducing
+the hydrogen atom and the extra electron that it picked up from the ethanol are given to something else
+in the process of course the nadh get oxidised back to again
+in general term for a substrate s which need reducing and one final time do you need to remember any of this
+no unless this particular example is on your syllabus
+you will find the link to the first of these below
+what follows is a page about the effect of substrate concentration temperature and ph on enzyme and then a further page about enzyme inhibitor

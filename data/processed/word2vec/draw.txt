@@ -1,0 +1,259 @@
+drawing organic molecule this page explains the various way that organic molecule can be represented on paper or on screen including molecular formula and various form of structural formula
+molecular formula a molecular formula simply count the number of each sort of atom present in the molecule but tell you nothing about the way they are joined together
+for example the molecular formula of butane is c4h10 and the molecular formula of ethanol is c2h6o
+molecular formula are very rarely used in organic chemistry because they do give any useful information about the bonding in the molecule
+about the only place where you might come across them is in equation for the combustion of simple hydrocarbon for example in case like this the bonding in the organic molecule is important
+structural formula a structural formula show how the various atom are bonded
+there are various way of drawing this and you will need to be familiar with all of them
+displayed formula a displayed formula show all the bond in the molecule a individual line
+you need to remember that each line represents a pair of shared electron
+for example this is a model of methane together with it displayed formula notice that the way the methane is drawn bear no resemblance to the actual shape of the molecule
+methane is flat with bond angle
+this mismatch between what you draw and what the molecule actually look like can lead to problem if you are careful
+for example consider the simple molecule with the molecular formula ch2cl2
+you might think that there were two different way of arranging these atom if you drew a displayed formula
+the chlorine could be opposite each other or at right angle to each other
+but these two structure are actually exactly the same
+look at how they appear a model
+one structure is in reality a simple rotation of the other one
+if your school or college ha given you the opportunity to play around with molecular model in the early stage of your organic chemistry course you might consider getting hold of a cheap set
+the model made by molymod are both cheap and easy to use
+an introductory organic set is more than adequate
+google molymod to find a supplier and more about them or search for molymod on amazon
+share the cost with some friend keep it in good condition and do lose any bit and resell it via ebay or amazon at the end of your course
+alternatively get hold of some coloured plasticene or other child modelling clay and some used match and make your own
+it cheaper but more difficult to get the bond angle right
+consider a slightly more complicated molecule c2h5cl
+the displayed formula could be written a either of these but again these are exactly the same
+look at the model
+the commonest way to draw structural formula for anything other than the most simple molecule drawing a fully displayed formula is a bit of a bother especially all the bond
+you can simplify the formula by writing for example ch3 or ch2 instead of showing all these bond
+so for example ethanoic acid would be shown in a fully displayed form and a simplified form a you could even condense it further to ch3cooh and would probably do this if you had to write a simple chemical equation involving ethanoic acid
+you do however lose something by condensing the acid group in this way because you ca immediately see how the bonding work
+you still have to be careful in drawing structure in this way
+remember from above that these two structure both represent the same molecule the next three structure all represent butane
+all of these are just version of four carbon atom joined up in a line
+the only difference is that there ha been some rotation about some of the bond
+you can see this in a couple of model
+not one of the structural formula accurately represents the shape of butane
+the convention is that we draw it with all the carbon atom in a straight line a in the first of the structure above
+this is even more important when you start to have branched chain of carbon atom
+the following structure again all represent the same molecule
+the two structure on the left are fairly obviously the same all we done is flip the molecule over
+the other one is so obvious until you look at the structure in detail
+there are four carbon joined up in a row with a ch3 group attached to the one
+that exactly the same a the other two structure
+if you had a model the only difference between these three diagram is that you have rotated some of the bond and turned the model around a bit
+to overcome this possible confusion the convention is that you always look for the longest possible chain of carbon atom and then draw it horizontally
+anything else is simply hung off that chain
+it doe matter in the least whether you draw any side group pointing up or down
+all of the following represent exactly the same molecule
+if you made a model of one of them you could turn it into any other one simply by rotating one or more of the bond
+how to draw structural formula in there are occasion when it is important to be able to show the precise arrangement in part of some molecule
+to do this the bond are shown using conventional symbol for example you might want to show the arrangement of the group around the carbon which ha the group in
+ha the structural formula using conventional bond notation you could draw it a for example the only difference between these is a slight rotation of the bond between the centre two carbon atom
+this is shown in the two model below
+look carefully at them particularly at what ha happened to the lone hydrogen atom
+in the model it is tucked behind the carbon atom
+in the model it is in the same plane
+the change is very slight
+it doe matter in the least which of the two arrangement you draw
+you could easily invent other one a well
+choose one of them and get into the habit of drawing structure that way
+my own habit used elsewhere on this site is to draw two bond going back into the paper and one coming out a in the diagram above
+notice that no attempt wa made to show the whole molecule in in the structural formula diagram
+the ch2ch3 group wa left in a simple form
+keep diagram simple trying to show too much detail make the whole thing amazingly difficult to understand
+skeletal formula in a skeletal formula all the hydrogen atom are removed from carbon chain leaving just a carbon skeleton with functional group attached to it
+for example we just been talking about
+the normal structural formula and the skeletal formula look like this in a skeletal diagram of this sort there is a carbon atom at each junction between bond in a chain and at the end of each bond unless there is something else there already like the group in the example there are enough hydrogen atom attached to each carbon to make the total number of bond on that carbon up to 4
+beware
+diagram of this sort take practice to interpret correctly and may well not be acceptable to your examiner see below
+there are however some very common case where they are frequently used
+these case involve ring of carbon atom which are surprisingly awkward to draw tidily in a normal structural formula
+cyclohexane c6h12 is a ring of carbon atom each with two hydrogen attached
+this is what it look like in both a structural formula and a skeletal formula
+and this is cyclohexene which is similar but contains a double bond but the commonest of all is the benzene ring c6h6 which ha a special symbol of it own
+so for example ethanoic acid would be shown in a fully displayed form and a simplified form a you could even condense it further to ch3cooh and would probably do this if you had to write a simple chemical equation involving ethanoic acid
+you do however lose something by condensing the acid group in this way because you ca immediately see how the bonding work
+you still have to be careful in drawing structure in this way
+remember from above that these two structure both represent the same molecule the next three structure all represent butane
+all of these are just version of four carbon atom joined up in a line
+the only difference is that there ha been some rotation about some of the bond
+you can see this in a couple of model
+not one of the structural formula accurately represents the shape of butane
+the convention is that we draw it with all the carbon atom in a straight line a in the first of the structure above
+this is even more important when you start to have branched chain of carbon atom
+the following structure again all represent the same molecule
+the two structure on the left are fairly obviously the same all we done is flip the molecule over
+the other one is so obvious until you look at the structure in detail
+there are four carbon joined up in a row with a ch3 group attached to the one
+that exactly the same a the other two structure
+if you had a model the only difference between these three diagram is that you have rotated some of the bond and turned the model around a bit
+to overcome this possible confusion the convention is that you always look for the longest possible chain of carbon atom and then draw it horizontally
+anything else is simply hung off that chain
+it doe matter in the least whether you draw any side group pointing up or down
+all of the following represent exactly the same molecule
+if you made a model of one of them you could turn it into any other one simply by rotating one or more of the bond
+how to draw structural formula in there are occasion when it is important to be able to show the precise arrangement in part of some molecule
+to do this the bond are shown using conventional symbol for example you might want to show the arrangement of the group around the carbon which ha the group in
+ha the structural formula using conventional bond notation you could draw it a for example the only difference between these is a slight rotation of the bond between the centre two carbon atom
+this is shown in the two model below
+look carefully at them particularly at what ha happened to the lone hydrogen atom
+in the model it is tucked behind the carbon atom
+in the model it is in the same plane
+the change is very slight
+it doe matter in the least which of the two arrangement you draw
+you could easily invent other one a well
+choose one of them and get into the habit of drawing structure that way
+my own habit used elsewhere on this site is to draw two bond going back into the paper and one coming out a in the diagram above
+notice that no attempt wa made to show the whole molecule in in the structural formula diagram
+the ch2ch3 group wa left in a simple form
+keep diagram simple trying to show too much detail make the whole thing amazingly difficult to understand
+skeletal formula in a skeletal formula all the hydrogen atom are removed from carbon chain leaving just a carbon skeleton with functional group attached to it
+for example we just been talking about
+the normal structural formula and the skeletal formula look like this in a skeletal diagram of this sort there is a carbon atom at each junction between bond in a chain and at the end of each bond unless there is something else there already like the group in the example there are enough hydrogen atom attached to each carbon to make the total number of bond on that carbon up to 4
+beware
+diagram of this sort take practice to interpret correctly and may well not be acceptable to your examiner see below
+there are however some very common case where they are frequently used
+these case involve ring of carbon atom which are surprisingly awkward to draw tidily in a normal structural formula
+cyclohexane c6h12 is a ring of carbon atom each with two hydrogen attached
+this is what it look like in both a structural formula and a skeletal formula
+and this is cyclohexene which is similar but contains a double bond but the commonest of all is the benzene ring c6h6 which ha a special symbol of it own
+so for example ethanoic acid would be shown in a fully displayed form and a simplified form a you could even condense it further to ch3cooh and would probably do this if you had to write a simple chemical equation involving ethanoic acid
+you do however lose something by condensing the acid group in this way because you ca immediately see how the bonding work
+you still have to be careful in drawing structure in this way
+remember from above that these two structure both represent the same molecule the next three structure all represent butane
+all of these are just version of four carbon atom joined up in a line
+the only difference is that there ha been some rotation about some of the bond
+you can see this in a couple of model
+not one of the structural formula accurately represents the shape of butane
+the convention is that we draw it with all the carbon atom in a straight line a in the first of the structure above
+this is even more important when you start to have branched chain of carbon atom
+the following structure again all represent the same molecule
+the two structure on the left are fairly obviously the same all we done is flip the molecule over
+the other one is so obvious until you look at the structure in detail
+there are four carbon joined up in a row with a ch3 group attached to the one
+that exactly the same a the other two structure
+if you had a model the only difference between these three diagram is that you have rotated some of the bond and turned the model around a bit
+to overcome this possible confusion the convention is that you always look for the longest possible chain of carbon atom and then draw it horizontally
+anything else is simply hung off that chain
+it doe matter in the least whether you draw any side group pointing up or down
+all of the following represent exactly the same molecule
+if you made a model of one of them you could turn it into any other one simply by rotating one or more of the bond
+how to draw structural formula in there are occasion when it is important to be able to show the precise arrangement in part of some molecule
+to do this the bond are shown using conventional symbol for example you might want to show the arrangement of the group around the carbon which ha the group in
+ha the structural formula using conventional bond notation you could draw it a for example the only difference between these is a slight rotation of the bond between the centre two carbon atom
+this is shown in the two model below
+look carefully at them particularly at what ha happened to the lone hydrogen atom
+in the model it is tucked behind the carbon atom
+in the model it is in the same plane
+the change is very slight
+it doe matter in the least which of the two arrangement you draw
+you could easily invent other one a well
+choose one of them and get into the habit of drawing structure that way
+my own habit used elsewhere on this site is to draw two bond going back into the paper and one coming out a in the diagram above
+notice that no attempt wa made to show the whole molecule in in the structural formula diagram
+the ch2ch3 group wa left in a simple form
+keep diagram simple trying to show too much detail make the whole thing amazingly difficult to understand
+skeletal formula in a skeletal formula all the hydrogen atom are removed from carbon chain leaving just a carbon skeleton with functional group attached to it
+for example we just been talking about
+the normal structural formula and the skeletal formula look like this in a skeletal diagram of this sort there is a carbon atom at each junction between bond in a chain and at the end of each bond unless there is something else there already like the group in the example there are enough hydrogen atom attached to each carbon to make the total number of bond on that carbon up to 4
+beware
+diagram of this sort take practice to interpret correctly and may well not be acceptable to your examiner see below
+there are however some very common case where they are frequently used
+these case involve ring of carbon atom which are surprisingly awkward to draw tidily in a normal structural formula
+cyclohexane c6h12 is a ring of carbon atom each with two hydrogen attached
+this is what it look like in both a structural formula and a skeletal formula
+and this is cyclohexene which is similar but contains a double bond but the commonest of all is the benzene ring c6h6 which ha a special symbol of it own
+if you made a model of one of them you could turn it into any other one simply by rotating one or more of the bond
+how to draw structural formula in there are occasion when it is important to be able to show the precise arrangement in part of some molecule
+to do this the bond are shown using conventional symbol for example you might want to show the arrangement of the group around the carbon which ha the group in
+ha the structural formula using conventional bond notation you could draw it a for example the only difference between these is a slight rotation of the bond between the centre two carbon atom
+this is shown in the two model below
+look carefully at them particularly at what ha happened to the lone hydrogen atom
+in the model it is tucked behind the carbon atom
+in the model it is in the same plane
+the change is very slight
+it doe matter in the least which of the two arrangement you draw
+you could easily invent other one a well
+choose one of them and get into the habit of drawing structure that way
+my own habit used elsewhere on this site is to draw two bond going back into the paper and one coming out a in the diagram above
+notice that no attempt wa made to show the whole molecule in in the structural formula diagram
+the ch2ch3 group wa left in a simple form
+keep diagram simple trying to show too much detail make the whole thing amazingly difficult to understand
+skeletal formula in a skeletal formula all the hydrogen atom are removed from carbon chain leaving just a carbon skeleton with functional group attached to it
+for example we just been talking about
+the normal structural formula and the skeletal formula look like this in a skeletal diagram of this sort there is a carbon atom at each junction between bond in a chain and at the end of each bond unless there is something else there already like the group in the example there are enough hydrogen atom attached to each carbon to make the total number of bond on that carbon up to 4
+beware
+diagram of this sort take practice to interpret correctly and may well not be acceptable to your examiner see below
+there are however some very common case where they are frequently used
+these case involve ring of carbon atom which are surprisingly awkward to draw tidily in a normal structural formula
+cyclohexane c6h12 is a ring of carbon atom each with two hydrogen attached
+this is what it look like in both a structural formula and a skeletal formula
+and this is cyclohexene which is similar but contains a double bond but the commonest of all is the benzene ring c6h6 which ha a special symbol of it own
+if you made a model of one of them you could turn it into any other one simply by rotating one or more of the bond
+how to draw structural formula in there are occasion when it is important to be able to show the precise arrangement in part of some molecule
+to do this the bond are shown using conventional symbol for example you might want to show the arrangement of the group around the carbon which ha the group in
+ha the structural formula using conventional bond notation you could draw it a for example the only difference between these is a slight rotation of the bond between the centre two carbon atom
+this is shown in the two model below
+look carefully at them particularly at what ha happened to the lone hydrogen atom
+in the model it is tucked behind the carbon atom
+in the model it is in the same plane
+the change is very slight
+it doe matter in the least which of the two arrangement you draw
+you could easily invent other one a well
+choose one of them and get into the habit of drawing structure that way
+my own habit used elsewhere on this site is to draw two bond going back into the paper and one coming out a in the diagram above
+notice that no attempt wa made to show the whole molecule in in the structural formula diagram
+the ch2ch3 group wa left in a simple form
+keep diagram simple trying to show too much detail make the whole thing amazingly difficult to understand
+skeletal formula in a skeletal formula all the hydrogen atom are removed from carbon chain leaving just a carbon skeleton with functional group attached to it
+for example we just been talking about
+the normal structural formula and the skeletal formula look like this in a skeletal diagram of this sort there is a carbon atom at each junction between bond in a chain and at the end of each bond unless there is something else there already like the group in the example there are enough hydrogen atom attached to each carbon to make the total number of bond on that carbon up to 4
+beware
+diagram of this sort take practice to interpret correctly and may well not be acceptable to your examiner see below
+there are however some very common case where they are frequently used
+these case involve ring of carbon atom which are surprisingly awkward to draw tidily in a normal structural formula
+cyclohexane c6h12 is a ring of carbon atom each with two hydrogen attached
+this is what it look like in both a structural formula and a skeletal formula
+and this is cyclohexene which is similar but contains a double bond but the commonest of all is the benzene ring c6h6 which ha a special symbol of it own
+it is explained in full in two page on the structure of benzene elsewhere in this site
+it would probably be better not to follow this link unless you are actively interested in benzene chemistry at the moment it will lead you off into quite deep water
+deciding which sort of formula to use there no easy answer to this problem
+it depends more than anything else on experience a feeling that a particular way of writing a formula is best for the situation you are dealing with
+do worry about this a you do more and more organic chemistry you will probably find it will come naturally
+you get so used to writing formula in reaction mechanism or for the structure for isomer or in simple chemical equation that you wo even think about it
+there are however a few guideline that you should follow
+what doe your syllabus say
+different examiner will have different preference
+check first with your syllabus
+if you a copy of your syllabus from your examiner web site it is easy to check what they say they want
+use the find function on your adobe acrobat reader to search the organic section s of the syllabus for the word formula
+you should also check recent exam paper and particulary mark scheme to find out what sort of formula the examiner really prefer in given situation
+you could also look at any support material published by your examiner
+there are however a few guideline that you should follow
+what doe your syllabus say
+different examiner will have different preference
+check first with your syllabus
+if you a copy of your syllabus from your examiner web site it is easy to check what they say they want
+use the find function on your adobe acrobat reader to search the organic section s of the syllabus for the word formula
+you should also check recent exam paper and particulary mark scheme to find out what sort of formula the examiner really prefer in given situation
+you could also look at any support material published by your examiner
+there are however a few guideline that you should follow
+what doe your syllabus say
+different examiner will have different preference
+check first with your syllabus
+if you a copy of your syllabus from your examiner web site it is easy to check what they say they want
+use the find function on your adobe acrobat reader to search the organic section s of the syllabus for the word formula
+you should also check recent exam paper and particulary mark scheme to find out what sort of formula the examiner really prefer in given situation
+you could also look at any support material published by your examiner
+syllabus and have got a copy of that syllabus and recent exam paper follow this link to find out how to get them
+what if you still are sure
+draw the most detailed formula that you can fit into the space available
+if in doubt draw a fully displayed formula
+you would never lose mark for giving too much detail
+apart from the most trivial case for example burning hydrocarbon never use a molecular formula
+always show the detail around the important part s of a molecule
+for example the important part of an ethene molecule is the double bond so write at the very least and not c2h4
+where a particular way of drawing a structure is important this will always be pointed out where it arises elsewhere on this site

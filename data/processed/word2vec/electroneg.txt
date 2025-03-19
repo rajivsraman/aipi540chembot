@@ -1,0 +1,102 @@
+electronegativity this page explains what electronegativity is and how and why it varies around the periodic table
+it look at the way that electronegativity difference affect bond type and explains what is meant by polar bond and polar molecule
+if you are interested in electronegativity in an organic chemistry context you will find a link at the bottom of this page
+what is electronegativity definition electronegativity is a measure of the tendency of an atom to attract a bonding pair of electron
+the pauling scale is the most commonly used
+fluorine the most electronegative element is assigned a value of and value range down to caesium and francium which are the least electronegative at
+what happens if two atom of equal electronegativity bond together
+consider a bond between two atom a and b
+each atom may be forming other bond a well a the one shown but these are irrelevant to the argument
+if the atom are equally electronegative both have the same tendency to attract the bonding pair of electron and so it will be found on average half way between the two atom
+to get a bond like this a and b would usually have to be the same atom
+you will find this sort of bond in for example h2 or cl2 molecule
+the electron are actually in a molecular orbital and are moving around all the time within that orbital
+this sort of bond could be thought of a being a pure covalent bond where the electron are shared evenly between the two atom
+what happens if b is slightly more electronegative than a
+b will attract the electron pair rather more than a doe
+that mean that the b end of the bond ha more than it fair share of electron density and so becomes slightly negative
+at the same time the a end rather short of electron becomes slightly positive
+in the diagram read a delta mean slightly so mean slightly positive
+defining polar bond this is described a a polar bond
+a polar bond is a covalent bond in which there is a separation of charge between one end and the other in other word in which one end is slightly positive and the other slightly negative
+example include most covalent bond
+the bond in hcl or the bond in water are typical
+what happens if b is a lot more electronegative than a
+in this case the electron pair is dragged right over to b end of the bond
+to all intent and purpose a ha lost control of it electron and b ha complete control over both electron
+ion have been formed
+a spectrum of bond the implication of all this is that there is no division between covalent and ionic bond
+in a pure covalent bond the electron are held on average exactly half way between the atom
+in a polar bond the electron have been dragged slightly towards one end
+how far doe this dragging have to go before the bond count a ionic
+there is no real answer to that
+you normally think of sodium chloride a being a typically ionic solid but even here the sodium ha completely lost control of it electron
+because of the property of sodium chloride however we tend to count it a if it were purely ionic
+at example will tend to avoid the grey area they will be obviously covalent or obviously ionic
+you will however be expected to realise that those grey area exist
+lithium iodide on the other hand would be described a being ionic with some covalent character
+in this case the pair of electron ha moved entirely over to the iodine end of the bond
+lithium iodide for example dissolve in organic solvent like ethanol not something which ionic substance normally do
+summary no electronegativity difference between two atom lead to a pure covalent bond
+a small electronegativity difference lead to a polar covalent bond
+a large electronegativity difference lead to an ionic bond
+polar bond and polar molecule in a simple molecule like hcl if the bond is polar so also is the whole molecule
+what about more complicated molecule
+in ccl4 each bond is polar
+dotted line represent bond going away from you into the screen or paper
+wedged line represent bond coming out of the screen or paper towards you
+the molecule a a whole however is polar in the sense that it doe have an end or a side which is slightly negative and one which is slightly positive
+the whole of the outside of the molecule is somewhat negative but there is no overall separation of charge from top to bottom or from left to right
+by contrast chcl3 is polar
+the hydrogen at the top of the molecule is less electronegative than carbon and so is slightly positive
+this mean that the molecule now ha a slightly positive top and a slightly negative bottom and so is overall a polar molecule
+a polar molecule will need to be in some way
+pattern of electronegativity in the periodic table the most electronegative element is fluorine
+if you remember that fact everything becomes easy because electronegativity must always increase towards fluorine in the periodic table
+historically this is because they were believed not to form bond and if they do form bond they ca have an electronegativity value
+even now that we know that some of them do form bond data source still do quote electronegativity value for them
+trend in electronegativity across a period a you go across a period the electronegativity increase
+the chart show electronegativity from sodium to chlorine you have to ignore argon
+it doe have an electronegativity because it doe form bond
+trend in electronegativity down a group a you go down a group electronegativity decrease
+if it increase up to fluorine it must decrease a you go down
+the chart show the pattern of electronegativity in group 1 and 7
+explaining the pattern in electronegativity the attraction that a bonding pair of electron feel for a particular nucleus depends on the number of proton in the nucleus the distance from the nucleus the amount of screening by inner electron
+the factor influencing ionisation energy are just the same a those influencing electronegativity
+on your browser to return to this page
+on your browser to return to this page
+on your browser to return to this page
+why doe electronegativity increase across a period
+consider sodium at the beginning of period 3 and chlorine at the end ignoring the noble gas argon
+think of sodium chloride a if it were covalently bonded
+both sodium and chlorine have their bonding electron in the
+the electron pair is screened from both nucleus by the 1 2 and 2p electron but the chlorine nucleus ha 6 more proton in it
+it is no wonder the electron pair get dragged so far towards the chlorine that ion are formed
+electronegativity increase across a period because the number of charge on the nucleus increase
+that attracts the bonding pair of electron more strongly
+why doe electronegativity fall a you go down a group
+think of hydrogen fluoride and hydrogen chloride
+the bonding pair is shielded from the fluorine nucleus only by the 1s2 electron
+in the chlorine case it is shielded by all the 1s22s22p6 electron
+in each case there is a net pull from the centre of the fluorine or chlorine of
+but fluorine ha the bonding pair in the rather than the a it is in chlorine
+if it is closer to the nucleus the attraction is greater
+a you go down a group electronegativity decrease because the bonding pair of electron is increasingly distant from the attraction of the nucleus
+diagonal relationship in the periodic table what is a diagonal relationship
+at the beginning of period 2 and 3 of the periodic table there are several case where an element at the top of one group ha some similarity with an element in the next group
+three example are shown in the diagram below
+notice that the similarity occur in element which are diagonal to each other not
+for example boron is a with some property rather like silicon
+unlike the rest of group 2 beryllium ha some property resembling aluminium
+and lithium ha some property which differ from the other element in group 1 and in some way resembles magnesium
+there is said to be a diagonal relationship between these element
+there are several reason for this but each depends on the way atomic property like electronegativity vary around the periodic table
+so we will have a quick look at this with regard to electronegativity which is probably the simplest to explain
+explaining the diagonal relationship with regard to electronegativity electronegativity increase across the periodic table
+so for example the electronegativity of beryllium and boron are electronegativity fall a you go down the periodic table
+so for example the electronegativity of boron and aluminium are so comparing be and al you find the value are by chance exactly the same
+the increase from group 2 to group 3 is offset by the fall a you go down group 3 from boron to aluminium
+something similar happens from lithium to magnesium and from boron to silicon
+in these case the electronegativity are exactly the same but are very close
+similar electronegativity between the member of these diagonal pair mean that they are likely to form similar type of bond and that will affect their chemistry
+you may well come across example of this later on in your course

@@ -1,0 +1,55 @@
+reaction between halogenoalkanes and ammonia this page look at the reaction between halogenoalkanes haloalkane or alkyl halide and ammonia
+this is a potentially very complicated series of reaction so it is important to know exactly what your examiner want
+you need to check your syllabus and past exam paper and mark scheme
+important
+if you are working towards a exam a level or equivalent and do have any of this information then it is essential that you get it
+find out how by going to the syllabus page
+the current page summarises the main fact about the reaction
+if you need detail about the mechanism you will find a link below
+reaction detail and product the halogenoalkane is heated with a concentrated solution of ammonia in ethanol
+the reaction is carried out in a sealed tube
+you could heat this mixture under reflux because the ammonia would simply escape up the condenser a a gas
+we talk about the reaction using a a typical primary halogenoalkane
+there is no difference in the detail of the reaction if you chose a secondary or tertiary halogenoalkane instead
+the equation would just look more complicated than they already are
+you get a series of amine formed together with their salt
+the reaction happen one after another
+making a primary amine the reaction happens in two stage
+in the first stage a salt is formed in this case ethylammonium bromide
+this is just like ammonium bromide except that one of the hydrogen in the ammonium ion is replaced by an ethyl group
+there is then the possibility of a reversible reaction between this salt and excess ammonia in the mixture
+the ammonia remove a hydrogen ion from the ethylammonium ion to leave a primary amine ethylamine
+the more ammonia there is in the mixture the more the forward reaction is favoured
+some of the information you come across is simply wrong
+you can read the argument about the product of this reaction by following this link
+that page is in the mechanism section of the site
+return to the current page using the back button on your browser
+if you use the link at the bottom of that page you could get seriously lost
+making a secondary amine the reaction doe stop at a primary amine
+the ethylamine also reacts with bromoethane in the same two stage a before
+in the first stage you get a salt formed this time diethylammonium bromide
+think of this a ammonium bromide with two hydrogen replaced by ethyl group
+there is again the possibility of a reversible reaction between this salt and excess ammonia in the mixture
+the ammonia remove a hydrogen ion from the diethylammonium ion to leave a secondary amine diethylamine
+a secondary amine is one which ha two alkyl group attached to the nitrogen
+making a tertiary amine and still it doe stop
+the diethylamine also reacts with bromoethane in the same two stage a before
+in the first stage you get triethylammonium bromide
+there is again the possibility of a reversible reaction between this salt and excess ammonia in the mixture
+the ammonia remove a hydrogen ion from the triethylammonium ion to leave a tertiary amine triethylamine
+a tertiary amine is one which ha three alkyl group attached to the nitrogen
+making a quaternary ammonium salt the final stage
+the triethylamine reacts with bromoethane to give tetraethylammonium bromide a quaternary ammonium salt one in which all four hydrogen have been replaced by alkyl group
+this time there is any hydrogen left on the nitrogen to be removed
+the reaction stop here
+it is much much easier to work it out if you need to provided you understand the mechanism for the reaction
+you can explore the mechanism for the various stage of the reaction by following this link
+this will lead you to several page in the mechanism section of this site
+if all you want to do is make some sense of the above reaction it would probably pay you to just read the part of those page concerned with primary halogenoalkanes like bromoethane
+what do you actually get if you react bromoethane with ammonia
+whatever you do you get a mixture of all of the product including both amine and their salt shown on this page
+to get mainly the quaternary ammonium salt you can use a large excess of bromoethane
+if you look at the reaction going on each one need additional bromoethane
+if you provide enough then the chance are that the reaction will go to completion given enough time
+on the other hand if you use a very large excess of ammonia the chance are always greatest that a bromoethane molecule will hit an ammonia molecule rather than one of the amine being formed
+that will help to prevent the formation of secondary etc amine

@@ -1,0 +1,25 @@
+the reaction between unsymmetrical alkene and bromine important
+this page assumes that you have already read the page on the addition of bromine to symmetrical alkene
+if you have you must read it before you go on
+it contains important advice that you will need to make best use of this page
+this page give you the fact and a simple uncluttered mechanism for the electrophilic addition reaction between bromine and alkene like propene
+if you want the mechanism explained to you in detail there is a link at the bottom of the page
+an unsymmetrical alkene is one like propene in which the group or atom attached to either end of the double bond are different
+for example in propene there are a hydrogen and a methyl group at one end but two hydrogen atom at the other end of the double bond
+is another unsymmetrical alkene
+the fact in common with all other alkene propene reacts in the cold with pure liquid bromine or with a solution of bromine in an organic solvent like tetrachloromethane
+the double bond break and a bromine atom becomes attached to each carbon
+the bromine loses it original colour to give a colourless liquid
+in the case of the reaction with propene is formed
+the other halogen apart from fluorine behave similarly
+fluorine reacts explosively with all hydrocarbon including alkene to give carbon and hydrogen fluoride
+if you are interested in the reaction with say chlorine all you have to do is to replace br by cl in all the equation on this page
+the mechanism for the reaction between propene and bromine the reaction is an example of electrophilic addition
+just a with symmetrical alkene there are two version of the propene bromine mechanism in common use and you must know which your examiner will accept
+how you can find out which one your examiner expect is explained on the page on the addition of bromine to symmetrical alkene
+bromine a an electrophile the bromine is a very polarisable molecule and the approaching pi bond in the propene induces a dipole in the bromine molecule
+if you draw this mechanism in an exam write the word induced dipole next to the bromine molecule
+the simplified version of the mechanism the more accurate version of the mechanism there no point in making life difficult for yourself
+in the first stage of the reaction one of the bromine atom becomes attached to both carbon atom with the positive charge being found on the bromine atom
+a bromonium ion is formed
+the bromonium ion is then attacked from the back by a bromide ion formed in a nearby reaction

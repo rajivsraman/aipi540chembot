@@ -1,0 +1,57 @@
+enzyme inhibitor this page look at the effect of inhibitor on reaction involving enzyme
+this is the third and final page talking about how enzyme function a catalyst
+please remember that this series of page is written for 16 18 year old chemistry student
+if you want something more advanced you are looking in the wrong place
+if you have come straight to this page via a search engine you really ought to go back and read that page first
+in fact unless you already have a good knowledge of protein structure you may have to go back further still to a page about the structure of protein
+competitive and inhibition competitive inhibitor this is the most straightforward and obvious form of enzyme inhibition and the name tell you exactly what happens
+the inhibitor ha a similar shape to the usual substrate for the enzyme and competes with it for the active site
+however once it is attached to the active site nothing happens to it
+it doe react essentially it just get in the way
+remember the general equation for an enzyme reacting with a substrate
+the equivalent equation for a competitive inhibitor look like this the complex doe react any further to form product but it formation is still reversible
+it break up again to form the enzyme and the inhibitor molecule
+that mean that if you increase the concentration of the substrate the substrate can the inhibitor and so the normal reaction can take place at a reasonable rate
+a simple example of this involves malonate ion inhibiting the enzyme succinate dehydrogenase
+this enzyme catalysis the conversion of succinate ion to fumarate ion
+the modern name are malonate propanedioate succinate butanedioate fumarate the conversion that succinate dehydrogenase carry out is the reaction is inhibited by malonate ion which have a very similar shape to succinate ion
+the similar shape let the malonate ion bind to the active site but the lack of the bond in the centre of the ion stop any further reaction taking place
+the malonate ion therefore block the active site but remember that this is reversible
+the malonate ion will break away and free up the enzyme again
+the malonate ion are in competition for the site they are destroying it
+if the succinate ion have a greater concentration than the malonate ion by chance they will get access to the site more often than the malonate ion
+that mean that you can overcome the effect of a competitive inhibitor by increasing the concentration of the substrate
+if you read about this reaction in other place you may find the reaction quoted a converting succinic acid into fumaric acid
+some source even seem to imply that the word succinate and succinic acid mean the same thing
+that unacceptable from a chemistry point of view
+a far a i have been able to discover the correct version is the conversion from succinate ion to fumarate ion a above
+at a typical cell ph of around ph 7 these substance will be present mainly a their ion not a the unionised acid
+and scientific paper from people working on the mechanism for this conversion all talk about the ion not the acid
+inhibitor a inhibitor doe attach itself to the active site but attache somewhere else on the enzyme
+by attaching somewhere else it affect the structure of the enzyme and so the way the enzyme work
+because there is any competition involved between the inhibitor and the substrate increasing the substrate concentration wo help
+if you look at various biochemistry site on the web you will find two explanation for this
+we look at the simple fairly obvious one in some detail in a minute
+i want to have a brief word about the other one first
+pure inhibitor this explanation say that the inhibitor doe affect the ability of the substrate to bond with the active site but stop it reacting once it is there
+i found a couple of biochemistry site which said that inhibitor working like this which they describe a pure inhibitor are virtually unknown
+a a i do know what the truth is about this if you want to find out you will probably have to do a biochemistry degree
+other inhibitor the straightforward explanation which would seem to apply to most enzyme is that reaction with the inhibitor cause the shape of the active site to change
+remember that inhibitor are attaching directly to the active site but elsewhere on the enzyme
+the inhibitor attachs to a side group in the protein chain and affect the way the protein fold into it tertiary structure
+that in turn change the shape of the active site
+if the shape of the active site change then the substrate ca attach to it any more
+some inhibitor attach irreversibly to the enzyme and therefore stop it working permanently
+others attach reversibly
+a relatively uncomplicated example of inhibitor in a reasonably familiar situation is heavy metal poisoning you are probably aware that compound containing heavy metal such a lead mercury copper or silver are poisonous
+this is because ion of these metal are inhibitor for several enzyme
+i going to take silver a a simple example
+silver ion react with group in the side group of cysteine residue in the protein chain there is enough electronegativity difference between silver and sulphur for a full ionic bond and so the bond can be considered a covalent
+if the cysteine residue is somewhere on the protein chain which affect the way it fold into it tertiary structure then altering this group could have an effect on the shape of the active site and so stop the enzyme from working
+the ion from for example mercury copper or lead can behave similarly also attaching themselves to the sulphur in place of the hydrogen
+a student suggested this page which ha a note about mercury poisoning see item 4 on the page
+this suggests that mercury break bridge by attaching to both of the sulphur atom distorting the bridge and so the folding of the protein chain
+i have no reason to suppose that this description is wrong but i am a bit wary of relying on a single source
+the reason for choosing silver a my example rather than the more obvious mercury or lead is that it form a ion
+for ion you would have to worry about what got attached to the metal a well a the sulphur or whether it retained a single positive charge
+all the biochemistry source i been able to find skip over this problem a a chemistry teacher looking for chemical accuracy i not prepared to do that

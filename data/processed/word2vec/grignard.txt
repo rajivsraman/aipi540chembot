@@ -1,0 +1,45 @@
+reaction of aldehyde and ketone with grignard reagent this page look at the reaction of aldehyde and ketone with grignard reagent to produce potentially quite complicated alcohol
+it is mainly a duplication of the information on these same reaction from a page on grignard reagent in the section on property of halogenoalkanes
+grignard reagent you might like to follow this link
+on your browser if you want to return to this page
+what are grignard reagent
+a grignard reagent ha a formula rmgx where x is a halogen and r is an alkyl or aryl based on a benzene ring group
+for the purpose of this page we shall take r to be an alkyl group
+a typical grignard reagent might be ch3ch2mgbr
+the preparation of a grignard reagent grignard reagent are made by adding the halogenoalkane to small bit of magnesium in a flask containing ethoxyethane commonly called diethyl ether or just ether
+the flask is fitted with a reflux condenser and the mixture is warmed over a water bath for 20 30 minute
+everything must be perfectly dry because grignard reagent react with water
+ethoxyethane ether is very dangerous to work with
+it is an anaesthetic and is extremely inflammable
+under no circumstance should you try to carry out this reaction without properly qualified guidance
+any reaction using the grignard reagent are carried out with the mixture produced from this reaction
+you ca separate it out in any way
+reaction of grignard reagent with aldehyde and ketone these are reaction of the double bond and so aldehyde and ketone react in exactly the same way all that change are the group that happen to be attached to the double bond
+it is much easier to understand what is going on by looking closely at the general case using r group rather than specific group and then slotting in the various real group a and when you need to
+the r group can be either hydrogen or alkyl in any combination
+in the first stage the grignard reagent add across the double bond dilute acid is then added to this to hydrolyse it
+mg oh br a the other product of the reaction
+that actually misleading because these compound react with dilute acid
+what you end up with would be a mixture of ordinary hydrated magnesium ion halide ion and sulphate or chloride ion depending on which dilute acid you added
+what you need to learn about this depends on what your examiner want
+the only way to find that out is to look at old exam paper and mark scheme
+if you are a uk a level student and have got copy of these find out how to get hold of them by going to the syllabus page to find your exam board web address
+an alcohol is formed
+one of the key us of grignard reagent is the ability to make complicated alcohol easily
+what sort of alcohol you get depends on the carbonyl compound you started with in other word what r and r are
+the reaction between grignard reagent and methanal in methanal both r group are hydrogen
+methanal is the simplest possible aldehyde
+assuming that you are starting with ch3ch2mgbr and using the general equation above the alcohol you get always ha the form since both r group are hydrogen atom the final product will be a primary alcohol is formed
+a primary alcohol ha only one alkyl group attached to the carbon atom with the group on it
+you could obviously get a different primary alcohol if you started from a different grignard reagent
+the reaction between grignard reagent and other aldehyde the next biggest aldehyde is ethanal
+one of the r group is hydrogen and the other ch3
+again think about how that relates to the general case
+the alcohol formed is so this time the final product ha one ch3 group and one hydrogen attached a secondary alcohol ha two alkyl group the same or different attached to the carbon with the group on it
+you could change the nature of the final secondary alcohol by either changing the nature of the grignard reagent which would change the ch3ch2 group into some other alkyl group changing the nature of the aldehyde which would change the ch3 group into some other alkyl group
+the reaction between grignard reagent and ketone ketone have two alkyl group attached to the double bond
+the simplest one is propanone
+this time when you replace the r group in the general formula for the alcohol produced you get a tertiary alcohol
+a tertiary alcohol ha three alkyl group attached to the carbon with the attached
+the alkyl group can be any combination of same or different
+you could ring the change on the product by changing the nature of the grignard reagent which would change the ch3ch2 group into some other alkyl group changing the nature of the ketone which would change the ch3 group into whatever other alkyl group you choose to have in the original ketone

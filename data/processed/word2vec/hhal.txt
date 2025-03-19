@@ -1,0 +1,77 @@
+alkene and hydrogen halide this page look at the reaction of the double bond in alkene such a ethene with hydrogen halide such a hydrogen chloride and hydrogen bromide
+symmetrical alkene like ethene or are dealt with first
+these are alkene where identical group are attached to each end of the double bond
+the extra problem associated with unsymmetrical one like propene are covered in a separate section afterwards
+addition to symmetrical alkene what happens
+all alkene undergo addition reaction with the hydrogen halide
+a hydrogen atom join to one of the carbon atom originally in the double bond and a halogen atom to the other
+for example with ethene and hydrogen chloride you get chloroethane with you get what happens if you add the hydrogen to the carbon atom at the end of the double bond and the chlorine to the end
+you would still have the same product
+the chlorine would be on a carbon atom next to the end of the chain you would simply have drawn the molecule flipped over in space
+that would be different of the alkene wa unsymmetrical that why we have to look at them separately
+condition the alkene react with gaseous hydrogen halide at room temperature
+if the alkene is also a gas you can simply mix the gas
+if the alkene is a liquid you can bubble the hydrogen halide through the liquid
+alkene will also react with concentrated solution of the gas in water
+a solution of hydrogen chloride in water is of course hydrochloric acid
+a solution of hydrogen bromide in water is hydrobromic acid and so on
+there are however problem with this
+the water will also get involved in the reaction and you end up with a mixture of product
+the mechanism for this reaction is almost invariably given for the reaction involving the alkene and the simple molecule or or whatever
+in the presence of water these molecule will already have reacted with the water to produce hydroxonium ion and halide ion
+the mechanism will therefore be different involving an initial attack by a hydroxonium ion
+avoid this problem by using the pure gaseous hydrogen halide
+if you choose to follow this link to the mechanism on your browser to return to this page
+reaction rate variation of rate when you change the halogen reaction rate increase in the order hf hcl hbr hi
+hydrogen fluoride reacts much more slowly than the other three and is normally ignored in talking about these reaction
+when the hydrogen halide react with alkene the bond ha to be broken
+the bond strength fall a you go from hf to hi and the bond is particularly strong
+because it is difficult to break the bond between the hydrogen and the fluorine the addition of hf is bound to be slow
+variation of rate when you change the alkene this applies to unsymmetrical alkene a well a to symmetrical one
+for simplicity the example given below are all symmetrical but they do have to be
+reaction rate increase a the alkene get more complicated in the sense of the number of alkyl group such a methyl group attached to the carbon atom at either end of the double bond
+for example there are two way of looking at the reason for this both of which need you to know about the mechanism for the reaction
+you should look at the addition of hydrogen halide to unsymmetrical alkene a well a symmetrical one
+this will take you some time
+or more efficiently the history file or go menu on your browser to return to this page
+if you do need to know about the mechanism skip over the next bit
+alkene react because the electron in the pi bond attract thing with any degree of positive charge
+anything which increase the electron density around the double bond will help this
+alkyl group have a tendency to push electron away from themselves towards the double bond
+the more alkyl group you have the more negative the area around the double bond becomes
+the more negatively charged that region becomes the more it will attract molecule like hydrogen chloride
+you will find more about the electron pushing effect of alkyl group on a page about carbocations in the mechanism section of this site
+that is also important reading if you are to understand the next bit
+on your browser to return to this page later
+the more important reason though lie in the stability of the intermediate ion formed during the reaction
+the three example given above produce these carbocations carbonium ion at the stage of the reaction the stability of the intermediate ion governs the activation energy for the reaction
+a you go towards the more complicated alkene the activation energy for the reaction fall
+that mean that the reaction become faster
+did understand this
+you should have followed the link to the page about carbocations mentioned above
+on your browser to return to this page afterwards
+addition to unsymmetrical alkene what happens
+in term of reaction condition and the factor affecting the rate of the reaction there is no difference whatsoever between these alkene and the symmetrical one described above
+the problem come with the orientation of the addition in other word which way around the hydrogen and the halogen add across the double bond
+orientation of addition if hcl add to an unsymmetrical alkene like propene there are two possible way it could add
+however in practice there is only one major product
+this is in line with markovnikov rule which say when a compound hx is added to an unsymmetrical alkene the hydrogen becomes attached to the carbon with the most hydrogen attached to it already
+in this case the hydrogen becomes attached to the ch2 group because the ch2 group ha more hydrogen than the ch group
+notice that only the hydrogen directly attached to the carbon atom at either end of the double bond count
+the one in the ch3 group are totally irrelevant
+markovnikov rule is a useful guide for you to work out which way round to add something across a double bond but it is the reason why thing add that way
+a a general principle do quote markovnikov rule in an exam unless you are specifically asked for it
+you will find the proper reason for this in a page about the addition of hydrogen halide to unsymmetrical alkene in the mechanism section of this site
+on your browser if you want to return to this page
+a special problem with hydrogen bromide unlike the other hydrogen halide hydrogen bromide can add to a double bond either way around depending on the condition of the reaction
+if the hydrogen bromide and alkene are entirely pure in this case the hydrogen bromide add on according to markovnikov rule
+for example with propene you would get
+that is exactly the same a the way the other hydrogen halide add
+if the hydrogen bromide and alkene contain trace of organic peroxide oxygen from the air tends to react slowly with alkene to produce some organic peroxide and so you do necessarily have to add them separately
+this is therefore the reaction that you will tend to get unless you take care to exclude all air from the system
+in this case the addition is the other way around and you get this is sometimes described a an addition or a the peroxide effect
+organic peroxide are excellent source of free radical
+in the presence of these the hydrogen bromide reacts with alkene using a different faster mechanism
+for various reason this doe happen with the other hydrogen halide
+this reaction can also happen in this way in the presence of light of the right wavelength to break the bond into hydrogen and bromine free radical
+hbr to alkene in the mechanism section of this site

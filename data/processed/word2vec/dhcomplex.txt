@@ -1,0 +1,42 @@
+dehydration of more complicated alcohol this page build on your understanding of the acid catalysed dehydration of alcohol
+you have to be wary with more complicated alcohol in case there is the possibility of more than one alkene being formed
+is a good example of this with no less than three different alkene being formed when it is dehydrated
+is just an example to illustrate the problem
+it is important that you understand it so that you can work out what will happen in similar case
+it would be quite impossible for you to learn what happens with every single alcohol you might be presented with
+the basic fact and mechanism for these reaction are exactly the same a with
+this page only deal with the extra problem created by the possibility of more than one dehydration product
+important
+what follow assumes that you are familiar with the mechanism for the dehydration of
+if you are it is essential that you follow this link before you go on
+background to make the diagram less cluttered we use the simplified version of the mechanism showing gain and loss of
+remember that the mechanism take place in three stage the alcohol is protonated by the acid catalyst
+the alcohol is protonated by the acid catalyst
+the protonated alcohol loses a water molecule to give a carbocation carbonium ion
+the carbocation formed loses a hydrogen ion and form a double bond
+so in the case of the dehydration of the dehydration of the first two stage there is nothing new at all in these stage
+in the first stage the alcohol is protonated by picking up a hydrogen ion from the sulphuric acid
+in the second stage the positive ion then shed a water molecule and produce a carbocation
+the complication arises in the next step
+when the carbocation loses a hydrogen ion where is it going to come from
+where doe the hydrogen get removed from
+so that a double bond can form it will have to come from one of the carbon next door to the one with the positive charge
+if a hydrogen ion is lost from the ch3 group if a hydrogen ion is lost from the ch2 group this time the product is
+in fact the situation is even more complicated than it look because exhibit geometric isomerism
+you get a mixture of two isomer formed and
+is also known a z is also known a e
+for an explanation of the two way of naming these two compound follow the link in the box below
+geometric isomerism isomerism is where you can draw more than one arrangement of the atom for a given molecular formula
+geometric isomerism is a special case of this involving molecule which have restricted rotation around one of the bond in this case a double bond
+the bond could only rotate if enough energy is put in to break the pi bond
+effectively except at high temperature the bond is locked
+in the case of the two ch3 group will either both be locked on one side of the to give the ci or z isomer or on opposite side to give the trans or e one
+for a full discussion of geometric isomerism follow this link
+on your browser to return to this page
+beware
+it is easy to miss geometric isomer in an exam
+always draw alkene with the correct bond angle around the bond a shown in the diagram for the ci and trans isomer above
+if you take a short cut and write a you will almost certainly miss the fact that ci and trans form are possible
+this is a rich source of question in an exam
+you could easily throw away mark if you miss these possibility
+the overall result dehydration of lead to a mixture containing also known a z also known a e
