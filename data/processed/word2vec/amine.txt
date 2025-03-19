@@ -1,0 +1,86 @@
+phenylamine a a primary amine this page look at reaction of phenylamine also known a aniline or aminobenzene where it behaves a a fairly straightforward primary amine
+it explains why phenylamine is a weaker base than other primary amine and summarises it reaction with acyl chloride acid chloride acid anhydride and halogenoalkanes haloalkane or alkyl halide
+before you read each section on this page you should follow the link to the corresponding page about aliphatic amine those not based on benzene ring
+in most case the reaction are the same and this page only really look in detail at the difference in the phenylamine case
+phenylamine a a base important first read the page about the basic property of amine to give you all the detailed explanation about amine in general
+on your browser to return to this page when you have done that
+amine are base because the lone pair of electron on the nitrogen atom can accept a hydrogen ion in other word for exactly the same reason that ammonia is a base
+with phenylamine the only difference is that it is a much weaker base than ammonia or an amine like ethylamine for reason that we will explore later
+the reaction of phenylamine with acid phenylamine reacts with acid like hydrochloric acid in exactly the same way a any other amine
+despite the fact that the phenylamine is only a very weak base with a strong acid like hydrochloric acid the reaction is completely straightforward
+phenylamine is only very slightly soluble in water but dissolve freely in dilute hydrochloric acid
+a solution of a salt is formed phenylammonium chloride
+if you just want to show the formation of the salt you could write
+or if you want to emphasise the fact that the phenylamine is acting a a base you could most simply use getting the phenylamine back from it salt to get the phenylamine back from the phenylammonium ion present in the salt all you have to do is to take the hydrogen ion away again
+you can do that by adding any stronger base
+normally you would choose sodium hydroxide solution
+the phenylamine is formed first a an emulsion tiny droplet of phenylamine scattered throughout the water
+this then settle out to give an oily bottom layer of phenylamine under the aqueous layer
+the reaction of phenylamine with water this is where it is possible to tell that phenylamine is a much weaker base than ammonia and the aliphatic amine like methylamine and ethylamine
+phenylamine reacts reversibly with water to give phenylammonium ion and hydroxide ion
+the position of equilibrium lie well to the left of the corresponding ammonia or aliphatic amine equilibrium which mean that not many hydroxide ion are formed in the solution
+the effect of this is that the ph of a solution of phenylamine will be quite a bit lower than a solution of ammonia or one of the aliphatic amine of the same concentration
+for example a m phenylamine solution ha a ph of about 9 compared to a ph of about 11 for m ammonia solution
+why is phenylamine such a weak base
+amine are base because they pick up hydrogen ion on the lone pair on the nitrogen atom
+in phenylamine the attractiveness of the lone pair is lessened because of the way it interacts with the ring electron
+the lone pair on the nitrogen touch the delocalised ring electron
+and becomes delocalised with them if you follow this link you may have to explore several other page before you are ready to come back here again
+or history file or go menu on your browser to return to this page
+that mean that the lone pair is no longer fully available to combine with hydrogen ion
+the nitrogen is still the most electronegative atom in the molecule and so the delocalised electron will be attracted towards it but the electron density around the nitrogen is nothing like it is in say an ammonia molecule
+the other problem is that if the lone pair is used to join to a hydrogen ion it is no longer available to contribute to the delocalisation
+that mean that the delocalisation would have to be disrupted if the phenylamine act a a base
+delocalisation make molecule more stable and so disrupting the delocalisation cost energy and wo happen easily
+taken together the lack of intense charge around the nitrogen and the need to break some delocalisation mean that phenylamine is a very weak base indeed
+the acylation of phenylamine the reaction with acyl chloride and with acid anhydride these are reaction in which the phenylamine act a a nucleophile
+there is no essential difference between these reaction and the same reaction involving any other primary amine
+you will find a summary of the reaction below but all the detailed explanation are on other page
+important for detailed explanation read the page about the reaction of acyl chloride and reaction of acid anhydride with nitrogen compound
+it might pay you to read the acid anhydride page first because this also summarises the acyl chloride reaction
+it could save you having to read the acyl chloride page at all
+if you want the mechanism for the reaction with an acyl chloride you will find a link from the acyl chloride page
+mechanism for acid anhydride are required by any uk a level or equivalent syllabus so are covered anywhere on the site
+take your time over this it is easy stuff
+it might be a good idea to check your syllabus before you get too bogged down
+follow this link if you are a studying a syllabus and have got a copy of it
+or history file or go menu on your browser to return to this page when you have done all this
+we take ethanoyl chloride a a typical acyl chloride and ethanoic anhydride a a typical acid anhydride
+the important product of the reaction of phenylamine with either of these is the same
+phenylamine reacts vigorously in the cold with ethanoyl chloride to give a mixture of solid product ideally white but usually stained brownish
+a mixture of old name acetanilide and phenylammonium chloride is formed
+the overall equation for the reaction is with ethanoic anhydride heat is needed
+in this case the product are a mixture of and phenylammonium ethanoate
+ethanoate are always written with the ethanoic acid bit first
+that mean having to reverse the way you write the phenylammonium ion to keep the charge close together in the formula
+the main product molecule the is often drawn looking like this if you stop and think about it this is obviously the same molecule a in the equation above but it stress the phenylamine part of it much more
+looking at it this way notice that one of the hydrogen of the group ha been replaced by an acyl group an alkyl group attached to a double bond
+you can say that the phenylamine ha been acylated or ha undergone acylation
+because of the nature of this particular acyl group it is also described a ethanoylation
+the hydrogen is being replaced by an ethanoyl group
+taking chemistry further this is a useful reaction in the case of phenylamine
+the group in phenylamine ha major effect on the property of the benzene ring
+it make it much more reactive than in benzene itself and also make it prone to oxidation
+for example if you wanted to nitrate phenylamine you would get several nitro group substituted around the ring and a lot of unwanted oxidation because nitric acid is a strong oxidising agent
+to just substitute one nitro group and stop the oxidation you first ethanoylate the group which reduces it effect on the ring considerably
+after nitration you can remove the ethanoyl group by simply warming with sodium hydroxide solution
+the amide is hydrolysed just like any other amide under alkaline condition
+if you are interested the alkaline hydrolysis of amide is covered on another page
+the reaction of phenylamine with halogenoalkanes this is another reaction of phenylamine a a nucleophile and again there is no essential difference between it reaction and those of aliphatic amine
+important you should read the first half of the page about amine a nucleophiles to give you explanation about amine in general and possibly also the further link on that page back to reaction of halogenoalkanes for even more detail
+again take your time over this
+it is easy particularly if you have to go beyond the formation of the secondary amine
+on your browser to return to this page when you have done that
+taking bromoethane a a typical halogenoalkane the reaction with phenylamine happens in the same series of complicated step a with any other amine
+we just look at the first step
+on heating the bromoethane and phenylamine react to give a mixture of a salt of a secondary amine and some free secondary amine
+in this case you would first get bromide
+but this would instantly be followed by a reversible reaction in which some unreacted phenylamine would take a hydrogen ion from the salt to give some free secondary amine
+the reaction would stop there
+you will get further reaction to produce a tertiary amine and it salt and eventually a quaternary ammonium compound
+if you want to explore this further refer to the last link just up the page and trace the sequence of equation through using phenylamine rather than ethylamine
+a level or equivalent that i am not going to go through it
+all it would do is make chemistry look scary
+if you want to trace the whole reaction through make sure that you understand what is going on at each stage by following up the lead i have given you to other page on the site and then work it out for yourself
+if you can do it well done
+if you ca do worry about it life too short

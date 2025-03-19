@@ -1,0 +1,57 @@
+organic base this page explains why simple organic base are basic and look at the factor which affect their relative strength
+for purpose all the base we are concerned with are primary amine compound in which one of the hydrogen in an ammonia molecule nh3 is replaced either by an alkyl group or a benzene ring
+why are primary amine basic
+ammonia a a weak base all of the compound we are concerned with are derived from ammonia and so we start by looking at the reason for it basic property
+for the purpose of this topic we are going to take the definition of a base a a substance which combine with hydrogen ion proton
+we are going to get a measure of this by looking at how easily the base take hydrogen ion from water molecule when they are in solution in water
+ammonia in solution set up this equilibrium an ammonium ion is formed together with hydroxide ion
+because the ammonia is only a weak base it doe hang on to the extra hydrogen ion very effectively and so the reaction is reversible
+at any one time about 99 of the ammonia is present a unreacted molecule
+the position of equilibrium lie well to the left
+the ammonia reacts a a base because of the active lone pair on the nitrogen
+nitrogen is more electronegative than hydrogen and so attracts the bonding electron in the ammonia molecule towards itself
+that mean that in addition to the lone pair there is a of negative charge around the nitrogen atom
+that combination of extra negativity and active lone pair attracts the new hydrogen from the water
+comparing the strength of weak base the strength of weak base are measured on the pkb scale
+the smaller the number on this scale the stronger the base is
+three of the compound we shall be looking at together with their pkb value are remember the smaller the number the stronger the base
+comparing the other two to ammonia you will see that methylamine is a stronger base whereas phenylamine is very much weaker
+methylamine is typical of aliphatic primary amine where the group is attached to a carbon chain
+all aliphatic primary amine are stronger base than ammonia
+phenylamine is typical of aromatic primary amine where the group is attached directly to a benzene ring
+these are very much weaker base than ammonia
+explaining the difference in base strength the factor to consider two of the factor which influence the strength of a base are the ease with which the lone pair pick up a hydrogen ion the stability of the ion being formed
+why are aliphatic primary amine stronger base than ammonia
+methylamine methylamine ha the structure the only difference between this and ammonia is the presence of the ch3 group in the methylamine
+but that important
+alkyl group have a tendency to push electron away from themselves
+that mean that there will be a small amount of extra negative charge built up on the nitrogen atom
+that extra negativity around the nitrogen make the lone pair even more attractive towards hydrogen ion
+making the nitrogen more negative help the lone pair to pick up a hydrogen ion
+what about the effect on the positive methylammonium ion formed
+is this more stable than a simple ammonium ion
+compare the methylammonium ion with an ammonium ion in the methylammonium ion the positive charge is spread around the ion by the effect of the methyl group
+the more you can spread charge around the more stable an ion becomes
+in the ammonium ion there is any way of spreading the charge
+to summarise the nitrogen is more negative in methylamine than in ammonia and so it pick up a hydrogen ion more readily
+the ion formed from methylamine is more stable than the one formed from ammonia and so is less likely to shed the hydrogen ion again
+taken together these mean that methylamine is a stronger base than ammonia
+a level purpose
+a base get more complex for example with more than one alkyl group attached to the nitrogen another factor concerning the stability of the ion formed becomes important
+that concern the way they interact with water molecule in the solution
+a you add extra alkyl group you increase the inductive effect making the lone pair more attractive
+that would make it a stronger base
+at the same time you are reducing the ability of the amine to form hydrogen bond with water
+the hydrocarbon clutter around the nitrogen mean that fewer hydrogen bond can be formed
+you probably do need to worry about that at this level
+the other aliphatic primary amine the other alkyl group have effect very similar to the methyl group and so the strength of the other aliphatic primary amine are very similar to methylamine
+for example why are aromatic primary amine much weaker base than ammonia
+an aromatic primary amine is one in which the group is attached directly to a benzene ring
+the only one you are likely to come across is phenylamine
+phenylamine ha the structure the lone pair on the nitrogen touch the delocalised ring electron
+and becomes delocalised with them that mean that the lone pair is no longer fully available to combine with hydrogen ion
+the nitrogen is still the most electronegative atom in the molecule and so the delocalised electron will be attracted towards it but the intensity of charge around the nitrogen is nothing like what it is in say an ammonia molecule
+the other problem is that if the lone pair is used to join to a hydrogen ion it is no longer available to contribute to the delocalisation
+that mean that the delocalisation would have to be disrupted if the phenylamine act a a base
+delocalisation make molecule more stable and so disrupting the delocalisation cost energy and wo happen easily
+taken together the lack of intense charge around the nitrogen and the need to break some delocalisation this mean that phenylamine is a very weak base indeed

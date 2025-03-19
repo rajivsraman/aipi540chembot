@@ -1,0 +1,60 @@
+hydrogen bromide and alkene the peroxide effect this page give you the fact and simple uncluttered mechanism for the free radical addition of hydrogen bromide to alkene often known a the peroxide effect
+if you want the mechanism explained to you in more detail there is a link at the bottom of the page
+addition to symmetrical alkene a symmetrical alkene is one like ethene where the group at both end of the double bond are the same
+the fact the reaction happens at room temperature in the presence of organic peroxide or some oxygen from the air
+alkene react very slowly with oxygen to produce trace of organic peroxide so the two possible condition are equivalent to each other
+the reaction is a simple addition of the hydrogen bromide
+for example with ethene with a symmetrical alkene you get exactly the same product in the absence of the organic peroxide or oxygen but the mechanism is different
+the mechanism hydrogen halide hydrogen chloride hydrogen bromide and the rest usually react with alkene using an electrophilic addition mechanism
+however in the presence of organic peroxide hydrogen bromide add by a different mechanism
+you may need to explore several page in this section
+or the history file or go menu on your browser to return to this page
+with the organic peroxide present you get a free radical chain reaction
+chain initiation the chain is initiated by free radical produced by an bond in the organic peroxide breaking
+these free radical extract a hydrogen atom from a hydrogen bromide molecule to produce bromine radical
+chain propagation a bromine radical join to the ethene using one of the electron in the pi bond
+that creates a new radical with the single electron on the other carbon atom
+that radical reacts with another hbr molecule to produce bromoethane and another bromine radical to continue the process
+etc chain termination eventually two free radical hit each other and produce a molecule of some sort
+the process stop here because no new free radical are formed
+addition to unsymmetrical alkene an unsymmetrical alkene is one like propene where the group at either end of the double bond are different
+the fact the reaction happens under the same condition a with a symmetrical alkene but there is a complication because the hydrogen and the bromine can add in two different way
+which way they add depends on whether there are organic peroxide or oxygen present or not
+normally when a molecule hx add to a double bond the hydrogen becomes attached to the carbon with the more hydrogen on already
+this is known a markovnikov rule
+because the hbr add on the wrong way around in the presence of organic peroxide this is often known a the peroxide effect or addition
+in the absence of peroxide hydrogen bromide add to propene via an electrophilic addition mechanism
+that give the product predicted by markovnikov rule
+the free radical mechanism chain initiation this is exactly the same a in the ethene case above
+chain propagation when the bromine radical join to the propene it attache so that a secondary radical is formed
+this is more stable and so easier to form than the primary radical which would be formed if it attached to the other carbon atom
+that radical reacts with another hbr molecule to produce and another bromine radical to continue the process
+etc chain termination eventually two free radical hit each other and produce a molecule of some sort
+the process stop here because no new free radical are formed
+why do the other hydrogen halide behave in the same way
+the reason that hydrogen bromide add in an fashion in the presence of organic peroxide is simply a question of reaction rate
+the free radical mechanism is much faster than the alternative electrophilic addition mechanism
+both mechanism happen but most of the product is the one from the free radical mechanism because that is working faster
+with the other hydrogen halide the opposite is true
+hydrogen fluoride the bond is so strong that fluorine radical are formed in the initiation step
+hydrogen chloride with hydrogen chloride the second half of the propagation stage is very slow
+if you do a bond enthalpy sum you will find that the following reaction is endothermic
+this is due to the relatively high bond strength
+hydrogen iodide in this case the first step of the propagation stage turn out to be endothermic and this slows the reaction down
+not enough energy is released when the weak bond is formed
+in the case of hydrogen bromide both step of the propagation stage are exothermic
+that radical reacts with another hbr molecule to produce and another bromine radical to continue the process
+etc chain termination eventually two free radical hit each other and produce a molecule of some sort
+the process stop here because no new free radical are formed
+why do the other hydrogen halide behave in the same way
+the reason that hydrogen bromide add in an fashion in the presence of organic peroxide is simply a question of reaction rate
+the free radical mechanism is much faster than the alternative electrophilic addition mechanism
+both mechanism happen but most of the product is the one from the free radical mechanism because that is working faster
+with the other hydrogen halide the opposite is true
+hydrogen fluoride the bond is so strong that fluorine radical are formed in the initiation step
+hydrogen chloride with hydrogen chloride the second half of the propagation stage is very slow
+if you do a bond enthalpy sum you will find that the following reaction is endothermic
+this is due to the relatively high bond strength
+hydrogen iodide in this case the first step of the propagation stage turn out to be endothermic and this slows the reaction down
+not enough energy is released when the weak bond is formed
+in the case of hydrogen bromide both step of the propagation stage are exothermic

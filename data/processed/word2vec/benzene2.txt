@@ -1,0 +1,55 @@
+bonding in benzene important
+this article build on knowledge about the bonding in methane and the bonding in ethene
+you will find the current page much easier to understand if you read these other one first
+you may also find it useful to read the article on orbitals if you are sure about simple orbital theory
+you can also read about the evidence which lead to the structure described in this article
+that page includes the kekulé structure for benzene and the reason that it is very satisfactory
+an orbital model for the benzene structure building the orbital model benzene is built from hydrogen atom 1s1 and carbon atom 1s22s22px12py1
+each carbon atom ha to join to three other atom one hydrogen and two carbon and doe have enough unpaired electron to form the required number of bond so it need to promote one of the 2s2 pair into the empty 2pz orbital
+so the first thing that happens is
+promotion of an electron there is only a small energy gap between the 2 and 2p orbitals and an electron is promoted from the 2 to the empty 2p to give 4 unpaired electron
+the extra energy released when these electron are used for bonding more than compensates for the initial input
+the carbon atom is now said to be in an excited state
+hybridisation because each carbon is only joining to three other atom when the carbon atom hybridise their outer orbitals before forming bond they only need to hybridise three of the orbitals rather than all four
+they use the 2 electron and two of the 2p electron but leave the other 2p electron unchanged
+important
+if you have any doubt about this then you should follow the link at the top of the page
+the new orbitals formed are called sp2 hybrid because they are made by an s orbital and two p orbitals reorganising themselves
+the three sp2 hybrid orbitals arrange themselves a far apart a possible which is at to each other in a plane
+the remaining p orbital is at right angle to them
+each carbon atom now look like the diagram on the right
+this is all exactly the same a happens in ethene
+the difference in benzene is that each carbon atom is joined to two other similar carbon atom instead of just one
+each carbon atom us the sp2 hybrid to form sigma bond with two other carbon and one hydrogen atom
+the next diagram show the sigma bond formed but for the moment leaf the p orbitals alone
+remember a sigma bond is formed by the overlap between atomic orbitals
+only a part of the ring is shown because the diagram get extremely cluttered if you try to draw any more
+notice that the p electron on each carbon atom is overlapping with those on both side of it
+this extensive sideways overlap produce a system of pi bond which are spread out over the whole carbon ring
+because the electron are no longer held between just two carbon atom but are spread over the whole ring the electron are said to be delocalised
+the six delocalised electron go into three molecular orbitals two in each
+remember a molecular orbital is the region of space which contains a bonding pair of electron
+in common with the great majority of description of the bonding in benzene we are only going to show one of these delocalised molecular orbitals for simplicity
+in the diagram the sigma bond have been shown a simple line to make the diagram less confusing
+the two ring above and below the plane of the molecule represent one molecular orbital
+the two delocalised electron can be found anywhere within those ring
+the other four delocalised electron live in two similar but not identical molecular orbitals
+relating the orbital model to the property of benzene kekulé structure for benzene
+the shape of benzene benzene is a planar regular hexagon with bond angle of
+this is easily explained
+it is a regular hexagon because all the bond are identical
+the delocalisation of the electron mean that there are alternating double and single bond
+it is planar because that is the only way that the p orbitals can overlap sideways to give the delocalised pi system
+the energetic stability of benzene this is accounted for by the delocalisation
+a a general principle the more you can spread electron around in other word the more they are delocalised the more stable the molecule becomes
+the extra stability of benzene is often referred to a delocalisation energy
+the reluctance of benzene to undergo addition reaction with the delocalised electron in place benzene is about 150 kj more stable than it would otherwise be
+if you added other atom to a benzene ring you would have to use some of the delocalised electron to join the new atom to the ring
+that would disrupt the delocalisation and the system would become less stable
+since about 150 kj per mole of benzene would have to be supplied to break up the delocalisation this is going to be an easy thing to do
+the symbol for benzene although you will still come across the kekulé structure for benzene for most purpose we use the structure on the right
+the hexagon show the ring of six carbon atom each of which ha one hydrogen attached
+you have to know that counting bond to find out how many hydrogen to add doe work in this particular case
+the circle represents the delocalised electron
+it is essential that you include the circle
+if you miss it out you are drawing cyclohexane and not benzene

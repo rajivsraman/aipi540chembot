@@ -1,0 +1,32 @@
+the reaction between unsymmetrical alkene and the hydrogen halide this page give you the fact and a simple uncluttered mechanism for the electrophilic addition reaction between the hydrogen halide and alkene like propene
+hydrogen halide include hydrogen chloride and hydrogen bromide
+if you want the mechanism explained to you in detail there is a link at the bottom of the page
+an unsymmetrical alkene is one like propene in which the group or atom attached to either end of the double bond are different
+for example in propene there are a hydrogen and a methyl group at one end but two hydrogen atom at the other end of the double bond
+is another unsymmetrical alkene
+the fact a with all alkene unsymmetrical alkene like propene react with hydrogen bromide in the cold
+the double bond break and a hydrogen atom end up attached to one of the carbon and a bromine atom to the other
+in the case of propene is formed
+this would normally be written in a more condensed form a the product is
+the product is
+a different mechanism happens a free radical chain reaction not on uk a level syllabus which lead to the hydrogen and bromine adding the opposite way round
+for a level purpose you do need to worry about that
+however if you are interested you will find the free radical addition mechanism by following this link
+on your browser to return to this page later
+this is in line with markovnikov rule which say when a compound hx is added to an unsymmetrical alkene the hydrogen becomes attached to the carbon with the most hydrogen attached to it already
+in this case the hydrogen becomes attached to the ch2 group because the ch2 group ha more hydrogen than the ch group
+notice that only the hydrogen directly attached to the carbon atom at either end of the double bond count
+the one in the ch3 group are totally irrelevant
+markovnikov rule is a useful guide for you to work out which way round to add something across a double bond but it is the reason why thing add that way
+a a general principle do quote markovnikov rule in an exam unless you are specifically asked for it
+the mechanism this is an example of electrophilic addition
+the addition is this way around because the intermediate carbocation previously called a carbonium ion formed is secondary
+this is more stable and so is easier to form than the primary carbocation which would be produced if the hydrogen became attached to the centre carbon atom and the bromine to the end one
+the fact hydrogen fluoride hydrogen chloride and hydrogen iodide all add on in exactly the same way a hydrogen bromide
+the only difference lie in the rate of reaction hf slowest reaction hcl hbr hi fastest reaction this is because the bond get weaker a the halogen atom get bigger
+if the bond is weaker it break more easily and so the reaction is faster
+if the halogen is given the symbol x the equation for the reaction with propene is notice that the product is still in line with markovnikov rule
+the mechanism these are still example of electrophilic addition
+again using x to stand for any halogen again the intermediate carbocation formed is secondary
+this is more stable than the primary carbocation ion which would be formed if the hydrogen attached to the centre carbon atom and the x to the end one
+if it is more stable it will be easier to make

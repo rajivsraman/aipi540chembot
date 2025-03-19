@@ -1,0 +1,41 @@
+the mechanism for the esterification reaction this page look in detail at the mechanism for the formation of ester from carboxylic acid and alcohol in the presence of concentrated sulphuric acid acting a the catalyst
+it us the formation of ethyl ethanoate from ethanoic acid and ethanol a a typical example
+the mechanism for the formation of ethyl ethanoate a reminder of the fact ethanoic acid reacts with ethanol in the presence of concentrated sulphuric acid a a catalyst to produce the ester ethyl ethanoate
+the reaction is slow and reversible
+to reduce the chance of the reverse reaction happening the ester is distilled off a soon a it is formed
+the mechanism this is a fairly complex mechanism and is definitley not required for any uk a level or equivalent syllabus
+i have included it in case it is of use to my many visitor
+all the step in the mechanism below are shown a reaction because it make the mechanism look less confusing
+the reverse reaction is actually done sufficiently differently that it affect the way the mechanism is written
+you will find a link to the hydrolysis of ester further down the page if you are interested
+if you are happy about these follow this link before you go any further
+to be honest if you are that unsure about the convention used in reaction mechanism you probably should be reading this page anyway you will find it distinctly scary
+on your browser to return to this page
+step 1 in the first step the ethanoic acid take a proton a hydrogen ion from the concentrated sulphuric acid
+the proton becomes attached to one of the lone pair on the oxygen which is to the carbon
+the transfer of the proton to the oxygen give it a positive charge but it is actually misleading to draw the structure in this way although nearly everybody doe
+the positive charge is delocalised over the whole of the end of the ion with a fair amount of positiveness on the carbon atom
+in other word you can think of an electron pair shifting to give this structure you could also imagine another electron pair shift producing a third structure so which of these is the correct structure of the ion formed
+none of them
+the truth lie somewhere in between all of them
+one way of writing the delocalised structure of the ion is like this the double headed arrow are telling you that each of the individual structure make a contribution to the real structure of the ion
+they do mean that the bond are flipping back and forth between one structure and another
+the various structure are known a resonance structure or canonical form
+there will be some degree of positive charge on both of the oxygen atom and also on the carbon atom
+each of the bond between the carbon and the two oxygen will be the same somewhere between a single bond and a double bond
+amongst other thing that page look at the structure of ion like the ethanoate ion which also have delocalised charge
+on your browser to return easily to this page
+for the purpose of the rest of this discussion we are going to use the structure where the positive charge is on the carbon atom
+step 2 the positive charge on the carbon atom is attacked by one of the lone pair on the oxygen of the ethanol molecule
+on the other hand you could realise that there ha to be a positive charge somewhere because you started with one and that particular oxygen doe look right it ha too many bond
+put the charge on there
+that a quick reasoning which work every time i use it
+step 3 what happens next is that a proton a hydrogen ion get transferred from the bottom oxygen atom to one of the others
+it get picked off by one of the other substance in the mixture for example by attaching to a lone pair on an unreacted ethanol molecule and then dumped back onto one of the oxygen more or less at random
+the net effect is step 4 now a molecule of water is lost from the ion
+the product ion ha been drawn in a shape to reflect the product which we are finally getting quite close to
+the structure for the latest ion is just like the one we discusssed at length back in step 1
+the positive charge is actually delocalised all over that end of the ion and there will also be contribution from structure where the charge is on the either of the oxygen it is easier to follow what is happening if we keep going with the structure with the charge on the carbon
+step 5 the hydrogen is removed from the oxygen by reaction with the hydrogensulphate ion which wa formed way back in the first step
+and there we are
+the ester ha been formed and the sulphuric acid catalyst ha been regenerated

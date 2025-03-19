@@ -1,0 +1,109 @@
+the effect of changing condition in enzyme catalysis this page look at the effect of changing substrate concentration temperature and ph on reaction involving enzyme
+it follows on from a page describing in simple term how enzyme function a catalyst
+please remember that this series of page is written for 16 18 year old chemistry student
+if you want something more advanced you are looking in the wrong place
+if you have come straight to this page via a search engine you really ought to go back and read that page first
+in fact unless you already have a good knowledge of protein structure you may have to go back further still to a page about the structure of protein
+the effect of substrate concentration on the rate of reaction remember that in biology or biochemistry the reactant in an enzyme reaction is known a the substrate
+what follows is a very brief and simple look at a very complicated topic
+anything beyond this is the stuff of biochemistry degree course
+a reminder about the effect of concentration on rate in ordinary chemical reaction if you have done any work on rate of reaction especially if you have done order of reaction you will have come across case where the rate of reaction is proportional to the concentration of a reactant or perhaps to the square of it concentration
+you would discover this by changing the concentration of one of the reactant keeping everything else constant and measuring the initial rate of the reaction
+if you measure the rate after the reaction ha been going for a while the concentration of the reactant s will have changed and that just complicates thing
+that why initial rate are so useful you know exactly how much you have of everything
+if you plotted a graph of initial reaction rate against the concentration of a reactant then there are various possibility depending on the relationship between the concentration and the rate
+if the rate is independent of the concentration this is called a zero order reaction
+if the rate is proportional to the concentration this is called a first order reaction
+if the rate is proportional to some power of the concentration greater than one in this case you get a curve
+if the rate wa proportional to the square of the concentration that a second order reaction
+with reaction controlled by enzyme you get a completely different type of graph
+plotting initial rate of reaction against substrate concentration the graph for enzyme controlled reaction look like this two minor thing to notice before we discus it
+biochemist talk about a reaction velocity instead of a reaction rate
+if you have done any physic you will know that this is a complete misuse of the word velocity
+but that what you will find in biochemistry source so that what we will have to use
+in chemistry rate are normally measured in term of rate of change of concentration with unit like mol mole per cubic decimetre per second
+biochemist often quote it in term of the number of molecule of substrate which a single molecule of enzyme is processing per unit time per second for example
+it is easier to visualise but involves a messy calculation to get there
+that not our problem for this topic
+so why is the graph the shape it is
+for very very low substrate concentration the graph is almost a straight line like the second chemistry rate graph above
+in other word at very very low concentration the rate is proportional to the substrate concentration
+but a concentration increase increasing the concentration more ha less and less effect and eventually the rate reach a maximum
+increasing the concentration any more make no difference to the rate of the reaction
+if you know about order of reaction the reaction ha now become zero order with respect to the substrate
+the reason for this is actually fairly obvious if you think about it
+after a certain concentration of substrate is reached every enzyme molecule present in the mixture is working a fast a it can
+if you increase the substrate concentration any more there are any enzyme molecule free to help the extra substrate molecule to react
+is this unique to reaction
+no
+it can happen in some ordinary chemistry case a well usually involving a solid catalyst working with gas
+at very high gas pressure in other word very high concentration of gas molecule the surface of the catalyst can be completely full of gas molecule
+if you increase the amount of gas any more there is any available surface for it to stick to and react
+vmax and km the maximum rate for a particular enzyme reaction is known a vmax
+that v for velocity a bit confusing for chemist where v is almost always used for volume
+this is easily measured by drawing a line on the graph this is sometimes reported a a turnover number measured a the number of molecule of substrate processed by a single enzyme molecule per second or per minute
+km is known a the michaelis constant or the constant for reason which need concern u and is a useful measure of the efficiency of an enzyme
+km is the concentration of the substrate in mol which produce a reaction rate of half vmax
+so it is found like this
+a low value of km mean that the reaction is going quickly even at low substrate concentration
+a higher value mean the enzyme is a effective
+could you just find the concentration of the substrate which produced the maximum rate
+if you look at the shape of the graph it would be impossible to get any accurate measure of the concentration which first produced a maximum rate
+the curve just gradually get closer and closer to the horizontal and there is no clear point at which it suddenly becomes horizontal
+the effect of temperature on the rate of reaction a reminder about the effect of temperature on rate in ordinary chemical reaction remember that for molecule to react they have to collide with an energy equal to or greater than the activation energy for the reaction
+heating a reaction make the molecule move faster and so collide more often
+more collision in a given time mean a faster reaction
+but far more importantly increasing the temperature ha a very big effect on the number of collision with enough energy to react
+quite a small temperature rise can produce a large increase in rate
+a a reasonable approximation for many although not all reaction close to room temperature a increase in temperature will double the rate of a chemical reaction
+this is only an approximation it may take or or whatever but it give you an idea of what to expect
+plotting rate of reaction against temperature for low temperature up to about reaction behave much a you would expect any other chemical reaction to behave
+but above about the exact temperature varies from enzyme to enzyme there is a dramatic fall in reaction rate
+a typical graph of rate against temperature might look like this the temperature at which the rate is fastest is called the optimum temperature for that enzyme
+different enzyme have different optimum temperature
+some enzyme for example in organism known a thermophiles or extremophiles are capable of working at temperature like or even higher
+the optimum temperature for a particular enzyme varies depending on how long it is exposed to the higher temperature
+enzyme can withstand temperature higher than their normal optimum if they are only exposed to the higher temperature for a very short time
+explaining the rate against temperature graph at lower temperature the shape of the graph is exactly what you would expect for any reaction
+all that need explaining is why the rate fall above the optimum temperature
+remember that the enzyme work because it substrate fit into the active site on the protein molecule
+that active site is produced because of the way the protein is folded into it tertiary structure
+heating an enzyme give the protein chain extra energy and make them move more
+if they move enough then the bond holding the tertiary structure in place will come under increasing strain
+the weaker bond will break first van der waals attraction between side group and then hydrogen bond
+a soon a these bond holding the tertiary structure together are broken then the shape of the active site is likely to be lost
+obviously the longer the enzyme is held at the higher temperature the more time there is for the enzyme structure to be broken up
+given enough time and high enough temperature the enzyme structure is broken permanently
+the enzyme is said to be denatured
+for example boiling an egg for 5 minute denatures the protein in the egg
+once that ha happened you ca it by cooling it
+the effect of ph on the rate of reaction in the same way that every enzyme ha an optimum temperature so each enzyme also ha an optimum ph at which it work best
+for example trypsin and pepsin are both enzyme in the digestive system which break protein chain in the food into smaller bit either into smaller peptide chain or into individual amino acid
+pepsin work in the highly acidic condition of the stomach
+it ha an optimum ph of about
+on the other hand trypsin work in the small intestine part of which have a ph of around
+trypsin optimum ph is about 8
+if you think about the structure of an enzyme molecule and the sort of bond that it may form with it substrate it is surprising that ph should matter
+suppose an enzyme ha an optimum ph around 7
+imagine that at a ph of around 7 a substrate attache itself to the enzyme via two ionic bond
+in the diagram below the group allowing ionic bonding are caused by the transfer of a hydrogen ion from a group in the side chain of one amino acid residue to an group in the side chain of another
+in this simplified example that is equally true in both the substrate and the enzyme
+now think about what happens at a lower ph in other word under acidic condition
+it wo affect the group but the will pick up a hydrogen ion
+what you will have will be this you no longer have the ability to form ionic bond between the substrate and the enzyme
+if those bond were necessary to attach the substrate and activate it in some way then at this lower ph the enzyme wo work
+what if you have a ph higher than 7 in other word under alkaline condition
+this time the group wo be affected but the group will lose a hydrogen ion
+that leaf
+again there is no possibility of forming ionic bond and so the enzyme probably wo work this time either
+under fairly acidic or alkaline condition all the charge present in the enzyme and substrate would be the same a in the example above
+under those circumstance you would be looking at other sort of bonding hydrogen bonding for example perhaps involving hydrogen bond between an ion on one of either the enzyme and substrate and a suitable hydrogen atom or lone pair on the other
+the example given is easy to follow
+do worry about complication at this level
+a long a you can see why changing the ph might affect a simple case that all you need
+at extreme ph something more drastic can happen
+remember that the tertiary structure of the protein is in part held together by ionic bond just like those we looked at between the enzyme and it substrate
+at very high or very low ph these bond within the enzyme can be disrupted and it can lose it shape
+if it loses it shape the active site will probably be lost completely
+this is essentially the same a denaturing the protein by heating it too much
+this enzyme topic continues onto a final page about enzyme inhibitor

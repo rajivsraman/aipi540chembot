@@ -1,0 +1,39 @@
+alkene and sulphuric acid this page look at the reaction of the double bond in alkene such a ethene with concentrated sulphuric acid
+it includes the conversion of the product into an alcohol
+the addition of sulphuric acid to alkene the reaction with ethene alkene react with concentrated sulphuric acid in the cold to produce alkyl hydrogensulphates
+ethene reacts to give ethyl hydrogensulphate
+the structure of the product molecule is sometimes written a ch3ch2hso4 but the version in the equation is better because it show how all the atom are linked up
+you may also find it written a ch3ch2oso3h
+confused by all this
+do be
+all you need to do is to learn the structure of sulphuric acid
+a hydrogen from the sulphuric acid join on to one of the carbon atom and the rest join on to the other one
+make sure that you can see how the structure of the sulphuric acid relates to the various way of writing the formula for the product
+important
+learn this structure for sulphuric acid
+sketch it over and over again until you ca possibly get it wrong
+follow this link if you want the mechanism for this reaction
+on your browser to return to this page
+the reaction with propene this is typical of the reaction with unsymmetrical alkene
+an unsymmetrical alkene ha different group at either end of the double bond
+if sulphuric acid add to an unsymmetrical alkene like propene there are two possible way it could add
+you could end up with one of two product depending on which carbon atom the hydrogen attache itself to
+however in practice there is only one major product
+this is in line with markovnikov rule which say when a compound hx is added to an unsymmetrical alkene the hydrogen becomes attached to the carbon with the most hydrogen attached to it already
+in this case the hydrogen becomes attached to the ch2 group because the ch2 group ha more hydrogen than the ch group
+notice that only the hydrogen directly attached to the carbon atom at either end of the double bond count
+the one in the ch3 group are totally irrelevant
+markovnikov rule is a useful guide for you to work out which way round to add something across a double bond but it is the reason why thing add that way
+a a general principle do quote markovnikov rule in an exam unless you are specifically asked for it
+you can find more about this in the mechanism section of this site
+you will find the mechanism for this reaction discussed in detail if you follow this link
+or history file or go menu if you have to explore several page on your browser if you want to return to this page
+using these reaction to make alcohol making ethanol ethene is passed into concentrated sulphuric acid to make ethyl hydrogensulphate a above
+the product is diluted with water and then distilled
+the water reacts with the ethyl hydrogensulphate to produce ethanol which distils off
+making more complicated alkyl hydrogensulphates react with water in exactly the same way
+for example notice that the position of the group is determined by where the hso4 group wa attached
+you get rather than because of the way the sulphuric acid originally added across the double bond in propene
+using these reaction these reaction were originally used a a way of manufacturing alcohol from alkene in the petrochemical industry
+these day alcohol like ethanol or tend to be manufactured by direct hydration of the alkene because it is cheaper and easier
+note you can find out about the manufacture of alcohol by direct hydration by following this link

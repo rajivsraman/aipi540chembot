@@ -1,0 +1,64 @@
+reaction of benzene and methylbenzene this page give detail of the reaction of benzene and methylbenzene toluene
+the mechanism for some of these reaction are covered elsewhere on the site and you will find link to those a you go along
+acylation acylation of benzene what is acylation
+an acyl group is an alkyl group attached to a double bond
+if r represents any alkyl group then an acyl group ha the formula
+acylation mean substituting an acyl group into something in this case into a benzene ring
+the most commonly used acyl group is
+this is called the ethanoyl group and in this case the reaction is sometimes called ethanoylation
+in the example which follows we are substituting a group into the ring but you could equally well use any other acyl group
+the fact the most reactive substance containing an acyl group is an acyl chloride also known a an acid chloride
+these have the general formula rcocl
+benzene is treated with a mixture of ethanoyl chloride ch3cocl and aluminium chloride a the catalyst
+the mixture is heated to about for about 30 minute
+a ketone called phenylethanone old name acetophenone is formed
+you may find slight variation on the condition for this reaction
+various recipe i have found vary the temperature and time for example by having a slightly lower temperature for a longer time
+or if you want a more compact form the aluminium chloride is written into these equation because it is acting a a catalyst
+if you wanted to include it you could write alcl3 over the top of the arrow see below
+acylation of methylbenzene toluene the reaction is just the same with methylbenzene except that you have to worry about where the acyl group attache to the ring relative to the methyl group
+normally the methyl group in methylbenzene directs new group into the and position assuming the methyl group is in the position
+in acylation though virtually all the substitution happens in the position
+uk a level
+the reason that you get virtually none of the isomer in this instance is because of the size of the incoming acyl group
+everything get too cluttered and therefore less stable if you try to put the acyl group next door to the methyl group
+alkylation alkylation of benzene what is alkylation
+alkylation mean substituting an alkyl group into something in this case into a benzene ring
+a hydrogen on the ring is replaced by a group like methyl or ethyl and so on
+the fact benzene reacts at room temperature with a chloroalkane for example chloromethane or chloroethane in the presence of aluminium chloride a a catalyst
+on this page we will look at substituting a methyl group but any other alkyl group could be used in the same way
+substituting a methyl group give methylbenzene
+or you get further methyl group substituted around the ring
+you can improve your chance of just getting monosubstitution by using a large excess of benzene
+you wo have to worry about this for uk a level purpose
+you will find the mechanism for this reaction in the mechanism section of this site
+on your browser to return to this page later
+alkylation of methylbenzene toluene again the reaction is just the same with methylbenzene except that you have to worry about where the alkyl group attache to the ring relative to the methyl group
+unfortunately this time there is a problem
+where the incoming alkyl group end up depends to a large extent on the temperature of the reaction
+at substituting methyl group into methylbenzene you get a mixture of the and isomer in the proportion 54 17 29
+that a higher proportion of the isomer than you might expect
+at the proportion change to 3 69 28
+in other word the proportion of the isomer ha increased even more
+raise the temperature some more and the trend continues
+the reason for this is again beyond uk a level
+you can get equilibrium set up between the various isomer
+the reason for the directing effect of the methyl group in methylbenzene lie in the fact that the and isomer form faster than the isomer
+however in this case the isomer is the most thermodynamically stable of the three
+if you raise the temperature or allow more time the equilibrium set up favour the most stable product
+you do not have to worry about this for a level purpose
+alkylation industrially the manufacture of ethylbenzene ethylbenzene is an important industrial chemical used to make styrene phenylethene which in turn is used to make polystyrene poly phenylethene
+it is manufactured from benzene and ethene
+there are several way of doing this some of which use a variation on alkylation
+the reaction is done in the liquid state
+ethene is passed through a liquid mixture of benzene aluminium chloride and a catalyst promoter which might be chloroethane or hydrogen chloride
+we are going to assume it is hcl
+promoter are used to make catalyst work better
+there are two variant on the process
+one the union carbide badger process us a temperature no higher than and a pressure just high enough to keep everything liquid
+the other the monsanto process us a slightly higher temperature of which need less catalyst
+presumably although i have been able to confirm this the pressure would also need to be higher to keep everything liquid at the higher temperature
+or again the aluminium chloride and hcl are written into these equation because they are acting a catalyst
+if you wanted to include them you could write alcl3 and hcl over the top of the arrow
+this will show exactly what the hcl and aluminium chloride are doing in the reaction
+on your browser to return to this page later

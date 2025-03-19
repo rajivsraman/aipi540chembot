@@ -1,0 +1,80 @@
+amine a base this page look at the reaction of amine a base
+their basic property include the reaction with dilute acid water and copper ii ion
+it only deal with amine where the functional group is not attached directly to a benzene ring
+aromatic amine such a phenylamine aniline are much weaker base than the amine discussed on this page and are dealt with separately on a page specifically about phenylamine
+if you are interested in phenylamine read this page first and then follow the link at the bottom
+the basic property of amine we are going to have to use two different definition of the term base in this page
+a base is a substance which combine with hydrogen ion
+this is the theory
+an electron pair donor
+this is the lewis theory
+the easiest way of looking at the basic property of amine is to think of an amine a a modified ammonia molecule
+in an amine one or more of the hydrogen atom in ammonia ha been replaced by a hydrocarbon group
+replacing the hydrogen still leaf the lone pair on the nitrogen unchanged and it is the lone pair on the nitrogen that give ammonia it basic property
+amine will therefore behave much the same a ammonia in all case where the lone pair is involved
+the reaction of amine with acid these are most easily considered using the theory of acid and base the base is a hydrogen ion acceptor
+we do a straight comparison between amine and the familiar ammonia reaction
+a reminder about the ammonia reaction ammonia reacts with acid to produce ammonium ion
+the ammonia molecule pick up a hydrogen ion from the acid and attache it to the lone pair on the nitrogen
+if the reaction is in solution in water using a dilute acid the ammonia take a hydrogen ion a proton from a hydroxonium ion
+remember that hydrogen ion present in solution of acid in water are carried on water molecule a hydroxonium ion
+if the acid wa hydrochloric acid for example you would end up with a solution containing ammonium chloride the chloride ion of course coming from the hydrochloric acid
+you could also write this last equation a
+but if you do it this way you must include the state symbol
+if you write on it own it implies an unattached hydrogen ion a proton
+such thing do exist on their own in solution in water
+if the reaction is happening in the gas state the ammonia accepts a proton directly from the hydrogen chloride this time you produce cloud of white solid ammonium chloride
+the corresponding reaction with amine the nitrogen lone pair behaves exactly the same
+the fact that one or more of the hydrogen in the ammonia ha been replaced by a hydrocarbon group make no difference
+for example with ethylamine if the reaction is done in solution the amine take a hydrogen ion from a hydroxonium ion and form an ethylammonium ion
+or the solution would contain ethylammonium chloride or sulphate or whatever
+alternatively the amine will react with hydrogen chloride in the gas state to produce the same sort of white smoke a ammonia did but this time of ethylammonium chloride
+these example have involved a primary amine
+it would make no real difference if you used a secondary or tertiary one
+the equation would just look more complicated
+the product ion from diethylamine and triethylamine would be diethylammonium ion and triethylammonium ion respectively
+the reaction of amine with water again it is easiest to use the theory and again it is useful to do a straight comparison with ammonia
+a reminder about the ammonia reaction with water ammonia is a weak base and take a hydrogen ion from a water molecule to produce ammonium ion and hydroxide ion
+however the ammonia is only a weak base and doe hang on to the hydrogen ion very successfully
+the reaction is reversible with the great majority of the ammonia at any one time present a free ammonia rather than ammonium ion
+the presence of the hydroxide ion from this reaction make the solution alkaline
+the corresponding reaction with amine the amine still contains the nitrogen lone pair and doe exactly the same thing
+for example with ethylamine you get ethylammonium ion and hydroxide ion produced
+there is however a difference in the position of equilibrium
+amine are usually stronger base than ammonia
+there are exception to this though particularly if the amine group is attached directly to a benzene ring
+uk a level syllabus are mostly only concerned with the relative strength of ammonia and the primary amine so that is all you will find on that page
+if you choose to follow this link on your browser to return to this page
+the reaction of amine with copper ii ion just like ammonia amine react with copper ii ion in two separate stage
+in the first step we can go on using the theory that a base is a hydrogen ion acceptor
+the second stage of the reaction can only be explained in term of the lewis theory that a base is an electron pair donor
+the reaction between ammonia and copper ii ion copper ii sulphate solution for example contains the blue hexaaquacopper ii ion
+in the first stage of the reaction the ammonia act a a base
+with a small amount of ammonia solution hydrogen ion are pulled off two water molecule in the hexaaqua ion
+this produce a neutral complex one carrying no charge
+if you remove two positively charged hydrogen ion from a ion then obviously there is going to be any charge left on the ion
+because of the lack of charge the neutral complex is soluble in water and so you get a pale blue precipitate
+this precipitate is often written a cu oh 2 and called copper ii hydroxide
+the reaction is reversible because ammonia is only a weak base
+that precipitate dissolve if you add an excess of ammonia solution giving a deep blue solution
+the ammonia replaces four of the water molecule around the copper to give tetraamminediaquacopper ii ion
+the ammonia us it lone pair to form a covalent bond dative covalent bond with the copper
+it is acting a an electron pair donor a lewis base
+this precipitate is often written a cu oh 2 and called copper ii hydroxide
+the reaction is reversible because ammonia is only a weak base
+that precipitate dissolve if you add an excess of ammonia solution giving a deep blue solution
+the ammonia replaces four of the water molecule around the copper to give tetraamminediaquacopper ii ion
+the ammonia us it lone pair to form a covalent bond dative covalent bond with the copper
+it is acting a an electron pair donor a lewis base
+explaining why the precipitate redissolves is quite complicated
+you will find a lot more explanation about the reaction between hexaaqua ion and ammonia solution in the inorganic section of this site if you are interested
+important the inorganic section describes ammonia acting a a ligand in the second stage of the reaction
+it is acting a a ligand because it ha a lone pair of electron in other word because it is a lewis base
+or history file or go menu on your browser to return to this page
+the colour change are the corresponding reaction with amine the small primary amine behave in exactly the same way a ammonia
+there will however be slight difference in the shade of blue that you get during the reaction
+taking methylamine a an example with a small amount of methylamine solution you will get a pale blue precipitate of the same neutral complex a with ammonia
+all that is happening is that the methylamine is pulling hydrogen ion off the attached water molecule
+with more methylamine solution the precipitate redissolves to give a deep blue solution just a in the ammonia case
+the amine replaces four of the water molecule around the copper
+a the amine get bigger and more bulky the formula of the final product may change simply because it is impossible to fit four large amine molecule and two water molecule around the copper atom

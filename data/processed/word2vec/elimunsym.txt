@@ -1,0 +1,39 @@
+elimination from unsymmetric halogenoalkanes this page look at elimination from unsymmetric halogenoalkanes such a
+is an unsymmetric halogenoalkane in the sense that it ha a ch3 group one side of the bond and a ch2ch3 group the other
+you have to be careful with compound like this because of the possibility of more than one elimination product depending on where the hydrogen is removed from
+the basic fact and mechanism for these reaction are exactly the same a with simple halogenoalkanes like
+this page only deal with the extra problem created by the possibility of more than one elimination product
+important
+what follow assumes that you are familiar with the mechanism for elimination from
+if you are it is essential that you follow this link before you go on
+background to the mechanism you will remember that elimination happens when a hydroxide ion from for example sodium hydroxide act a a base and remove a hydrogen a a hydrogen ion from the halogenoalkane
+for example in the simple case of elimination from the hydroxide ion remove a hydrogen from one of the carbon atom next door to the bond and the various electron shift then lead to the formation of the alkene in this case propene
+with an unsymmetric halogenoalkane like there are several hydrogen which might possibly get removed
+you need to think about each of these possibility
+where doe the hydrogen get removed from
+the hydrogen ha to be removed from a carbon atom adjacent to the bond
+if an ion hit one of the hydrogen on the ch3 group in the a we drawn it there nowhere for the reaction to go
+to make room for the electron pair to form a double bond between the carbon you would have to expel a hydrogen from the ch2 group a a hydride ion
+that is energetically much too difficult and so this reaction doe happen
+that still leaf the possibility of removing a hydrogen either from the ch3 or from the ch2 group
+if it wa removed from the ch3 group the product is
+if it wa removed from the ch2 group this time the product is
+in fact the situation is even more complicated than it look because exhibit geometric isomerism
+you get a mixture of two isomer formed and
+is also known a z is also known a e
+for an explanation of the two way of naming these two compound follow the link in the box below
+which isomer get formed is just a matter of chance
+geometric isomerism isomerism is where you can draw more than one arrangement of the atom for a given molecular formula
+geometric isomerism is a special case of this involving molecule which have restricted rotation around one of the bond in this case a double bond
+the bond could only rotate if enough energy is put in to break the pi bond
+effectively except at high temperature the bond is locked
+in the case of the two ch3 group will either both be locked on one side of the to give the ci or z isomer or on opposite side to give the trans or e one
+for a full discussion of geometric isomerism follow this link
+on your browser to return to this page
+beware
+it is easy to miss geometric isomer in an exam
+always draw alkene with the correct bond angle around the bond a shown in the diagram for the ci and trans isomer above
+if you take a short cut and write a you will almost certainly miss the fact that ci and trans form are possible
+this is a rich source of question in an exam
+you could easily throw away mark if you miss these possibility
+the overall result elimination from lead to a mixture containing also known a z also known a e

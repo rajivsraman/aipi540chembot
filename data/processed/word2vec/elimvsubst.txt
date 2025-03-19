@@ -1,0 +1,35 @@
+elimination versus substitution in halogenoalkanes this page discusses the factor that decide whether halogenoalkanes undergo elimination reaction or nucleophilic substitution when they react with hydroxide ion from say sodium hydroxide or potassium hydroxide
+detail for each of these type of reaction are given elsewhere and you will find link to them from this page
+the reaction both reaction involve heating the halogenoalkane under reflux with sodium or potassium hydroxide solution
+nucleophilic substitution the hydroxide ion present are good nucleophiles and one possibility is a replacement of the halogen atom by an group to give an alcohol via a nucleophilic substitution reaction
+in the example is converted into
+elimination halogenoalkanes also undergo elimination reaction in the presence of sodium or potassium hydroxide
+the ha reacted to give an alkene propene
+notice that a hydrogen atom ha been removed from one of the end carbon atom together with the bromine from the centre one
+in all simple elimination reaction the thing being removed are on adjacent carbon atom and a double bond is set up between those carbon
+what decides whether you get substitution or elimination
+the reagent you are using are the same for both substitution or elimination the halogenoalkane and either sodium or potassium hydroxide solution
+in all case you will get a mixture of both reaction happening some substitution and some elimination
+what you get most of depends on a number of factor
+the type of halogenoalkane this is the most important factor
+important
+if you are clear about the various type of halogenoalkanes it is essential that you follow this link before you read on
+on your browser to return to this page
+for example whatever you do with tertiary halogenoalkanes you will tend to get mainly the elimination reaction whereas with primary one you will tend to get mainly substitution
+however you can influence thing to some extent by changing the condition
+the solvent the proportion of water to ethanol in the solvent matter
+water encourages substitution
+ethanol encourages elimination
+the temperature higher temperature encourage elimination
+concentration of the sodium or potassium hydroxide solution higher concentration favour elimination
+in summary for a given halogenoalkane to favour elimination rather than substitution use heat a concentrated solution of sodium or potassium hydroxide pure ethanol a the solvent uk a level syllabus
+some thing you just have to know
+the role of the hydroxide ion the role of the hydroxide ion in a substitution reaction in the substitution reaction between a halogenoalkane and ion the hydroxide ion are acting a nucleophiles
+for example one of the lone pair on the oxygen can attack the slightly positive carbon
+this lead on to the loss of the bromine a a bromide ion and the group becoming attached in it place
+the role of the hydroxide ion in an elimination reaction hydroxide ion have a very strong tendency to combine with hydrogen ion to make water in other word the ion is a very strong base
+in an elimination reaction the hydroxide ion hit one of the hydrogen atom in the ch3 group and pull it off
+this lead to a cascade of electron pair movement resulting in the formation of a double bond and the loss of the bromine a
+you will probably find that the question centre around secondary halogenoalkanes like because these can easily be persuaded to do either reaction
+important if the elimination mechanism is on your syllabus you are quite likely to be asked question in which the substitution reaction crop up a well
+if you need to revise this in detail now is a good time to do it

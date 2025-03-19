@@ -1,0 +1,78 @@
+dna mutation this page take a very brief look at what happens if the code in dna becomes changed in some way and the effect that would have on the protein it code for
+it is designed for 16 18 year old chemistry student
+in fact most chemistry student wo need this check your syllabus and past paper before you go on
+dna rna and protein synthesis starting with the structure of dna
+random change to the genetic code copying error when dna replicates or is transcribed into rna can cause change in the sequence of base which make up the genetic code
+radiation and some chemical can also cause change
+the example which follow show some of the effect of this
+change to individual base remember that a set of three base in a gene in dna code for a particular amino acid
+if you have followed this sequence of page from the beginning you will have come across this table showing the codon in dna a gene will be made up of a string of these code rather like a string of word in a sentence
+we use that a a simple analogy
+take the sentence the big fox bit the dog but not the boy suppose one letter got changed in this by accident
+suppose for example the d in dog got replaced by a p
+the sentence would now read the big fox bit the pog but not the boy clearly this doe make complete sense any more
+would that matter if the same thing happened in a gene
+it depends
+if you look back at the table there are several amino acid which are coded for by more than one base combination
+for example glycine gly is coded for by ggt ggc gga and ggg
+it doe matter what the last base is you would get glycine whatever base followed the initial gg
+that mean that a mutation at the end of a codon like this would make any difference to the protein chain which would eventually form
+these are known a silent mutation
+alternatively of course you could well get a code for a different amino acid or even a stop codon
+if a stop codon wa produced in the middle of the gene then the protein formed would be too short and almost certainly would function properly
+if a different amino acid wa produced how much it mattered would depend on whereabouts it wa in the protein chain
+if it wa near the active site of an enzyme for example it might stop the enzyme from working entirely
+on the other hand if it wa on the outside of an enzyme and did affect the way the protein chain folded it might not matter at all
+inserting or deleting base the situation is more dramatic if extra base are inserted into the code or some base are deleted from the code
+using our example sentence from above and keeping the three letter word structure if you insert a single extra base the big fro xbi tth edo gbu tno tth ebo y an extra r is inserted in fox
+if the sentence still ha to be read three letter at a time a in dna everything from then on becomes completely meaningless
+if you delete a single base the big fxb itt hed ogb utn ott heb oy this time the o in fox ha been deleted
+and again because we have to read the letter in group of three the rest of the sentence becomes completely wrecked
+so doe this matter
+well of course it doe
+large chunk of the protein will consist of completely wrong amino acid residue
+we looked so far at inserting or deleting one base
+what if you do it for more than one
+the effect is the same unless you add or delete multiple of three base without changing any other codon
+if you added an extra three base between two existing codon then essentially you are just adding an extra word
+the big fox bit the xjy dog but not the boy that extra word represents an extra codon in the dna and so an extra amino acid residue in the protein chain
+doe this matter
+it depends where it is in the chain is it important to the active site of an enzyme for example
+and whether it affect the folding of the chain
+what if the three base were inserted so that they broke up an existing codon
+here is the same extra word xjy dropped in the word bit
+everything is then reshuffled into group of three letter
+the big fox bxj yit the dog but not the boy you can see that the effect is again fairly limited
+it will change one codon completely and introduce an extra codon
+that would give you one different amino acid and one extra amino acid in the chain
+again how much that would affect the final protein depends on where it happens in the chain
+deleting a whole codon again leaf most of the protein chain unchanged
+again whether the function of the protein is affected depends on where the missing amino acid should have been and how critical it wa to the way the protein folded
+important the material on remainder of this page wa written for a specific uk syllabus which no longer requires it
+i have left it here in case it is useful to anyone else
+read it out of interest if you want to but check whatever syllabus you are doing before you waste any time learning it
+some disease caused by mutation the following example illustrate some of the change we looked at above and how they can result in disease
+cystic fibrosis cystic fibrosis is an inherited disease which affect the lung and digestive system
+it result from mutation in a gene responsible for making a protein which is involved in the transport of ion across cell boundary
+the effect is to produce a sticky mucus which clog the lung and can lead to serious infection
+a similar sticky mucus also block the pancreas a part of the digestive system which provides enzyme for breaking down food
+this get in the way of the process which convert the food into molecule which can be absorbed by the body
+there are lot of different mutation which can cause this but we just have a quick look at the one which account for about 70 of cystic fibrosis case
+the base sequence in the part of the gene affected ought to look like this the phenylalanine phe in red is the amino acid which is missing from the final protein in many sufferer from cystic fibrosis
+however it is quite a simple a just losing the ttt codon
+instead the three base lost are that leaf the sequence notice that the amino acid sequence is identical to before but without the phenylalanine
+how did that happen when we did actually remove the whole of the phenylalanine codon
+if you look carefully you will see that the codon for the second isoleucine ile is different from before
+it so happens that isoleucine is coded for by both atc and att
+once the second t the red one ha joined the existing at all the rest of the base sequence is exactly what it wa before
+sickle cell anaemia u anemia this is so called because red blood cell change their shape from the normal flexible doughnut shape to a much more rigid sickle shape rather like a crescent moon
+it result from the change of a single base in a gene responsible for making one of the protein chain which make up haemoglobin u hemoglobin
+the affected part of the gene should read what it actually read in someone suffering from sickle cell anaemia is the effect of this single change is to make the haemoglobin temporarily polymerise to make fibre after it ha released the oxygen that it carry around the body
+this change the shape of the red blood cell so that they do flow so easily it make them sticky especially in small blood vessel
+this can cause pain and lead to organ damage
+haemophilia u hemophilia sufferer from haemophilia lack a protein in the blood which allows it to clot
+that mean that if someone with haemophilia cut themselves the wound will just continue to bleed
+there are all sort of mutation which cause haemophilia
+one which is easy to understand is caused by changing a single base at the beginning of a codon for argenine cga somewhere in the gene to give tga
+if you look back to the table higher up the page you will find that tga is a stop codon
+all that will be produced is a useless fragment of the intended protein

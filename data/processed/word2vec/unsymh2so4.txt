@@ -1,0 +1,9 @@
+the reaction between unsymmetrical alkene and sulphuric acid this page give you the fact and a simple uncluttered mechanism for the electrophilic addition reaction between sulphuric acid and unsymmetrical alkene like propene
+if you want the mechanism explained to you in detail there is a link at the bottom of the page
+the fact alkene react with concentrated sulphuric acid in the cold to produce alkyl hydrogensulphates
+in the case of propene the equation is this is in line with markovnikov rule which say when a compound hx is added to an unsymmetrical alkene the hydrogen becomes attached to the carbon with the most hydrogen attached to it already
+in this case the hydrogen becomes attached to the ch2 group because the ch2 group ha more hydrogen than the ch group
+notice that only the hydrogen directly attached to the carbon atom at either end of the double bond count
+the one in the ch3 group are totally irrelevant
+the mechanism this is an example of electrophilic addition
+the addition is this way around because it is easier to produce the secondary carbocation carbonium ion than the primary one which would be formed if the hydrogen became attached to the centre carbon atom and the rest of the sulphuric acid to the end one

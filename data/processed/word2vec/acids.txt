@@ -1,0 +1,108 @@
+the acidity of organic acid this page explains the acidity of simple organic acid and look at the factor which affect their relative strength
+why are organic acid acidic
+organic acid a weak acid for the purpose of this topic we are going to take the definition of an acid a a substance which donates hydrogen ion proton to other thing
+we are going to get a measure of this by looking at how easily the acid release hydrogen ion to water molecule when they are in solution in water
+an acid in solution set up this equilibrium ah rather than ha because in all the case we shall be looking at the hydrogen we are interested in is at the end of a molecule
+a hydroxonium ion is formed together with the anion negative ion from the acid
+this equilibrium is sometimes simplified by leaving out the water to emphasise the ionisation of the acid
+if you write it like this you must include the state symbol aq
+writing aq implies that the hydrogen ion is attached to a water molecule a
+hydrogen ion are always attached to something during chemical reaction
+the organic acid are weak in the sense that this ionisation is very incomplete
+at any one time most of the acid will be present in the solution a molecule
+for example in the case of dilute ethanoic acid the solution contains about 99 of ethanoic acid molecule at any instant only about 1 have actually ionised
+the position of equilibrium therefore lie well to the left
+comparing the strength of weak acid the strength of weak acid are measured on the pka scale
+the smaller the number on this scale the stronger the acid is
+three of the compound we shall be looking at together with their pka value are remember the smaller the number the stronger the acid
+comparing the other two to ethanoic acid you will see that phenol is very much weaker with a pka of and ethanol is so weak with a pka of about 16 that it hardly count a acidic at all
+why are these acid acidic
+in each case the same bond get broken the bond between the hydrogen and oxygen in an group
+writing the rest of the molecule a x it is however particularly important to the rest of the current page
+on your browser to return to this page later
+so
+if the same bond is being broken in each case why do these three compound have such widely different acid strength
+difference in acid strength between carboxylic acid phenol and alcohol the factor to consider two of the factor which influence the ionisation of an acid are the strength of the bond being broken the stability of the ion being formed
+in these case you seem to be breaking the same bond each time and so you might expect the strength to be similar
+the bond wo be identically strong because what around them in the molecule is the same in each case
+the most important factor in determining the relative acid strength of these molecule is the nature of the ion formed
+you always get a hydroxonium ion so that constant but the nature of the anion the negative ion varies markedly from case to case
+ethanoic acid ethanoic acid ha the structure the acidic hydrogen is the one attached to the oxygen
+when ethanoic acid ionises it form the ethanoate ion
+you might reasonably suppose that the structure of the ethanoate ion wa a below but measurement of bond length show that the two bond are identical and somewhere in length between a single and a double bond
+to understand why this is you have to look in some detail at the bonding in the ethanoate ion
+ethanoic acid ethanoic acid ha the structure the acidic hydrogen is the one attached to the oxygen
+when ethanoic acid ionises it form the ethanoate ion
+you might reasonably suppose that the structure of the ethanoate ion wa a below but measurement of bond length show that the two bond are identical and somewhere in length between a single and a double bond
+to understand why this is you have to look in some detail at the bonding in the ethanoate ion
+if you do already understand about the bonding in the double bond you would be well advised to skip this next bit all the way down to the simplified structure of the ethanoate ion towards the end of it
+it go beyond anything that you are likely to want for uk a level purpose
+if you do choose to follow this link it will probably take you to several other page before you are ready to come back here again
+or history file or go menu on your browser to return to this page
+like any other double bond a double bond is made up of two different part
+one electron pair is found on the line between the two nucleus this is known a a sigma bond
+the other electron pair is found above and below the plane of the molecule in a pi bond
+pi bond are made by sideways overlap between p orbitals on the carbon and the oxygen
+in an ethanoate ion one of the lone pair on the negative oxygen end up almost parallel to these p orbitals and overlap with them
+this lead to a delocalised pi system over the whole of the group rather like that in benzene
+all the oxygen lone pair have been left out of this diagram to avoid confusion
+because the oxygen are more electronegative than the carbon the delocalised system is heavily distorted so that the electron spend much more time in the region of the oxygen atom
+so where is the negative charge in all this
+it ha been spread around over the whole of the group but with the greatest chance of finding it in the region of the two oxygen atom
+ethanoate ion can be drawn simply a the dotted line represents the delocalisation
+the negative charge is written centrally on that end of the molecule to show that it is localised on one of the oxygen atom
+the more you can spread charge around the more stable an ion becomes
+in this case if you delocalise the negative charge over several atom it is going to be much less attractive to hydrogen ion and so you are less likely to the ethanoic acid
+phenol phenol have an group attached directly to a benzene ring
+phenol itself is the simplest of these with nothing else attached to the ring apart from the group
+when the bond in phenol break you get a phenoxide ion
+you need to understand about the bonding in benzene in order to make sense of this next bit
+if your syllabus say that you need to know about the acidity of phenol then you will have to understand the next few paragraph which in turn mean that you will have to understand about benzene
+if it doe mention phenol skip it
+if you follow this link you may have to explore several other page before you are ready to come back here again
+or history file or go menu on your browser to return to this page
+delocalisation also occurs in this ion
+this time one of the lone pair on the oxygen atom overlap with the delocalised electron on the benzene ring
+this overlap lead to a delocalisation which extends from the ring out over the oxygen atom
+a a result the negative charge is no longer entirely localised on the oxygen but is spread out around the whole ion
+why then is phenol a much weaker acid than ethanoic acid
+think about the ethanoate ion again
+if there wa any delocalisation the charge would all be on one of the oxygen atom like this but the delocalisation spread this charge over the whole of the coo group
+because oxygen is more electronegative than carbon you can think of most of the charge being shared between the two oxygen shown by the heavy red shading in this diagram
+if there wa any delocalisation one of the oxygen would have a full charge which would be very attractive towards hydrogen ion
+with delocalisation that charge is spread over two oxygen atom and neither will be a attractive to a hydrogen ion a if one of the oxygen carried the whole charge
+that mean that the ethanoate ion wo take up a hydrogen ion a easily a it would if there wa any delocalisation
+because some of it stay ionised the formation of the hydrogen ion mean that it is acidic
+in the phenoxide ion the single oxygen atom is still the most electronegative thing present and the delocalised system will be heavily distorted towards it
+that still leaf the oxygen atom with most of it negative charge
+what delocalisation there is make the phenoxide ion more stable than it would otherwise be and so phenol is acidic to an extent
+however the delocalisation ha shared the charge around very effectively
+there is still lot of negative charge around the oxygen to which hydrogen ion will be attracted and so the phenol will readily
+phenol is therefore only very weakly acidic
+ethanol ethanol ch3ch2oh is so weakly acidic that you would hardly count it a acidic at all
+if the bond break to release a hydrogen ion an ethoxide ion is formed this ha nothing at all going for it
+there is no way of delocalising the negative charge which remains firmly on the oxygen atom
+that intense negative charge will be highly attractive towards hydrogen ion and so the ethanol will instantly
+since ethanol is very poor at losing hydrogen ion it is hardly acidic at all
+variation in acid strength between different carboxylic acid you might think that all carboxylic acid would have the same strength because each depends on the delocalisation of the negative charge around the group to make the anion more stable and so more reluctant to with a hydrogen ion
+in fact the carboxylic acid have widely different acidity
+one obvious difference is between methanoic acid hcooh and the other simple carboxylic acid remember that the higher the value for pka the weaker the acid is
+why is ethanoic acid weaker than methanoic acid
+it again depends on the stability of the anion formed on how much it is possible to delocalise the negative charge
+the less the charge is delocalised the less stable the ion and the weaker the acid
+the methanoate ion from methanoic acid is the only difference between this and the ethanoate ion is the presence of the ch3 group in the ethanoate
+but that important
+alkyl group have a tendency to push electron away from themselves
+that mean that there will be a small amount of extra negative charge built up on the group
+any of charge will make the ion less stable and more attractive to hydrogen ion
+ethanoic acid is therefore weaker than methanoic acid because it will more easily from it ion
+the other alkyl group have effect very similar to the methyl group and so the strength of propanoic acid and butanoic acid are very similar to ethanoic acid
+the acid can be strengthened by pulling charge away from the end
+you can do this by attaching electronegative atom like chlorine to the chain
+a the next table show the more chlorine you can attach the better trichloroethanoic acid is quite a strong acid
+attaching different halogen also make a difference
+fluorine is the most electronegative and so you would expect it to be most successful at pulling charge away from the end and so strengthening the acid
+the effect is there but is a great a you might expect
+finally notice that the effect fall off quite quickly a the attached halogen get further away from the end
+here is what happens if you move a chlorine atom along the chain in butanoic acid
+the chlorine is effective at withdrawing charge when it is to the group and much less so a it get even one carbon further away

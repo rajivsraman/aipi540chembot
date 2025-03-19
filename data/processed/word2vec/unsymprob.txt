@@ -1,0 +1,64 @@
+electrophilic addition to unsymmetrical alkene important
+to make sense of this page you will need to understand about the structure and stability of carbocations previously called carbonium ion and be confident about electrophilic addition to simple alkene like ethene
+if you are sure about either of these thing follow these link first
+trying to build on shaky foundation risk confusing you and undermining your confidence
+the addition of to an unsymmetrical alkene like propene an unsymmetrical alkene is one like propene or in which the group or atom attached to either end of the double bond are different
+for example in propene there are a hydrogen and a methyl group at one end but two hydrogen atom at the other end of the double bond
+with these unsymmetrical alkene it is possible to get two different product during some addition reaction
+during the addition of a molecule hx to propene you could in principle get either this reaction or this one it depends on which way around you add the hx across the double bond
+in fact in most case it mainly the second reaction which happens
+the hydrogen atom becomes attached to the carbon atom a we drawn it
+markovnikov rule markovnikov there are nearly a many version a there are text book
+it an english attempt at a russian name and markovnikov would actually have recognised any of them
+when a compound hx is added to an unsymmetrical alkene the hydrogen becomes attached to the carbon with the most hydrogen attached to it already
+remember that the hx ha to attach itself to the carbon atom which were originally part of the double bond
+so in this case adding hx to the hydrogen is attached to the ch2 group because the ch2 group ha more hydrogen than the ch group
+notice that only the hydrogen directly attached count
+the one in the ch3 group are totally irrelevant
+markovnikov rule is a useful guide for you to work out which way round to add something across a double bond but it is the reason why thing add that way
+propene ha never even heard of markovnikov
+when the question arises in an exam you will need a much more fundamental explanation which is coming up next
+a a general principle do quote markovnikov rule in an exam unless you are specifically asked for it
+hx a an electrophile in each of the case we are interested in x is more electronegative than hydrogen
+that mean that the bonding pair of electron will be dragged towards the x end of the bond and so the hydrogen becomes slightly positively charged
+the slightly positive hydrogen is the electrophile and is attracted to the pi bond in the propene
+what happens next determines which way around the hx add across the double bond
+the two possible mechanism in both possibility the pi bond break and the electron pair swing down to form a bond with the hydrogen atom
+at the same time the electron in the bond are repelled right down on to the x to give an ion
+the difference lie in which way the electron pair in the pi bond swing
+first possibility the electron pair move to form a bond between the hydrogen and the carbon
+when the second stage of the mechanism happens and the lone pair on form a bond with the positive carbon atom the product of this mechanism is not the one which markovnikov rule predicts
+second possibility the electron pair move to form a bond between the hydrogen and the carbon
+this time the overall mechanism lead to the correct product
+why doe one of these work better than the other
+that the truth of the situation
+one of these mechanism work better than the other one
+the second mechanism work much faster than the first and so most of the product that you get is
+there will be small amount of despite what markovnikov say
+the difference between the two mechanism lie in the intermediate the thing formed at the stage
+in the mechanism that work best you get a secondary carbocation formed a one of the intermediate ion
+in the slow mechanism which produce hardly any product you get a primary carbocation formed instead
+it is much easier to form the secondary carbocation because it is more energetically stable
+the activation energy for the reaction will be less and so most of the reaction happens via that mechanism
+activation energy the minimum energy needed before a reaction will occur
+in this case it is the energy needed to break the various bond and make the carbocation and the ion
+how to attack this sort of question in an exam suppose you were asked for the mechanism for the addition of hx to some alkene you had come across before
+first you need to decide whether the alkene is symmetrical or not
+if it is symmetrical there no problem it would matter which way around you added the hx
+if it is unsymmetrical you need to decide which way round the hx is going to add
+for example supposed you were asked for the mechanism for the addition of hx to
+first use markovnikov rule to decide which carbon to attach the hydrogen to
+in this case the hydrogen would get attached to the ch2 end of the double bond because that carbon ha more hydrogen than the ch end
+markovnikov rule is only to help you decide
+do give the examiner any hint that you are using it unless they specifically ask
+now write the mechanism taking care to draw the curly arrow showing the movement of the pi bond so that the hydrogen get attached to that particular ch2 carbon
+if you are asked why the hx add this way round look at the carbocation formed a an intermediate and decide whether it is secondary or tertiary
+here it is a secondary ion
+then think about what sort of ion would be formed if the hx added the other way around
+in this case that would be a primary ion
+then say something like the secondary carbocation formed in this reaction is more energetically stable than the primary one which would be formed if the addition wa the other way round and so less activation energy is needed
+important
+if there were bit of this that you found you could understand you are probably trying to do too much too quickly
+follow the link to carbocations carbonium ion and electrophilic addition to simple alkene get the basic sorted out properly and then try again
+follow the link to carbocations carbonium ion and electrophilic addition to simple alkene get the basic sorted out properly and then try again
+follow the link to carbocations carbonium ion and electrophilic addition to simple alkene get the basic sorted out properly and then try again

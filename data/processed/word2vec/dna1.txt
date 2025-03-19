@@ -1,0 +1,109 @@
+dna structure this page looking at the structure of dna is the first in a sequence of page leading on to how dna replicates make copy of itself and then to how information stored in dna is used to make protein molecule
+this material is aimed at 16 18 year old chemistry student
+if you are interested in this from a biological or biochemical point of view you may find these page a useful introduction before you get more information somewhere else
+dna from the biochemical society
+chemistry student at uk a level or it various equivalent should not waste time on this
+the booklet is written for a level biology student and go into far more detail than you will need for chemistry purpose
+a quick look at the whole structure of dna these day most people know about dna a a complex molecule which carry the genetic code
+most will also have heard of the famous double helix
+i going to start with a diagram of the whole structure and then take it apart to see how it all fit together
+the diagram show a tiny bit of a dna double helix
+u national library of medicine
+you can see it in it original context by following this link if you are interested
+normally i prefer to draw my own diagram but my drawing software is sophisticated enough to produce convincing twisted ribbon
+exploring a dna chain the sugar in the backbone the backbone of dna is based on a repeated pattern of a sugar group and a phosphate group
+the full name of dna deoxyribonucleic acid give you the name of the sugar present deoxyribose
+deoxyribose is a modified form of another sugar called ribose
+i going to give you the structure of that first because you will need it later anyway
+ribose is the sugar in the backbone of rna ribonucleic acid
+this diagram miss out the carbon atom in the ring for clarity
+each of the four corner where there is an atom shown ha a carbon atom
+the heavier line are coming out of the screen or paper towards you
+in other word you are looking at the molecule from a bit above the plane of the ring
+so that ribose
+deoxyribose a the name might suggest is ribose which ha lost an oxygen atom
+the only other thing you need to know about deoxyribose or ribose for that matter is how the carbon atom in the ring are numbered
+the carbon atom to the right of the oxygen a we have drawn the ring is given the number 1 and then you work around to the carbon on the ch2oh side group which is number 5
+you will notice that each of the number ha a small dash by it 3 or 5 for example
+if you just had ribose or deoxyribose on it own that would be necessary but in dna and rna these sugar are attached to other ring compound
+the carbon in the sugar are given the little dash so that they can be distinguished from any number given to atom in the other ring
+you read 3 or 5 a or
+attaching a phosphate group the other repeating part of the dna backbone is a phosphate group
+a phosphate group is attached to the sugar molecule in place of the group on the 5 carbon
+you may find a hydrogen attached instead of having a negative charge on one of the oxygen or the hydrogen removed from the top group to leave a negative ion there a well
+i do want to get bogged down in this
+the version i am using is fine for chemistry purpose and will make it easy to see how the dna backbone is put together
+we are soon going to simplify all this down anyway
+attaching a base and making a nucleotide the final piece that we need to add to this structure before we can build a dna strand is one of four complicated organic base
+in dna these base are cytosine c thymine t adenine a and guanine g
+they have lone pair on nitrogen and so can act a electron pair donor or accept hydrogen ion if you prefer the simpler definition
+this is particularly relevant to their function in dna but they are always referred to a base anyway
+these base attach in place of the group on the 1 carbon atom in the sugar ring
+what we have produced is known a a nucleotide
+we now need a quick look at the four base
+if you need these in a chemistry exam at this level the structure will almost certainly be given to you
+here are their structure the nitrogen and hydrogen atom shown in blue on each molecule show where these molecule join on to the deoxyribose
+in each case the hydrogen is lost together with the group on the 1 carbon atom of the sugar
+this is a condensation reaction two molecule joining together with the loss of a small one not necessarily water
+for example here is what the nucleotide containing cytosine would look like i given previously so that it fit better into the diagram
+you must be prepared to rotate or flip these structure if necessary
+joining the nucleotide into a dna strand a dna strand is simply a string of nucleotide joined together
+i can show how this happens perfectly well by going back to a simpler diagram and not worrying about the structure of the base
+the phosphate group on one nucleotide link to the 3 carbon atom on the sugar of another one
+in the process a molecule of water is lost another condensation reaction
+and you can continue to add more nucleotide in the same way to build up the dna chain
+now we can simplify all this down to the bare essential
+i have drawn the bond attaching to the two sugar molecule opposite each other in the diagram above
+you will also find diagram where they are drawn at right angle to each other
+which is right
+both are right and equally both are misleading
+the shape of the bond around the phosphorus atom is tetrahedral and all of the bond are at approximately to each other
+whichever way you choose to draw this in on paper it still represents the same molecule in reality
+to take a simpler example if you draw a structural formula for ch2cl2 using simple bond notation you could equally well draw the chlorine atom at right angle to each other or opposite each other
+the molecule would still be exactly the same
+this is one of the thing you had to learn when you first started drawing structure for organic molecule
+if you still are sure about this look again at the page about drawing organic molecule
+building a dna chain concentrating on the essential what matter in dna is the sequence the four base take up in the chain
+we are particularly interested in the backbone so we can simplify that down
+for the moment we can simplify the precise structure of the base a well
+we can build the chain based on this fairly obvious simplification there is only one possible point of confusion here and that relates to how the phosphate group p is attached to the sugar ring
+notice that it is joined via two line with an angle between them
+by convention if you draw line like this there is a carbon atom where these two line join
+that is the carbon atom in the ch2 group if you refer back to a previous diagram
+if you had tried to attach the phosphate to the ring by a single straight line that ch2 group would have got lost
+joining up lot of these give you a part of a dna chain
+the diagram below is a bit from the middle of a chain
+notice that the individual base have been identified by the first letter of the base name
+a adenine etc
+notice also that there are two different size of base
+adenine and guanine are bigger because they both have two ring
+cytosine and thymine only have one ring each
+if the top of this segment wa the end of the chain then the phosphate group would have an group attached to the spare bond rather than another sugar ring
+similarly if the bottom of this segment of chain wa the end then the spare bond at the bottom would also be to an group on the deoxyribose ring
+joining the two dna chain together the importance of base pair have another look at the diagram we started from if you look at this carefully you will see that an adenine on one chain is always paired with a thymine on the second chain
+and a guanine on one chain is always paired with a cytosine on the other one
+so how exactly doe this work
+the first thing to notice is that a smaller base is always paired with a bigger one
+the effect of this is to keep the two chain at a fixed distance from each other all the way along
+but more than this the pairing ha to be exactly
+adenine a pair with thymine t guanine g pair with cytosine c
+that is because these particular pair fit exactly to form very effective hydrogen bond with each other
+it is these hydrogen bond which hold the two chain together
+the base pair fit together a follows
+the base pair the base pair if you try any other combination of base pair they wo fit
+be sure that you understand how to do that
+a long a you were given the structure of the base you could be asked to show how they hydrogen bond and that would include showing the lone pair and polarity of the important atom
+if hydrogen bonding worry you follow this link for detailed explanation
+on your browser to return here later
+a final structure for dna showing the important bit i have shortened the chain by one base pair compared with the previous diagram
+there is any sophisticated reason for this
+the diagram just got a little bit too big for my normal page width and it wa a lot easier to just chop a bit off the bottom than rework all my previous diagram to make them slightly smaller
+this diagram only represents a tiny bit of a dna molecule anyway
+notice that the two chain run in opposite direction and the chain is essentially
+you will also notice that i have labelled the end of these bit of chain with 3 and 5
+if you followed the chain to it very end at the top you would have a phosphate group attached to the 5 carbon in the deoxyribose ring
+if you followed it all the way to the other end you would have an group attached to the 3 carbon
+in the second chain the top end ha a 3 carbon and the bottom end a 5
+this 5 and 3 notation becomes important when we start talking about the genetic code and gene
+the genetic code in gene is always written in the 5 to 3 direction along a chain
+it is also important when we take a very simplified look at how dna make copy of itself on the next page

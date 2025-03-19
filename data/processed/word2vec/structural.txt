@@ -1,0 +1,61 @@
+structural isomerism this page explains what structural isomerism is and look at some of the various way that structural isomer can arise
+what is structural isomerism
+what are isomer
+isomer are molecule that have the same molecular formula but have a different arrangement of the atom in space
+that excludes any different arrangement which are simply due to the molecule rotating a a whole or rotating about particular bond
+for example both of the following are the same molecule
+they are not isomer
+both are butane
+there are also endless other possible way that this molecule could twist itself
+there is completely free rotation around all the single bond
+if your school or college ha given you the opportunity to play around with molecular model in the early stage of your organic chemistry course you might consider getting hold of a cheap set
+the model made by molymod are both cheap and easy to use
+an introductory organic set is more than adequate
+google molymod to find a supplier and more about them or have a look at this set or this set or something similar from amazon
+share the cost with some friend keep it in good condition and do lose any bit and resell it via ebay or amazon at the end of your course
+alternatively get hold of some coloured plasticene or other child modelling clay and some used match and make your own
+it cheaper but more difficult to get the bond angle right
+if you had a model of a molecule in front of you you would have to take it to piece and rebuild it if you wanted to make an isomer of that molecule
+if you can make an apparently different molecule just by rotating single bond it not different it still the same molecule
+if you are sure then you must get hold of or make some model
+what are structural isomer
+in structural isomerism the atom are arranged in a completely different order
+this is easier to see with specific example
+what follows look at some of the way that structural isomer can arise
+the name of the various form of structural isomerism probably do matter all that much but you must be aware of the different possibility when you come to draw isomer
+type of structural isomerism chain isomerism these isomer arise because of the possibility of branching in carbon chain
+for example there are two isomer of butane c4h10
+in one of them the carbon atom lie in a straight chain whereas in the other the chain is branched
+if you are happy about the way of drawing organic molecule follow this link
+on your browser to return to this page
+be careful not to draw false isomer which are just twisted version of the original molecule
+for example this structure is just the straight chain version of butane rotated about the central bond
+you could easily see this with a model
+this is the example we already used at the top of this page
+pentane c5h12 ha three chain isomer
+if you think you can find any others they are simply twisted version of the one below
+if in doubt make some model
+position isomerism in position isomerism the basic carbon skeleton remains unchanged but important group are moved around on that skeleton
+for example there are two structural isomer with the molecular formula c3h7br
+in one of them the bromine atom is on the end of the chain whereas in the other it attached in the middle
+if you made a model there is no way that you could twist one molecule to turn it into the other one
+you would have to break the bromine off the end and it in the middle
+at the same time you would have to move a hydrogen from the middle to the end
+another similar example occurs in alcohol such a c4h9oh these are the only two possibility provided you keep to a four carbon chain but there is no reason why you should do that
+you can easily have a mixture of chain isomerism and position isomerism you are restricted to one or the other
+so two other isomer of butanol are you must be aware of all the possibility
+you can also get position isomer on benzene ring
+consider the molecular formula c7h7cl
+there are four different isomer you could make depending on the position of the chlorine atom
+in one case it is attached to the carbon atom and then there are three other possible position it could have around the ring next to the ch3 group to the ch3 group or opposite the ch3 group
+functional group isomerism in this variety of structural isomerism the isomer contain different functional group that is they belong to different family of compound different homologous series
+for example a molecular formula c3h6o could be either propanal an aldehyde or propanone a ketone
+there are other possibility a well for this same molecular formula for example you could have a double bond an alkene and an group an alcohol in the same molecule
+another common example is illustrated by the molecular formula c3h6o2
+amongst the several structural isomer of this are propanoic acid a carboxylic acid and methyl ethanoate an ester
+if you are asked to draw the structural isomer from a given molecular formula do forget to think about all the possibility
+can you branch the carbon chain
+can you move a group around on that chain
+is it possible to make more than one type of compound
+be careful though
+if you are asked to draw the structure of ester with the molecular formula c3h6o2 you are going to get a lot of credit for drawing propanoic acid even if it is a valid isomer

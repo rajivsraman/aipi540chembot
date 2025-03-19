@@ -1,0 +1,31 @@
+bonding in ethyne acetylene important
+the approach on this page follows on from the similar but very slightly easier explanation of the bonding in ethene
+unless you are already familiar with this you should first read the page about ethene
+to understand ethene you also have to understand orbitals and the bonding in methane sorry there are no
+depending on how many other page you might have to refer to a well return here later using the back button on your browser or the go menu or history file or via the organic bonding menu link from the bottom of each page in this section
+ethyne c2h2 the simple view of the bonding in ethyne ethyne ha a triple bond between the two carbon atom
+in the diagram each line represents one pair of shared electron
+if you have read the ethene page you will expect that ethyne is going to be more complicated than this simple structure suggests
+an orbital view of the bonding in ethyne ethyne is built from hydrogen atom 1s1 and carbon atom 1s22s22px12py1
+the carbon atom doe have enough unpaired electron to form four bond 1 to the hydrogen and three to the other carbon so it need to promote one of the 2s2 pair into the empty 2pz orbital
+this is exactly the same a happens whenever carbon form bond whatever else it end up joined to
+important
+if this is really clear to you you must go and read the article about the bonding in methane
+each carbon is only joining to two other atom rather than four a in methane or ethane or three a in ethene and so when the carbon atom hybridise their outer orbitals before forming bond this time they only hybridise two of the orbitals
+they use the 2 electron and one of the 2p electron but leave the other 2p electron unchanged
+the new hybrid orbitals formed are called sp1 hybrid because they are made by an s orbital and a single p orbital reorganising themselves
+note the more modern name for what i call sp1 hybrid is just sp hybrid
+i prefer the older name because it emphasis the fact that only one p orbital is involved even if the 1 is technically unnecessary
+if your syllabus or teacher want you to use just sp then that what you do
+what these look like in the atom using the same colour coding is notice that the two green lobe are two different hybrid orbitals arranged a far apart from each other a possible
+do confuse them with the shape of a p orbital
+the two carbon atom and two hydrogen atom would look like this before they joined together the various atomic orbitals which are pointing towards each other now merge to give molecular orbitals each containing a bonding pair of electron
+these are sigma bond just like those formed by overlap of atomic orbitals in say ethane
+the sigma bond are shown a orange in the next diagram
+the various p orbitals now shown in slightly different red to avoid confusion are now close enough together that they overlap sideways
+sideways overlap between the two set of p orbitals produce two pi bond each similar to the pi bond found in say ethene
+these pi bond are at to each other one above and below the molecule and the other in front of and behind the molecule
+notice the different shade of red for the two different pi bond
+in particular these diagram are not to scale
+to get the p orbitals to overlap and still see what is going on at the back of the molecule you have to shorten the distance completely out of proportion
+in truth the bond length is shorter than the triple bond

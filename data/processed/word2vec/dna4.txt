@@ -1,0 +1,35 @@
+the genetic code this page look at how the base sequence in dna and rna are used to code for particular amino acid when it come to building protein chain
+it is designed for 16 18 year old chemistry student
+dna and rna
+unless you just want a quick reference to get the coding for a particular amino acid it would pay you to start from the beginning with the structure of dna
+introduction you can think of the sequence of base in the coding strand of dna or in messenger rna a coded instruction for building protein chain out of amino acid
+there are 20 amino acid used in making protein but only four different base to be used to code for them
+obviously one base ca code for one amino acid
+that would leave 16 amino acid with no code
+if you took two base to code for each amino acid that would still only give you 16 possible code tt tc ta tg ct cc ca and so on still not enough
+however if you took three base per amino acid that give you 64 code ttt ttc tta ttg tct tcc and so on
+that enough to code for everything with lot to spare
+you will find a full table of these below
+a three base sequence in dna or rna is known a a codon
+the code in dna the code in the coding strand of dna and in messenger rna are of course identical because in rna the base uracil u is used instead of thymine t
+the table show how the various combination of three base in the coding strand of dna are used to code for individual amino acid shown by their three letter abbreviation
+the table is arranged in such a way that it is easy to find any particular combination you want
+it is fairly obvious how it work and in any case it doe take very long just to scan through the table to find what you want
+the colour are to stress the fact that most of the amino acid have more than one code
+look for example at leucine in the first column
+there are six different codon all of which will eventually produce a leucine leu in the protein chain
+there are also six for serine ser
+in fact there are only two amino acid which have only one sequence of base to code for them methionine met and tryptophan trp
+you have probably noticed that three codon do have an amino acid written beside them but say stop instead
+for obvious reason these are known a stop codon
+we leave talking about those until we have looked at the way the code work in messenger rna
+the code in messenger rna you will remember that when dna is transcribed into messenger rna the sequence of base remains exactly the same except that each thymine t is replaced by uracil u
+that give you the table in many way this is the more useful table
+messenger rna is directly involved in the production of the protein chain see the next page in this sequence
+the dna coding chain is one stage removed from this because it must first be transcribed into a messenger rna chain
+start and stop codon the stop codon in the rna table uaa uag and uga serve a a signal that the end of the chain ha been reached during protein synthesis and we will come back to that on the next page
+there is also a start codon but you wo find it called that in the table
+the codon that mark the start of a protein chain is aug
+if you check the table that the amino acid methionine met
+that ought to mean that every protein chain must start with methionine
+that not quite true because in some case the methionine can get chopped off the chain after synthesis is complete

@@ -1,0 +1,36 @@
+the dehydration of this page look at the mechanism for the acid catalysed dehydration of
+the dehydration of is taken a a simple example of the way that secondary and tertiary alcohol dehydrate
+primary alcohol like ethanol use a different mechanism and ethanol is discussed separately on another page
+you will find a link to this from the elimination mechanism menu
+you will also find a link there to a page on the dehydration of more complicated alcohol where more than one product may be formed
+the fact can be dehydrated to give propene by heating it with an excess of concentrated sulphuric acid at about
+concentrated phosphoric v acid h3po4 can be used instead
+the acid are written into the equation because they serve a catalyst
+if you like you could write for example conc h2so4 over the top of the arrow
+notice that the group is lost together with a hydrogen from a carbon it doe matter which one
+if you chose the other one you would get
+that the same molecule flipped over
+these are required by any current a level syllabus
+the mechanism the full version we are going to discus the mechanism using sulphuric acid
+afterwards we describe how you can use a simplified version which will work for any acid including phosphoric v acid
+in the first stage one of the lone pair of electron on the oxygen pick up a hydrogen ion from the sulphuric acid
+the alcohol is said to be protonated
+the negative ion produced is the hydrogensulphate ion
+notice that the oxygen atom in the alcohol ha gained a positive charge
+that charge ha to be there for two reason on the left hand side of the equation you start with two overall neutral molecule
+assuming you forgot about the positive charge you would end up with a neutral specie and a negative ion on the right
+charge must balance in equation so something is wrong
+the oxygen look wrong
+the oxygen atom is joined to 3 thing rather than it usual 2
+oxygen can only join to 3 thing if it carry a positive charge
+in the second stage of the reaction the protonated loses a water molecule to leave a carbocation previously known a a carbonium ion an ion with a positive charge on a carbon atom
+the carbon atom is positive because it ha lost the electron that it originally contributed to the bond
+both of the electron in that bond have moved onto the oxygen atom neutralising the oxygen charge
+finally a hydrogensulphate ion from the sulphuric acid pull off a hydrogen ion from the carbocation and a double bond form
+the mechanism a simplified version people normally quote a simplified version of this mechanism
+instead of showing the full structure of the sulphuric acid you write it a if it were simply a hydrogen ion
+that leaf the full mechanism an advantage of this apart from the fact that it doe require you to draw the structure of sulphuric acid is that it can be used for any acid catalyst without changing it at all
+for example if you use this version you would need to worry about the structure of phosphoric v acid
+a free hydrogen ion is a raw proton and this is always attached to something else during a chemical reaction
+personally i find this simplification sloppy but if your examiner are happy to accept it who am i to argue
+go for the simple life

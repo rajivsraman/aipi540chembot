@@ -1,0 +1,55 @@
+the behaviour of amino acid this page look at what happens to amino acid a you change the ph by adding either acid or alkali to their solution
+for simplicity the page only look at amino acid which contain a single group and a single group
+amino acid a zwitterions zwitterions in simple amino acid solution an amino acid ha both a basic amine group and an acidic carboxylic acid group
+there is an internal transfer of a hydrogen ion from the group to the group to leave an ion with both a negative charge and a positive charge
+this is called a zwitterion
+this is the form that amino acid exist in even in the solid state
+if you dissolve the amino acid in water a simple solution also contains this ion
+a zwitterion is a compound with no overall electrical charge but which contains separate part which are positively and negatively charged
+adding an alkali to an amino acid solution if you increase the ph of a solution of an amino acid by adding hydroxide ion the hydrogen ion is removed from the group
+you could show that the amino acid now existed a a negative ion using electrophoresis
+in it simplest form electrophoresis can just consist of a piece of moistened filter paper on a microscope slide with a crocodile clip at each end attached to a battery
+a drop of amino acid solution is placed in the centre of the paper
+although the amino acid solution is colourless it position after a time can be found by spraying it with a solution of ninhydrin
+if the paper is allowed to dry and then heated gently the amino acid show up a a coloured spot
+the amino acid would be found to travel towards the anode the positive electrode
+adding an acid to an amino acid solution if you decrease the ph by adding an acid to a solution of an amino acid the part of the zwitterion pick up a hydrogen ion
+this time during electrophoresis the amino acid would move towards the cathode the negative electrode
+shifting the ph from one extreme to the other suppose you start with the ion we just produced under acidic condition and slowly add alkali to it
+that ion contains two acidic hydrogen the one in the group and the one in the group
+the more acidic of these is the one in the group and so that is removed first and you get back to the zwitterion
+so when you have added just the right amount of alkali the amino acid no longer ha a net positive or negative charge
+that mean that it would move towards either the cathode or anode during electrophoresis
+the ph at which this lack of movement during electrophoresis happens is known a the isoelectric point of the amino acid
+this ph varies from amino acid to amino acid
+if you go on adding hydroxide ion you will get the reaction we already seen in which a hydrogen ion is removed from the group
+in fact the isoelectric point for many amino acid is about ph 6
+explaining why it is at ph 7 is quite and almost certainly beyond what you will need for uk a level or it equivalent purpose
+if you are interested the problem is discussed at the bottom of this page
+you can of course reverse the whole process by adding an acid to the ion we just finished up with
+that ion contains two basic group the group and the group
+the group is the stronger base and so pick up hydrogen ion first
+that lead you back to the zwitterion again
+and of course you can keep going by then adding a hydrogen ion to the group
+why is the isoelectric point of an amino acid at ph 7
+warning if you are a studying a syllabus you are extremely unlikely to need this for exam purpose
+it is included only for interest you can probably safely ignore it
+check your syllabus and past paper
+if you have got these follow this link to find out how to get hold of them
+when an amino acid dissolve in water the situation is a little bit more complicated than we tend to pretend at this level
+the zwitterion interacts with water molecule acting a both an acid and a base
+a an acid the group is a weak acid and donates a hydrogen ion to a water molecule
+because it is only a weak acid the position of equilibrium will lie to the left
+a a base the group is a weak base and take a hydrogen ion from a water molecule
+again the equilibrium lie to the left
+when you dissolve an amino acid in water both of these reaction are happening
+but
+the position of the two equilibrium are identical they vary depending on the influence of the r group
+in practice for the simple amino acid we have been talking about the position of the first equilibrium lie a bit further to the right than the second one
+that mean that there will be rather more of the negative ion from the amino acid in the solution than the positive one
+in those circumstance if you carried out electrophoresis on the unmodified solution there would be a slight drift of amino acid towards the positive electrode the anode
+to stop that you need to cut down the amount of the negative ion so that the concentration of the two ion are identical
+you can do that by adding a very small amount of acid to the solution moving the position of the first equilibrium further to the left
+typically the ph ha to be lowered to about 6 to achieve this
+for glycine for example the isoelectric point is ph for alanine and for serine
+the isoelectric point are quite different if the molecule contains a second or group

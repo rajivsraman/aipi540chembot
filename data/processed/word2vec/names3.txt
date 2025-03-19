@@ -1,0 +1,85 @@
+the name of aromatic compound this page look at the name of some simple aromatic compound
+an aromatic compound is one which contains a benzene ring
+it assumes that you are reasonably confident about naming compound containing chain of carbon atom aliphatic compound
+naming aromatic compound is quite so straightforward a naming chain compound
+often more than one name is acceptable and it not uncommon to find the old name still in use a well
+background the benzene ring all aromatic compound are based on benzene c6h6 which ha a ring of six carbon atom and ha the symbol each corner of the hexagon ha a carbon atom with a hydrogen attached
+following this link could well take you some time
+the phenyl group remember that you get a methyl group ch3 by removing a hydrogen from methane ch4
+you get a phenyl group c6h5 by removing a hydrogen from a benzene ring c6h6
+like a methyl or an ethyl group a phenyl group is always attached to something else
+aromatic compound with only one group attached to the benzene ring case where the name is based on benzene chlorobenzene this is a simple example of a halogen attached to the benzene ring
+the name is
+the simplified formula for this is c6h5cl
+you could therefore although you never do
+call it phenyl chloride
+whenever you draw a benzene ring with one other thing attached to it you are in fact drawing a phenyl group
+in order to attach something else you have to remove one of the existing hydrogen atom and so automatically make a phenyl group
+nitrobenzene the nitro group no2 is attached to a benzene ring
+the simplified formula for this is c6h5no2
+methylbenzene another obvious name the benzene ring ha a methyl group attached
+other alkyl would be named similarly for example ethylbenzene
+the old name for methylbenzene is toluene and you may still meet that
+the simplified formula for this is c6h5ch3
+chloromethyl benzene a variant on this which you may need to know about is where one of the hydrogen on the ch3 group is replaced by a chlorine atom
+notice the bracket around the chloromethyl in the name
+this is so that you are sure that the chlorine is part of the methyl group and not somewhere else on the ring
+if more than one of the hydrogen had been replaced by chlorine the name would be dichloromethyl benzene or trichloromethyl benzene
+again notice the importance of the bracket in showing that the chlorine are part of the side group and not directly attached to the ring
+benzoic acid benzenecarboxylic acid benzoic acid is the older name but is still in common use it a lot easier to say and write than the modern alternative
+whatever you call it it ha a carboxylic acid group attached to the benzene ring
+case where the name is based on phenyl remember that the phenyl group is a benzene ring minus a hydrogen atom c6h5
+if you draw a benzene ring with one group attached you have drawn a phenyl group
+phenylamine phenylamine is a primary amine and contains the group attached to a benzene ring
+the old name for phenylamine is aniline and you could also reasonably call it aminobenzene
+phenylamine is what it is most commonly for exam purpose
+refer to your syllabus and recent exam paper
+if you are working to a syllabus for 16 18 year old and have got these follow this link to find out how to get hold of them
+phenylethene this is an ethene molecule with a phenyl group attached
+ethene is a two carbon chain with a double bond
+phenylethene is therefore the old name for phenylethene is styrene the monomer from which polystyrene is made
+phenylethanone this is a slightly awkward name take it to piece
+it consists of a two carbon chain with no double bond
+the one ending show that it is a ketone and so ha a group somewhere in the middle
+attached to the carbon chain is a phenyl group
+putting that together give phenyl ethanoate this is an ester based on ethanoic acid
+the hydrogen atom in the group ha been replaced by a phenyl group
+phenol ha an group attached to a benzene ring and so ha a formula c6h5oh
+aromatic compound with more than one group attached to the benzene ring numbering the ring any group already attached to the ring is given the number 1 position
+where you draw it on the ring at the top or in any other position doe matter that just a question of rotating the molecule a bit
+it much easier though to get in the habit of drawing your main group at the top
+the other ring position are then numbered from 2 to 6
+you can number them either clockwise or
+a with chain compound you number the ring so that the name you end up with ha the smallest possible number in it
+example will make this clear
+some simple example substituting chlorine atom on the ring look at these compound all of these are based on methylbenzene and so the methyl group is given the number 1 position on the ring
+why is it rather than
+the ring is numbered clockwise in this case because that produce a in the name rather than a
+2 is smaller than 6
+you will find all sort of variation on this depending on the age of the book you look it up in and where it wa published
+what i have described above is in strict accordance with the most modern interpretation of the iupac recommendation for naming organic compound
+the name should actually be and so on
+the substituted group are named in alphabetical order and the 1 position is assigned to the first of these rather than to the more logical methyl group
+this produce some silly inconsistency
+for example if you had the exactly equivalent compound containing nitro group in place of the chlorine the name would change completely to etc
+in this case the normal practice of naming the hydrocarbon first and then attaching other thing to it ha been completely wrecked
+do you need to worry about this
+no
+it is extremely unlikely that you would ever be asked to name these in an exam and it is always easy to write a structure from one of these name however illogical it may be
+there is a simple rule for exam purpose
+unless you are specifically asked for the name of anything remotely complicated do give it
+a long a you have got the structure right that all that matter
+acid this might also be called acid
+there is a group attached to the ring and because the name is based on benzoic acid that group is assigned the number 1 position
+next door to it in the 2 position is a hydroxy group
+acid the di show that there are two carboxylic acid group one of them in the 1 position and the other opposite it in the 4 position
+this is based on phenol with an group attached in the number 1 position on the ring
+there are 3 chlorine atom substituted onto the ring in the 2 4 and 6 position
+methyl this is a name you might come across a a part of a practical exercise in nitrating benzene ring
+it included partly for that reason and partly because it is a relatively complicated name to finish with
+the structure of the name show that it is an ester
+you can tell that from the oate ending and the methyl group floating separately from the rest of the name at the beginning
+the ester is based on the acid acid so start with that
+there will be a benzene ring with a group in the number 1 position and a nitro group no2 in the 3 position
+the group is modified to make an ester by replacing the hydrogen of the group by a methyl group
+methyl is therefore

@@ -1,0 +1,162 @@
+the name of organic compound this page explains how to write the formula for an organic compound given it name and vice versa
+it cover alkane cycloalkanes alkene simple compound containing halogen alcohol aldehyde and ketone
+at the bottom of the page you will find link to other type of compound
+background how this page is going to tackle the problem there are two skill you have to develop in this area you need to be able to translate the name of an organic compound into it structural formula
+you need to be able to name a compound from it given formula
+the first of these is more important and also easier
+than the second
+in an exam if you ca write a formula for a given compound you are going to know what the examiner is talking about and could lose lot of mark
+however you might only be asked to write a name for a given formula once in a whole exam in which case you only risk 1 mark
+so we going to look mainly at how you decode name and turn them into formula
+in the process you will also pick up tip about how to produce name yourself
+in the early stage of an organic chemistry course people frequently get confused and daunted by the name because they try to do too much at once
+do try to read all these page in one go
+just go a far a the compound you are interested in at the moment and ignore the rest
+come back to them a they arise during the natural flow of your course
+cracking the code a modern organic name is simply a code
+each part of the name give you some useful information about the compound
+for example to understand the name you need to take the name to piece
+the prop in the middle tell you how many carbon atom there are in the longest chain in this case 3
+the an which follows the prop tell you that there are any double bond
+the other two part of the name tell you about interesting thing which are happening on the first and second carbon atom in the chain
+any name you are likely to come across can be broken up in this same way
+counting the carbon atom you will need to remember the code for the number of carbon atom in a chain up to 6 carbon
+there is no easy way around this you have got to learn them
+if you do do this properly you wo be able to name anything
+code in the early stage of an organic chemistry course people frequently get confused and daunted by the name because they try to do too much at once
+do try to read all these page in one go
+just go a far a the compound you are interested in at the moment and ignore the rest
+come back to them a they arise during the natural flow of your course
+cracking the code a modern organic name is simply a code
+each part of the name give you some useful information about the compound
+for example to understand the name you need to take the name to piece
+the prop in the middle tell you how many carbon atom there are in the longest chain in this case 3
+the an which follows the prop tell you that there are any double bond
+the other two part of the name tell you about interesting thing which are happening on the first and second carbon atom in the chain
+any name you are likely to come across can be broken up in this same way
+counting the carbon atom you will need to remember the code for the number of carbon atom in a chain up to 6 carbon
+there is no easy way around this you have got to learn them
+if you do do this properly you wo be able to name anything
+code in the early stage of an organic chemistry course people frequently get confused and daunted by the name because they try to do too much at once
+do try to read all these page in one go
+just go a far a the compound you are interested in at the moment and ignore the rest
+come back to them a they arise during the natural flow of your course
+cracking the code a modern organic name is simply a code
+each part of the name give you some useful information about the compound
+for example to understand the name you need to take the name to piece
+the prop in the middle tell you how many carbon atom there are in the longest chain in this case 3
+the an which follows the prop tell you that there are any double bond
+the other two part of the name tell you about interesting thing which are happening on the first and second carbon atom in the chain
+any name you are likely to come across can be broken up in this same way
+counting the carbon atom you will need to remember the code for the number of carbon atom in a chain up to 6 carbon
+there is no easy way around this you have got to learn them
+if you do do this properly you wo be able to name anything
+type of bond whether or not the compound contains a double bond is shown by the two letter immediately after the code for the chain length
+for example butane mean four carbon in a chain with no double bond
+propene mean three carbon in a chain with a double bond between two of the carbon
+alkyl group compound like methane ch4 and ethane ch3ch3 are member of a family of compound called alkane
+if you remove a hydrogen atom from one of these you get an alkyl group
+for example a methyl group is ch3
+an ethyl group is ch3ch2
+these group must of course always be attached to something else
+type of compound the alkane example 1 write the structural formula for
+start decoding the name from the bit that count the number of carbon atom in the longest chain pent count 5 carbon
+are there any double bond
+no an tell you there are any
+now draw this carbon skeleton put a methyl group on the number 2 carbon atom doe it matter which end you start counting from
+no if you counted from the other end you would draw the next structure
+that exactly the same a the first one except that it ha been flipped over
+finally all you have to do is to put in the correct number of hydrogen atom on each carbon so that each carbon is forming four bond
+if you had to name this yourself count the longest chain of carbon that you can find
+do assume that you have necessarily drawn that chain horizontally
+5 carbon mean pent
+are there any double bond
+no therefore pentane
+there a methyl group on the number 2 carbon therefore
+why the number 2 a opposed to the number 4 carbon
+in other word why do we choose to number from this particular end
+the convention is that you number from the end which produce the lowest number in the name hence rather than
+example 2 write the structural formula for
+start with the carbon backbone
+there are 4 carbon in the longest chain but with no double bond an
+this time there are two methyl group di on the number 2 and number 3 carbon atom
+completing the formula by filling in the hydrogen atom give not in the least
+if you are sure about drawing organic molecule follow this link before you go on
+on your browser to return to this page
+example 3 write the structural formula for
+this is exactly like the last example except that both methyl group are on the same carbon atom
+notice that the name show this by using a well a di
+the structure is worked out a before example 4 write the structural formula for
+hexan show a 6 carbon chain with no double bond
+this time there are two different alkyl group attached an ethyl group on the number 3 carbon atom and a methyl group on number 2
+filling in the hydrogen atom give you might also have chosen to start numbering from the end of the chain
+these would all be perfectly valid structure
+all you would have done is to rotate the whole molecule in space or rotate it around particular bond
+if you are sure about this then you must read about drawing organic molecule before you go on
+if you had to name this yourself how do you know what order to write the different alkyl group at the beginning of the name
+the convention is that you write them in alphabetical order hence ethyl come before methyl which in turn come before propyl
+the cycloalkanes in a cycloalkane the carbon atom are joined up in a ring hence cyclo
+example write the structural formula for cyclohexane
+hexan show 6 carbon with no double bond
+cyclo show that they are in a ring
+drawing the ring and putting in the correct number of hydrogen to satisfy the bonding requirement of the carbon give the alkene example 1 write the structural formula for propene
+prop count 3 carbon atom in the longest chain
+en tell you that there is a double bond
+that mean that the carbon skeleton look like this putting in the hydrogen give you example 2 write the structural formula for
+but count 4 carbon atom in the longest chain and en tell you that there is a double bond
+the number in the name tell you where the double bond start
+no number wa necessary in the propene example above because the double bond ha to start on one of the end carbon atom
+in the case of butene though the double bond could either be at the end of the chain or in the middle and so the name ha to code for the it position
+the carbon skeleton is and the full structure is example 3 write the structural formula for
+the longest chain ha got 6 carbon atom hex with a double bond starting on the second one
+but this time there is a methyl group attached to the chain on the number 3 carbon atom giving you the underlying structure adding the hydrogen give the final structure be very careful to count the bond around each carbon atom when you put the hydrogen in
+it would be very easy this time to make the mistake of writing an h after the third carbon but that would give that carbon a total of 5 bond
+compound containing halogen example 1 write the structural formula for
+this is a two carbon chain eth with no double bond an
+there are three chlorine atom all on the first carbon atom
+example 2 write the structural formula for
+first sort out the carbon skeleton
+it a three carbon chain with no double bond and a methyl group on the second carbon atom
+draw the bromine atom which is also on the second carbon
+and finally put the hydrogen atom in
+if you had to name this yourself notice that the whole of the hydrocarbon part of the name is written together a methylpropane before you start adding anything else on to the name
+example 2 write the structural formula for
+this time the longest chain ha 5 carbon pent but ha a double bond starting on the number 2 carbon
+there is also a methyl group on the number 3 carbon
+now draw the iodine on the number 1 carbon
+giving a final structure alcohol all alcohol contain an group
+this is shown in a name by the ending ol
+example 1 write the structural formula for methanol
+this is a one carbon chain with no double bond obviously
+the ol ending show it an alcohol and so contains an group
+example 2 write the structural formula for
+the carbon skeleton is a 3 carbon chain with no double bond but a methyl group on the number 2 carbon
+the group is attached to the number 1 carbon
+the structure is therefore example 3 write the structural formula for
+this is a two carbon chain with no double bond
+the diol show 2 group one on each carbon atom
+if you draw it horizontally unless you stretch the bond a lot the group look very squashed together
+drawing it vertically make it look tidier
+aldehyde all aldehyde contain the group if you are going to write this in a condensed form you write it a never a because that look like an alcohol
+the name of aldehyde end in al
+example 1 write the structural formula for propanal
+this is a 3 carbon chain with no double bond
+the al ending show the presence of the group
+the carbon in that group count a one of the chain
+example 2 write the structural formula for
+this time there are 5 carbon in the longest chain including the one in the group
+there are any double bond
+a methyl group is attached to the number 2 carbon
+notice that in aldehyde the carbon in the group is always counted a the number 1 carbon
+ketone ketone contain a double bond just like aldehyde but this time it in the middle of a carbon chain
+there is a hydrogen atom attached to the group a there is in aldehyde
+ketone are shown by the ending one
+example 1 write the structural formula for propanone
+this is a 3 carbon chain with no double bond
+the double bond ha to be in the middle of the chain and so must be on the number 2 carbon
+ketone are often written in this way to emphasise the double bond
+example 2 write the structural formula for
+this time the position of the double bond ha to be stated because there is more than one possibility
+it on the third carbon of a 5 carbon chain with no double bond
+if it wa on the second carbon it would be
+this could equally well be written

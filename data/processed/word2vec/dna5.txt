@@ -1,0 +1,77 @@
+protein synthesis this page look at how the information coded in messenger rna is used to build protein chain
+it is designed for 16 18 year old chemistry student
+if you are a biochemistry or biology student you will probably find it a useful introduction but will have to look elsewhere to find all the detail you need
+dna and rna
+it will all make more sense if you start from the beginning of the sequence with the structure of dna
+from messenger rna to a protein chain a quick overview of the process you will remember that messenger rna contains a sequence of base which read three at a time code for the amino acid used to make protein chain
+each of the set of three base is known a a codon
+the table below repeat one from the previous page you may also remember that three codon serve a stop codon and one aug code for methionine but also serf a a start codon
+we look in some detail at how this work further down the page
+translating the code into an actual protein chain is complicated by the fact that individual amino acid wo interact with the messenger rna chain
+the amino acid have to be carried to the messenger rna by another type of rna known a transfer rna abbreviated to trna a opposed to mrna for messenger rna
+all of this is controlled by a ribosome a hugely complicated structure involving protein molecule and yet another form of rna ribosomal rna or rrna
+this is going to be quite complicated
+we take it gently and simplify it where possible
+finding the start point of the messenger rna you may find description of this process which imply although without actually saying so directly that the messenger rna start with the codon aug the start codon at the 5 end
+that not so
+there is a length of rna upstream of the start codon which is actually used to build the protein chain
+so how doe the system know where to start
+how doe it find the right aug codon from all the one which are probably strung out along the rna to code for the amino acid methionine
+i mean by the 5 end or by upstream it is probably because you have read these page from the beginning
+taking short cut is rarely a good idea
+ribosome come in two part a smaller bit and a larger bit
+the smaller bit is involved in finding the start point
+it attache to the 5 end of the messenger rna and move along it until it come to a particular pattern of base which it can bind to
+this pattern occurs just before the first occurrence of the aug codon in the messenger rna strand
+the ribosome now ha to build the protein chain starting with a methionine at the aug codon it ha just found
+before we can talk about that we have to introduce transfer rna
+transfer rna transfer rna trna is responsible for carrying amino acid to the messenger rna and then holding them there in a way that enables them to join together
+transfer rna is a short bit of rna containing about 80 or so base
+these are mostly the same base a in messenger rna a u g and c but it also contains some modified base which wo concern u at this level
+a model of a typical transfer rna look like this wikipedia
+most of the colour coding is irrelevant to this discussion but note the little bit in grey at the bottom which is where the is see below
+this model is quite difficult to follow and i am going to simplify it down to pick out the two important bit of it at the 3 end of every transfer rna molecule the chain end with the sequence of base c c a
+remember that the base in rna and dna are attached to a backbone of alternating phosphate and sugar group
+at the very end of the chain is the group on the 3 carbon of a ribose ring
+the amino acid get attached to this by forming an ester link between this group and the group of the amino acid
+this is no different from the formation of an ester between say ethanol and ethanoic acid except that it is carried out under the influence of an enzyme rather than the more fierce condition used in the lab
+it is unlikely to be needed for exam purpose at this level
+the other important bit is at the bottom of the molecule shown in grey in the model
+this is known a an
+a you will see shortly the attache the transfer rna with it amino acid to the right place on the messenger rna molecule
+for chemistry purpose all we are interested in is the attached amino acid and the so we can simplify the whole thing down
+here is a very simplified diagram showing the transfer rna for methionine with the methionine attached in the diagram the is for the amino acid methionine
+the messenger rna code for methionine is aug
+if you look at the code in the for methionine it is uac
+that is exactly complementary to aug
+the u in the will pair with the a in the messenger rna the a in the pair with the u in the mrna and the c in the pair with the g in the mrna
+how doe a transfer rna molecule pick up the right amino acid
+this is all under control of enzyme which recognise the shape of the various amino acid and trna molecule and make sure that they pair up properly
+translation translation is the name given to the process of turning the coded message in the messenger rna into the final protein chain
+we left the messenger rna a little while back with part of a ribosome attached to it at the aug start codon
+the diagram show this together with a small part of the rna base sequence downstream of the start codon needed to make an imaginary protein chain
+the base upstream of the start codon are relevant to u once the ribosome ha found the place to start from
+none of these diagram are drawn to scale
+now two thing happen
+the transfer rna carrying a methionine attache itself to the aug codon by pairing it base with the complementary base on the messenger rna
+and the second bigger part of the ribosome attache to the system a well
+now another transfer rna molecule with it attached amino acid bind to the next codon along the chain
+the next codon on the messenger rna is ggu which code for glycine gly
+the would therefore have to be cca
+remember that a pair with u and g pair with next the ribosome move along the messenger rna chain to the next codon
+at the same time a peptide bond is made between the two amino acid and the first one the methionine break away from it transfer rna
+that transfer rna molecule leaf the ribosome and go off to pick up another methionine
+now the process repeat
+the next codon is gua which code for valine val
+the must be cau
+if you ca see this at once stop and think about it
+do go on until you are happy that you could work out the for every codon and vice versa
+and again the ribosome move forward one codon a new peptide bond is formed and the transfer rna on the left break away to be used again later
+and the next transfer rna with it amino acid come along
+and so on and on and on
+eventually of course this will come to an end
+how
+eventually the ribosome will come to a stop codon
+the three stop codon do code for any amino acid and so the process come to a halt
+the protein chain produced up to that point is then released from the ribosome and then fold itself up into it secondary and tertiary structure
+the final page in this sequence look very briefly at what happens when the code in dna becomes changed in some way

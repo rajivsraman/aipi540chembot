@@ -1,0 +1,51 @@
+dna replication this page take a very simplified look at how dna replicates copy itself
+it give only a brief of the process with no attempt to describe the mechanism
+a such it is only suitable for 16 18 year old chemistry student
+if you are doing biology or biochemistry you are going to need more detail than this page cover
+dna
+unless you already understand the structure of dna follow this link to read that page first
+if you need detailed information about the replication of dna a google search for dna replication will lead you to some well thought out and very clear animation of the process
+the best one to start with can be found by following this link
+this second link perhaps give a better view of the process but is more difficult to understand if you do look at the other one first
+if you are an a level or equivalent chemistry student only look at these if you are interested not because you are likely to need it for exam purpose
+both of these link involve flash animation
+unfortunately some device such a the ipad do support flash and you wo be able to watch these animation on them
+there is no way around that apart from using a standard computer
+i am a bit wary of suggesting link to other site because these site can change
+if you find that either of these link do work apart from problem with flash please me via the address on the about this site page
+replication a very simple look at the process we explain exactly what mean when we have got some diagram to look at
+first imagine what happens if the two individual strand in the dna double helix start to unzip
+the diagram show this happening in the middle of the dna double helix you must assume that the top of the diagram is the end of the chain
+it is
+further up the double helix the two strand will still be joined together
+in fact this is happening lot of time along the very long dna molecule
+length of chain become separated to form what are known a bubble
+if you feel the need to see this in more detail read the rest of this page and then have a quick look at the link above
+some of the hydrogen bond get broken and the two strand become partly separated
+the red dotted line on the diagram just point out the original base pair
+these are not bond in any form
+these base pair are now much too far apart for any sort of bonding between them
+now suppose that you have a source of nucleotide phosphate joined to deoxyribose joined to a base including all the four sort of base needed for dna
+the next diagram show what would happen if a nucleotide containing guanine g and one containing cytosine c were attracted to the top two base on the strand of the unzipped dna and then joined together
+how did they end up joined together
+this is all under the control of a number of enzyme one of which dna polymerase is responsible for joining up nucleotide along the chain in this way
+now suppose the same sort of thing happened at the top of the strand
+you would end up with
+now compare the double strand that you are forming on the and side
+they are exactly the same
+and if you were to continue this process they would continue to be the same
+and if you compare the pattern of base in the new dna being formed with what wa in the original dna before it started to unzip everything is the same
+this is inevitable because of the way the base pair together
+what doe replication mean
+let simplify the last diagram and assume that the whole copying process is complete
+the next diagram focusses on the short bit of the total dna molecule that we have been looking at
+a typical human dna molecule is around 150 million base pair long you will have to imagine the rest of it
+you have also got to remember that in reality the whole thing would have coiled into it double helix
+trying to draw that just make everything look messy and complicated
+the original dna is shown all in blue
+the red strand in the daughter dna are the one which have been built on the original blue strand during the replication process
+you can see that each of the daughter molecule is made of half of the original dna plus a new strand
+that all replication mean
+half of the original dna is conserved kept in each of the daughter molecule
+the red and blue of course have no physical significance apart from a a way of making the diagram clearer
+all three of these dna molecule will be identical in every way

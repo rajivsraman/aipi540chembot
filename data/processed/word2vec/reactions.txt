@@ -1,0 +1,30 @@
+the reaction of aryl halide halogenoarenes this page only look at one aspect of the chemistry of the aryl halide such a chlorobenzene the fact that they are very unreactive compared with halogenoalkanes haloalkane or alkyl halide
+this is the only bit of their chemistry asked for by any uk a level syllabus
+nucleophilic substitution reaction a nucleophile can be either a negative ion or a molecule which carry a partial negative charge somewhere on it
+on this page we are just going to be looking at a simple nucleophile a hydroxide ion
+a nucleophilic substitution reaction is one in which a part of a molecule is replaced after it ha been attacked by a nucleophile
+follow this link to the introductory page on nucleophilic substitution reaction if you are absolutely confident about this
+it would also be worthwhile looking at the page specifically about nucleophilic substitution by hydroxide ion
+both of these page deal with nucleophilic substitution in the halogenoalkanes
+the rest of this page is going to be a comparison with these reaction and so it is important that you understand them
+or history file or go menu on your browser to return to this page later
+nucleophilic substitution in the halogenoalkanes here is a quick summary of the two way that halogenoalkanes can react with hydroxide ion
+we compare these with the aryl halide afterwards
+the two different way in which these reaction can happen depends on what kind of halogenoalkane you are talking about
+here is the mechanism for the reaction involving bromoethane a primary halogenoalkane
+a hydroxide ion attack the slightly positive carbon atom and push off the bromine a a bromide ion
+a tertiary halogenoalkane reacts differently
+the mechanism this time involves an initial ionisation of the halogenoalkane
+followed by a very rapid attack by the hydroxide ion on the carbocation carbonium ion formed nucleophilic substitution in the aryl halide simple aryl halide like chlorobenzene are very resistant to nucleophilic substitution
+it is possible to replace the chlorine by but only under very severe industrial condition for example at and 200 atmosphere
+in the lab these reaction do happen
+there are two reason for this depending on which of the above mechanism you are talking about
+the extra strength of the bond in aryl halide the bond in chlorobenzene is stronger than you might expect
+there is an interaction between one of the lone pair on the chlorine atom and the delocalised ring electron and this strengthens the bond
+both of the mechanism above involve breaking the bond at some stage
+the more difficult it is to break the slower the reaction will be
+repulsion by the ring electron this will only apply if the hydroxide ion attacked the chlorobenzene by a mechanism like the first one described above
+in that mechanism the hydroxide ion attack the slightly positive carbon that the halogen atom is attached to
+if the halogen atom is attached to a benzene ring the incoming hydroxide ion is going to be faced with the delocalised ring electron above and below that carbon atom
+the negative hydroxide ion will simply be repelled
+that particular mechanism is simply a

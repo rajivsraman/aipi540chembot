@@ -1,0 +1,51 @@
+the reduction of aldehyde and ketone this page give you the fact and mechanism for the reduction of carbonyl compound specifically aldehyde and ketone using sodium tetrahydridoborate sodium borohydride a the reducing agent
+only one uk a level exam board aqa is likely to ask for these mechanism and they are happy with a simplified version of what is quite a complex mechanism
+because of that simplification these reaction are dealt with entirely on this page without the talk through page that you will find for other mechanism on this site
+the fact sodium tetrahydridoborate previously known a sodium borohydride ha the formula nabh4 and contains the ion
+that ion act a the reducing agent
+there are several quite different way of carrying out this reaction
+two possible variant there are several others
+are the reaction is carried out in solution in water to which some sodium hydroxide ha been added to make it alkaline
+the reaction produce an intermediate which is converted into the final product by addition of a dilute acid like sulphuric acid
+the reaction is carried out in solution in an alcohol like methanol ethanol or
+this produce an intermediate which can be converted into the final product by boiling it with water
+in each case reduction essentially involves the addition of a hydrogen atom to each end of the double bond to form an alcohol
+reduction of aldehyde and ketone lead to two different sort of alcohol
+the reduction of an aldehyde for example with ethanal you get ethanol notice that this is a simplified equation perfectly acceptable to examiner
+the h in square bracket mean hydrogen from a reducing agent
+in general term reduction of an aldehyde lead to a primary alcohol
+a primary alcohol is one which only ha one alkyl group attached to the carbon with the group on it
+they all contain the grouping
+methanol ch3oh is also a primary alcohol
+think of this a
+the reduction of a ketone for example with propanone you get reduction of a ketone lead to a secondary alcohol
+a secondary alcohol is one which ha two alkyl group attached to the carbon with the group on it
+they all contain the grouping
+beware
+the following mechanism are simplified for uk a level purpose to the point that they are wrong
+if you are working outside the uk a level system please do read any further
+the simplified mechanism the ion is essentially a source of hydride ion
+the simplification used is to write instead of
+doing this not only make the initial attack easier to write but avoids you getting involved with some quite complicated boron compound that are formed a intermediate
+the reduction is an example of nucleophilic addition
+the double bond is highly polar and the slightly positive carbon atom is attacked by the hydride ion acting a a nucleophile
+a hydride ion is a hydrogen atom with an extra electron hence the lone pair
+nucleophile a specie molecule or ion which attack a positive site in something else
+nucleophiles are either fully negative ion or contain a fairly negative region somewhere in a molecule
+all nucleophiles have at least one active lone pair of electron
+when you write mechanism for reaction involving nucleophiles you must show that lone pair
+the mechanism for the reduction of ethanal in the first stage there is a nucleophilic attack by the hydride ion on the slightly positive carbon atom
+the lone pair of electron on the hydride ion form a bond with the carbon and the electron in one of the bond are repelled entirely onto the oxygen giving it a negative charge
+what happens now depends on whether you add an acid or water to complete the reaction
+adding an acid when the acid is added the negative ion formed pick up a hydrogen ion to give an alcohol
+that not good practice because it suggests a free hydrogen ion
+the hydrogen ion is actually attached to a water molecule a
+writing that make the equation look more complicated
+aq is a happy compromise
+adding water this time the negative ion take a hydrogen ion from a water molecule
+the mechanism for the reduction of propanone a before the reaction start with a nucleophilic attack by the hydride ion on the slightly positive carbon atom
+again what happens next depends on whether you add an acid or water to complete the reaction
+adding an acid the negative ion reacts with a hydrogen ion from the acid added in the second stage of the reaction
+adding water this time the negative ion take a hydrogen ion from a water molecule
+important
+remember that the equation and mechanism given on this page are not the truth they are merely simplification to suit the demand of a particular a level syllabus

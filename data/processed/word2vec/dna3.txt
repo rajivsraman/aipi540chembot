@@ -1,0 +1,89 @@
+transcription from dna to rna this page take a simple look at the structure of rna and how the information in dna is used to make messenger rna
+it is designed for 16 18 year old chemistry student and if you are doing biology or biochemistry you will probably need more detail than this page give
+dna
+these page are written to be read one after the other so unless you already understand the structure of dna follow this link to start from the beginning
+the structure of rna the function of messenger rna in the cell you will probably know that the sequence of base in dna carry the genetic code
+scattered along the dna molecule are particularly important sequence of base known a gene
+each gene is a coded description for making a particular protein
+for simplicity i going to refer from now on to the synthesis of a protein rather than a polypeptide it sound less scary
+to be really accurate some gene code for other sort of molecule apart from protein but we are only going to be looking at the gene involved in protein synthesis
+getting from the code in dna to the final protein is a very complicated process
+the code is first transcribed copied although with one important difference see later to messenger rna
+that then travel out of the nucleus of the cell where the dna is found into the cytoplasm of the cell
+the cytoplasm contains essentially everything else in the cell apart from the nucleus
+here the code is read and the protein is synthesised with the help of two other form of rna ribosomal rna and transfer rna
+we talk a lot more about those in a later page
+i going to take this complicated process very gently a bit at a time
+how doe messenger rna differ from dna
+there are several important difference
+length rna is much shorter than dna
+dna contains the code for making lot and lot of different protein
+messenger rna contains the information to make just one single polypeptide chain in other word for just one protein or even just a part of a protein if it is made up of more than one polypeptide chain
+overall structure dna ha two strand arranged in a double helix
+rna consists of a single strand
+the sugar present in the backbone of the chain dna deoxyribonucleic acid ha a backbone of alternating deoxyribose and phosphate group
+in rna ribonucleic acid the sugar ribose replaces deoxyribose
+if you have read this sequence of page from the beginning you will already have come across the difference between these two sugar
+but to remind you
+the only difference is the presence of an group on the 2 carbon atom in ribose
+it a bad idea trying to take short cut with this
+rna us the base uracil u rather than thymine t the structure of uracil is very similar to that of thymine
+the nitrogen shown in blue in the uracil is the one which attache to the 1 carbon in the ribose
+in the process the hydrogen shown in blue is lost together with the group on the 1 carbon in the ribose
+the only difference between the two molecule is the presence or absence of the ch3 group
+uracil can form exactly the same hydrogen bond with adenine a thymine can the shape of the two molecule is exactly the same where it matter
+compare the hydrogen bonding between adenine a and thymine t
+with that between adenine a and uracil u in dna the hydrogen bonding between a and t help to tie the two strand together into the double helix
+that is relevant in rna because it is only a single strand
+however you will find several example in what follows on this and further page where the ability of adenine a to attract and bond with uracil u is central to the process going on
+the base pairing of guanine g and cytosine c is just the same in dna and rna
+so in rna the important base pair are adenine a pair with uracil u guanine g pair with cytosine c
+transcription transcription is the name given to the process where the information in a gene in a dna strand is transferred to an rna molecule
+the coding strand and the template strand of dna the important thing to realise is that the genetic information is carried on only one of the two strand of the dna
+this is known a the coding strand
+the other strand is known a the template strand for reason which will become obvious is a moment
+the two term coding and template are commonly used and seem to me to best describe the function of the two chain
+the coding strand the information in a gene on the coding strand is read in the direction from the 5 end to the 3 end
+remember that the 5 end is the end which ha the phosphate group attached to the 5 carbon atom
+the 3 end is the end where the phosphate is attached to a 3 carbon atom or if it is at the very end of the dna chain ha a free group on the 3 carbon
+you may remember this diagram of a tiny part of a dna chain from the first page in this sequence if the chain wa the coding chain the genetic code would be read from the top end the 5 end downwards
+the code in this very small fragment of a gene would be read a
+a t t g c
+the template strand the template strand is complementary to the coding strand
+that mean that every a on the coding strand is matched by a t on the template strand and vice versa
+every g on the coding strand is matched by a c on the template strand and again vice versa
+if you took the template strand and built a new dna strand on it a happens in dna replication you would get an exact copy of the original dna coding strand formed
+almost exactly the same thing happens when you make rna
+if you build an rna strand on the template strand you will get a copy of the information on the dna coding strand but with one important difference
+in rna uracil u is used instead of thymine t
+so if the original dna coding strand had the sequence a t t g c t this would end up in the rna a a u u g c u everything is exactly the same except that every t had been replaced by u
+the transcription process finding the start of the gene on the coding strand transcription is under the control of the enzyme rna polymerase
+the first thing that the enzyme ha to do is to find the start of the gene on the coding strand of the dna
+remember that dna ha lot of gene strung out along the coding strand
+that mean that the enzyme ha to pick the right strand and identify the beginning of each gene
+it doe this by recognising and binding with one or more short sequence of base upstream of the start of each gene
+upstream mean that it is slightly closer to the 5 end of the dna strand than the gene
+these base sequence are known a promoter sequence
+remember that the two strand of dna are hydrogen bonded together
+you can think of the enzyme a being wrapped around both strand
+in fact the enzyme is big enough to enclose not only the promoter sequence but the beginning of the gene itself
+transcribing the gene and making the rna once the enzyme ha attached to the dna it unwinds the double helix over a short length and split the two strand apart
+this give a bubble in which the coding strand and template strand are separated over the length of about 10 base
+the next diagram show the enzyme in the process of starting to make the new rna strand
+new nucleotide are added to the growing rna chain at the 3 end
+the next nucleotide to be added in the example here would contain the base g and then the new g in the rna would complement the c below it in the template strand
+next after that in the template strand is a that would be complemented by a c in the growing rna
+the ribose and the phosphate add to the backbone of the rna chain with the base hanging off that backbone
+now compare the bit of rna with the coding strand directly above it
+apart from the fact that every thymine t is now a uracil u instead the chain are identical
+now the enzyme move along the dna zipping it up again behind it
+essentially it move the bubble along the chain adding new nucleotide all the time
+the growing rna tail becomes detached from the template strand a the enzyme move along
+how doe the enzyme know where to stop after it reach the end of the gene
+you will remember that it recognises the beginning of the gene by the presence of a promoter sequence of base upstream of the start
+after the end of the gene downstream of the gene there will be a termination sequence of base
+once the enzyme get to those it stop adding new nucleotide to the chain and detaches the rna molecule completely from the template chain
+so
+we produced a molecule of messenger rna so called because it is now going to carry the genetic code the message out of the nucleus of the cell to the cytoplasm where protein synthesis can take place
+before we look at how that synthesis work we need to stop and consider the nature of the code itself
+that on the next page in this sequence

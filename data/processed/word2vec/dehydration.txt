@@ -1,0 +1,53 @@
+the dehydration of alcohol this page a simple duplicate of a page in the section on alkene
+look at the dehydration of alcohol in the lab to make alkene for example dehydrating ethanol to make ethene
+dehydration of alcohol using aluminium oxide a catalyst the dehydration of ethanol to give ethene this is a simple way of making gaseous alkene like ethene
+if ethanol vapour is passed over heated aluminium oxide powder the ethanol is essentially cracked to give ethene and water vapour
+to make a few test tube of ethene you can use this apparatus it would be too difficult to imagine scaling this up by boiling some ethanol in a flask and passing the vapour over aluminium oxide heated in a long tube
+dehydration of alcohol using an acid catalyst the acid catalyst normally used are either concentrated sulphuric acid or concentrated phosphoric v acid h3po4
+concentrated sulphuric acid produce messy result
+not only is it an acid but it is also a strong oxidising agent
+it oxidises some of the alcohol to carbon dioxide and at the same time is reduced itself to sulphur dioxide
+both of these gas have to be removed from the alkene
+it also reacts with the alcohol to produce a mass of carbon
+there are other side reaction a well but these are required by any current uk a level or equivalent syllabus
+the dehydration of ethanol to give ethene ethanol is heated with an excess of concentrated sulphuric acid at a temperature of
+the gas produced are passed through sodium hydroxide solution to remove the carbon dioxide and sulphur dioxide produced from side reaction
+the ethene is collected over water
+warning
+this is potentially an extremely dangerous preparation because of the close proximity of the very hot concentrated sulphuric acid and the sodium hydroxide solution
+i knew of one chemistry teacher who put several student into hospital by getting it wrong
+that wa many year ago before safety wa taken quite so seriously a it is now
+the concentrated sulphuric acid is a catalyst
+write it over the arrow rather than in the equation
+the dehydration of cyclohexanol to give cyclohexene this is a preparation commonly used at this level to illustrate the formation and purification of a liquid product
+the fact that the carbon atom happen to be joined in a ring make no difference whatever to the chemistry of the reaction
+cyclohexanol is heated with concentrated phosphoric v acid and the liquid cyclohexene distils off and can be collected and purified
+phosphoric v acid tends to be used in place of sulphuric acid because it is safer and produce a less messy reaction
+phosphoric v acid is a strong oxidising agent
+the dehydration of more complicated alcohol you have to be wary with more complicated alcohol in case there is the possibility of more than one alkene being formed
+is a good example of this with no less than three different alkene being formed when it is dehydrated
+is just an example to illustrate the problem
+it is important that you understand it so that you can work out what will happen in similar case
+it would be quite impossible for you to learn what happens with every single alcohol you might be presented with
+when you dehydrate an alcohol you remove the group and a hydrogen atom from the next carbon atom in the chain
+with molecule like there are two possibility when that happens
+that lead to these product the product are and
+in fact the situation is even more complicated than it look because exhibit geometric isomerism
+you get a mixture of two isomer formed and
+is also known a z is also known a e
+for an explanation of the two way of naming these two compound follow the link in the box below
+which isomer get formed is just a matter of chance
+geometric isomerism isomerism is where you can draw more than one arrangement of the atom for a given molecular formula
+geometric isomerism is a special case of this involving molecule which have restricted rotation around one of the bond in this case a double bond
+the bond could only rotate if enough energy is put in to break the pi bond
+effectively except at high temperature the bond is locked
+in the case of the two ch3 group will either both be locked on one side of the to give the ci or z isomer or on opposite side to give the trans or e one
+for a full discussion of geometric isomerism follow this link
+on your browser to return to this page
+beware
+it is easy to miss geometric isomer in an exam
+always draw alkene with the correct bond angle around the bond a shown in the diagram for the ci and trans isomer above
+if you take a short cut and write a you will almost certainly miss the fact that ci and trans form are possible
+this is a rich source of question in an exam
+you could easily throw away mark if you miss these possibility
+the overall result dehydration of lead to a mixture containing also known a z also known a e

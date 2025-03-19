@@ -1,0 +1,51 @@
+electrophilic substitution into already substituted benzene ring this page discusses the problem which arise if you try to write the mechanism for an electrophilic substitution reaction into a benzene ring which already ha something else attached to it
+there are two problem you might come across whereabouts in the ring doe the substitution happen
+doe this make a difference to how you draw the mechanism
+important
+this page assumes that you can already write the mechanism for substitution into a simple benzene ring
+if you ca go back to the electrophilic substitution menu and read about the reaction you are interested in before you tackle this page
+the nitration of methylbenzene if you substitute a nitro group into the benzene ring in methylbenzene you could possibly get any of the following product the carbon with the methyl group attached is thought of a the number 1 carbon and the ring is then numbered around from 1 to 6
+you number in a direction in this case clockwise which produce the smaller number in the name hence rather than
+in the case of methylbenzene whatever you attach to the ring you always get a mixture consisting mainly of the and isomer
+the methyl group is said to be in the sense that it seems to push incoming group into those position
+isomer molecule which have the same molecular formula
+contain exactly the same number and type of atom but with a different spatial arrangement of those atom
+some other group which might already be on the ring for example the group in nitrobenzene push incoming group into the position
+we have a quick look at this later on this page
+what to expect in exam at a level you will not be expected to explain why different group have different directing effect
+it is possible however that you may be expected to remember the directing effect of one or two group
+it is very difficult to tell this from the syllabus most of which do specifically exclude the possibility but that could simply be an oversight
+your best option is to check past exam paper or any support material published by your exam board
+if in doubt contact them and find out exactly what they expect
+exam board on the syllabus page
+in an exam then you may have to remember the directing effect of a particular group or more likely you will be told it
+your problem may then be to write the mechanism
+how to write the mechanism for the nitration of methylbenzene important
+this assumes that you are already familiar with the nitration of benzene
+if you are read about it before you go any further
+reacting methylbenzene with a mixture of concentrated nitric and sulphuric acid give both and
+the mechanism is exactly the same a the nitration of benzene
+you just have to be careful about the way that you draw the structure of the intermediate ion
+making the first step this just show the first step of the electrophilic substitution reaction
+notice that the partial delocalisation in the intermediate ion cover all the carbon atom in the ring except for the one that the group get attached to
+that is the only point of interest in this example everything else is just the same a with the nitration of benzene
+the hydrogen atom is then removed by an ion exactly a in the benzene case
+making the first step once again the only point of interest is in the way the partial delocalisation in the intermediate ion is drawn again it cover all the carbon atom in the ring apart from the one with the group attached
+the electrophilic substitution reaction between methylbenzene and chlorine this is a good example of a case where what is already attached to the ring can also get involved in the reaction
+it is possible to get two quite different substitution reaction between methylbenzene and chlorine depending on the condition used
+the chlorine can substitute into the ring or into the methyl group
+here we are only interested in substitution into the ring
+this happens in the presence of aluminium chloride or iron and in the absence of uv light
+uv light and with no catalyst present you will find this explained in the page on the free radical reaction between methylbenzene and chlorine
+substituting into the ring give a mixture of and
+the mechanism are exactly the same a the substitution of chlorine into benzene although you would have to be careful about the way you draw the intermediate ion
+important
+this assumes that you are already familiar with the chlorination of benzene
+if you are read about it before you go any further
+for example the complete mechanism for substitution into the position is stage one stage two substitution into the position the first step methyl group direct new group into the and position but a nitro group already on the ring directs incoming group into the position
+for example if the temperature is raised above the nitation of benzene doe just produce nitrobenzene it also produce some
+a second nitro group is substituted into the ring in the position
+the mechanism is exactly the same a the nitration of benzene or of methylbenzene you just have to be careful in drawing the intermediate ion
+draw the partial delocalisation to include all the carbon except for the one the new group get attached to
+in the second stage the hydrogen atom is then removed by an ion exactly a in the benzene case
+this is shown because there nothing new

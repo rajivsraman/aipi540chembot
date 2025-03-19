@@ -1,0 +1,35 @@
+esterification of carboxylic acid this page look at esterification the reaction between alcohol and carboxylic acid to make ester
+what are ester
+ester have a hydrocarbon group of some sort replacing the hydrogen in the group of a carboxylic acid
+we shall just be looking at case where it is replaced by an alkyl group but it could equally well be an aryl group one based on a benzene ring
+a common ester ethyl ethanoate the most commonly discussed ester is ethyl ethanoate
+in this case the hydrogen in the group ha been replaced by an ethyl group
+the formula for ethyl ethanoate is notice that the ester is named the opposite way around from the way the formula is written
+the ethanoate bit come from ethanoic acid
+the ethyl bit come from the ethyl group on the end
+take time and care to make sure you understand
+a few more ester in each case be sure that you can see how the name and formula relate to each other
+remember that the acid is named by counting up the total number of carbon atom in the chain including the one in the group
+so for example ch3ch2cooh is propanoic acid and ch3ch2coo is the propanoate group
+making ester the chemistry of the reaction the esterification reaction is both slow and reversible
+the equation for the reaction between an acid rcooh and an alcohol where r and r can be the same or different is so for example if you were making ethyl ethanoate from ethanoic acid and ethanol the equation would be it is not required for any uk a level chemistry syllabus
+if you follow this link on your browser to return to this page
+doing the reaction on a test tube scale carboxylic acid and alcohol are often warmed together in the presence of a few drop of concentrated sulphuric acid in order to observe the smell of the ester formed
+you would normally use small quantity of everything heated in a test tube stood in a hot water bath for a couple of minute
+because the reaction are slow and reversible you do get a lot of ester produced in this time
+the smell is often masked or distorted by the smell of the carboxylic acid
+a simple way of detecting the smell of the ester is to pour the mixture into some water in a small beaker
+ester are virtually insoluble in water and tend to form a thin layer on the surface
+excess acid and alcohol both dissolve and are tucked safely away under the ester layer
+small ester like ethyl ethanoate smell like typical organic solvent ethyl ethanoate is a common solvent in for example glue
+a the ester get bigger the smell tend towards artificial fruit flavouring pear drop for example
+on a larger scale if you want to make a reasonably large sample of an ester the method used depends to some extent on the size of the ester
+small ester are formed faster than bigger one
+to make a small ester like ethyl ethanoate you can gently heat a mixture of ethanoic acid and ethanol in the presence of concentrated sulphuric acid and distil off the ester a soon a it is formed
+this prevents the reverse reaction happening
+it work well because the ester ha the lowest boiling point of anything present
+the ester is the only thing in the mixture which doe form hydrogen bond and so it ha the weakest intermolecular force
+larger ester tend to form more slowly
+in these case it may be necessary to heat the reaction mixture under reflux for some time to produce an equilibrium mixture
+the ester can be separated from the carboxylic acid alcohol water and sulphuric acid in the mixture by fractional distillation
+if you need this sort of detail you should be looking at an organic practical book

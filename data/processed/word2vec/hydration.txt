@@ -1,0 +1,20 @@
+the direct hydration of alkene this page look at the production of alcohol by the direct hydration of alkene adding water directly to the double bond
+manufacturing ethanol ethanol is manufactured by reacting ethene with steam
+the reaction is reversible
+only 5 of the ethene is converted into ethanol at each pas through the reactor
+by removing the ethanol from the equilibrium mixture and recycling the ethene it is possible to achieve an overall 95 conversion
+a flow scheme for the reaction look like this when the gas from the reactor are cooled then excess steam will condense a well a the ethanol
+the ethanol will have to be separated from the water by fractional distillation
+all the source i have looked at gloss over this so i do have any detail
+i assume it is a normal fractional distillation of an mixture
+you can find a full explanation of the reason for the reaction condition by following this link to the physical chemistry part of this site
+if you are interested in the mechanism for this reaction you will find it by following this link
+or history file or go menu on your browser if you want to return to this page later
+manufacturing other alcohol if you start from an unsymmetrical alkene like propene you have to be careful to think about which way around the water add across the double bond
+markovnikov rule say that when you add a molecule hx across a double bond the hydrogen join to the carbon atom which already ha the more hydrogen atom attached to it
+thinking of water a the hydrogen will add to the carbon with the more hydrogen already attached
+that mean that in the propene case you will get rather than
+the condition used during manufacture vary from alcohol to alcohol
+the only condition you will need for uk a level purpose are those for making ethanol
+the water add to the propene in the way shown above because the secondary carbocation formed during the process is more stable than the primary one formed if the addition wa the other way around
+these two page are in two different part of this site so it would be best to come back to this page using the back button on your browser to get from one to the other if you are interested

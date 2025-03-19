@@ -1,0 +1,13 @@
+the elimination reaction producing alkene from simple halogenoalkanes this page give you the fact and a simple uncluttered mechanism for the elimination reaction between a simple halogenoalkane like and hydroxide ion from for example sodium hydroxide to give an alkene like propene
+if you want the mechanism explained to you in detail there is a link at the bottom of the page
+you will also find a link to a page on elimination from more complicated halogenoalkanes where more than one product may be formed
+exam question on this topic frequently ask about another possibility in the reaction between halogenoalkanes and hydroxide ion nucleophilic substitution
+there is also a link to a page discussing this
+you will probably find that the question centre around secondary halogenoalkanes like because these can easily be persuaded to do either reaction
+that why this page deal exclusively with
+the fact is heated under reflux with a concentrated solution of sodium or potassium hydroxide in ethanol
+heating under reflux involves heating with a condenser placed vertically in the flask to avoid loss of volatile liquid
+propene is formed and because this is a gas it pass through the condenser and can be collected
+everything else present including anything formed in the alternative substitution reaction will be trapped in the flask
+the mechanism in elimination reaction the hydroxide ion act a a base removing a hydrogen a a hydrogen ion from the carbon atom next door to the one holding the bromine
+the resulting of the electron expels the bromine a a bromide ion and produce propene
