@@ -1,16 +1,16 @@
 import streamlit as st
 from tfidfchatbot import TFIDFChatbot
 from doc2vecbot import Doc2VecChatbot
+from openaiembedder import OpenAIEmbeddingsChatbot
 
 # Initialize chatbot instances
 folder_tfidf = "data/processed/tfidf"
 folder_word2vec = "data/processed/word2vec"
+folder_openai = "data/processed/openai"
 
 tfidf_chatbot = TFIDFChatbot(folder_tfidf)
 doc2vec_chatbot = Doc2VecChatbot(folder_word2vec)
-
-def chatbot_3(prompt):
-    return "🚧 OpenAI Embeddings chatbot is not implemented yet."
+openai_chatbot = OpenAIEmbeddingsChatbot(folder_openai)
 
 # **Streamlit UI Setup**
 st.title("NLP Chatbot Approach Comparison")
@@ -36,7 +36,7 @@ if user_input:
     elif st.session_state.selected_bot == "Doc2Vec":
         response = doc2vec_chatbot.chatbot(user_input)
     else:
-        response = chatbot_3(user_input)
+        response = openai_chatbot.chatbot(user_input)
     
     st.write("### Chatbot Response:")
     st.write(response)
