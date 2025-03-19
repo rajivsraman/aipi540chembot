@@ -34,7 +34,7 @@ if user_input:
     if st.session_state.selected_bot == "TF-IDF":
         response = tfidf_chatbot.chatbot(user_input)
     elif st.session_state.selected_bot == "Doc2Vec":
-        response = word2vec_chatbot.chatbot(user_input)
+        response = doc2vec_chatbot.chatbot(user_input)
     else:
         response = chatbot_3(user_input)
     
