@@ -7,5 +7,6 @@ A public repository for the Buccaneers' NLP project in AIPI 540 at Duke Universi
 
 ## Run Instructions
 1. Set up secrets to contain the OpenAI api Key
-2. Run 'python app.py' to run the streamlit app locally
+2. Run 'python app.py' to run the streamlit app locally (app.py acts as the main.py file)
+3. To run the models individually run their specified scripts
    
