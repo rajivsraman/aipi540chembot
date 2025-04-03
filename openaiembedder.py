@@ -4,6 +4,24 @@ import openai
 import numpy as np
 import streamlit as st
 
+@st.cache_resource
+def generate_embeddings_cached(docs):
+    """Generates and caches embeddings for all documents."""
+    response = openai.embeddings.create(
+        input=docs,
+        model="text-embedding-ada-002"
+    )
+    return [np.array(embedding.embedding) for embedding in response.data]
+
+@st.cache_data
+def embed_query_cached(query):
+    """Generates and caches query embedding."""
+    response = openai.embeddings.create(
+        input=[query],
+        model="text-embedding-ada-002"
+    )
+    return np.array(response.data[0].embedding, dtype=np.float32)
+
 class OpenAIEmbeddingsChatbot:
     def __init__(self, folder_path):
         """
@@ -16,8 +34,8 @@ class OpenAIEmbeddingsChatbot:
 
         # Load and preprocess documents
         self.docs, self.filenames = self.load_documents()
-        self.embeddings = self.generate_embeddings()
-        
+        self.embeddings = generate_embeddings_cached(self.docs)
+
         # Initialize FAISS Index
         self.index = self.store_embeddings()
 
@@ -32,15 +50,6 @@ class OpenAIEmbeddingsChatbot:
                     filenames.append(file.replace(".txt", ""))
         return docs, filenames
 
-    def generate_embeddings(self):
-        """Generates OpenAI text embeddings for each document."""
-        response = openai.embeddings.create(
-            input=self.docs,  
-            model="text-embedding-ada-002"
-        )
-        embeddings = [np.array(embedding.embedding) for embedding in response.data]
-        return embeddings
-
     def store_embeddings(self):
         """Stores OpenAI-generated embeddings in FAISS."""
         dimension = len(self.embeddings[0])  # OpenAI embeddings are 1536-dimensional
@@ -50,12 +59,8 @@ class OpenAIEmbeddingsChatbot:
 
     def retrieve_relevant_docs(self, query, top_n=3):
         """Retrieves the most relevant documents using FAISS similarity search."""
-        query_embedding = openai.embeddings.create(
-            input=[query], 
-            model="text-embedding-ada-002"
-        ).data[0].embedding
-
-        query_vector = np.array(query_embedding, dtype=np.float32).reshape(1, -1)
+        query_embedding = embed_query_cached(query)
+        query_vector = query_embedding.reshape(1, -1)
         distances, indices = self.index.search(query_vector, top_n)
 
         retrieved_texts = [self.docs[i] for i in indices[0] if i < len(self.docs)]
